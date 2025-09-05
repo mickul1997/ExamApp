@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Full height layout ensures the root and body fill the window. */
+html,
+body,
+#root {
+  height: 100%;
+}
+
+/* Set a light background for the body.  The UI components will be drawn on
+   top of this. */
+body {
+  background: #f1f5f9; /* corresponds to Tailwind's slate-100 */
+}

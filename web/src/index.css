@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+/* App shell styles (lightweight) */
+:root {
+  --card: 255 255 255;
+}
+
+.card { background: #fff; border: 1px solid rgb(226 232 240); border-radius: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.06); transition: box-shadow .2s ease, transform .2s ease; }
+.card:hover { box-shadow: 0 12px 30px rgba(0,0,0,.10); transform: translateY(-1px); }
+
+.btn { display: inline-flex; align-items: center; justify-content: center; height: 2.5rem; padding: 0 1rem; border-radius: 0.75rem; font-weight: 600; transition: background-color .15s ease, color .15s ease, transform .05s ease; }
+.btn:active { transform: translateY(1px); }
+.btn-primary { background: #0f172a; color: #fff; }
+.btn-primary:hover { background: #111827; }
+.btn-secondary { background: #fff; border: 1px solid #cbd5e1; }
+.btn-secondary:hover { background: #f8fafc; }
+
+.input { width: 100%; height: 2.5rem; padding: 0 0.75rem; border-radius: 0.75rem; border: 1px solid #cbd5e1; }
+.input:focus { outline: none; box-shadow: 0 0 0 2px rgba(147, 197, 253, .6); }
+
+.chip { display: inline-flex; align-items: center; font-size: .75rem; border-radius: 9999px; padding: .125rem .5rem; background: #fef3c7; color: #92400e; }
+
+/* Simple animations */
+@keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
+.animate-fade { animation: fadeIn .25s ease-out both; }
+
+@keyframes slideUp { from { transform: translateY(8px); opacity: 0 } to { transform: none; opacity: 1 } }
+.animate-slide-up { animation: slideUp .30s ease-out both; }
+
+/* Result answer rows */
+.answer-row { padding: 6px 10px; border-radius: 10px; border: 1px solid #e2e8f0; margin: 4px 0; }
+.answer-correct { background: #ecfdf5; border-color: #86efac; color: #065f46; }
+.answer-wrong { background: #fef2f2; border-color: #fecaca; color: #991b1b; }
+.answer-missed { background: #fffbeb; border-color: #fde68a; color: #92400e; }
+.answer-neutral { background: #fff; border-color: #e2e8f0; color: #334155; }

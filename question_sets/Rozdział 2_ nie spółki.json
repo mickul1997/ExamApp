@@ -1,0 +1,728 @@
+{
+  "title": "Egzamin z prawa handlowego — Rozdział 2 §11 i §21",
+  "topic": "§11 Procesy transformacyjne w spółkach; §21 Instytucje not for profit",
+  "format": "wielokrotnego wyboru (multi-select)",
+  "instructions": "Zaznacz wszystkie prawidłowe odpowiedzi (może być więcej niż jedna). Pytania mają podwyższony poziom trudności i opierają się na rozdziale 2 podręcznika oraz KSH.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[§11] Dopuszczalność przekształceń — wskaż prawidłowe tezy.",
+      "options": {
+        "A": "Każda spółka handlowa może zostać przekształcona w inną spółkę handlową.",
+        "B": "Spółka handlowa może zostać przekształcona w spółkę cywilną.",
+        "C": "Spółka cywilna może zostać przekształcona w spółkę handlową w trybie KSH.",
+        "D": "Przekształcenie przy wykorzystaniu wzorca umowy jest dopuszczalne."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 551 §1–3 (zakaz przekształcenia w spółkę cywilną); Kidyba 2024, §11 Nb. 564."
+    },
+    {
+      "id": 2,
+      "question": "[§11] Dzień przekształcenia i jego skutki — wskaż prawidłowe.",
+      "options": {
+        "A": "Dzień przekształcenia to dzień wpisu spółki przekształconej do rejestru.",
+        "B": "Przekształcenie powoduje sukcesję uniwersalną jak przy połączeniu.",
+        "C": "W przekształceniu działa zasada kontynuacji podmiotowej (brak „następstwa”).",
+        "D": "Przekształcenie co do zasady wygasza koncesje i zezwolenia."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 552, art. 553 §1–2; Kidyba 2024, §11 Nb. 576."
+    },
+    {
+      "id": 3,
+      "question": "[§11] Połączenie spółek — wskaż prawidłowe.",
+      "options": {
+        "A": "Połączenie przez przejęcie polega na przeniesieniu całego majątku spółki przejmowanej na przejmującą za udziały/akcje dla wspólników spółki przejmowanej.",
+        "B": "W połączeniu przez zawiązanie nowej spółki udziały/akcje obejmują wyłącznie spółki łączące się, a nie ich wspólnicy.",
+        "C": "Dniem połączenia jest dzień wpisu połączenia do rejestru.",
+        "D": "Wykreślenie spółki przejmowanej może nastąpić przed zarejestrowaniem podwyższenia kapitału spółki przejmującej."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 492 §1 pkt 1–2; art. 493 §2; Kidyba 2024, §11 Nb. 510–511."
+    },
+    {
+      "id": 4,
+      "question": "[§11] Podział spółki — formy i skutki: zaznacz prawidłowe.",
+      "options": {
+        "A": "Podział przez wyodrębnienie polega na przeniesieniu części majątku za udziały/akcje obejmowane przez spółkę dzieloną.",
+        "B": "Przy podziale przez wyodrębnienie nie stosuje się m.in. art. 534 §1 pkt 2, 3–5 i 8 KSH.",
+        "C": "Podział przez wydzielenie powoduje zawsze rozwiązanie spółki dzielonej.",
+        "D": "Wydzielenie albo wyodrębnienie następuje co do zasady w dniu odpowiednio: wpisu nowej spółki albo wpisu podwyższenia kapitału spółki przejmującej."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 529 §1 pkt 5 i §2; art. 530 §2."
+    },
+    {
+      "id": 5,
+      "question": "[§11] Uchwały w sprawie podziału — większości i forma: wskaż prawidłowe.",
+      "options": {
+        "A": "Co do zasady uchwała w spółce dzielonej zapada większością 3/4 głosów przy kworum 50% kapitału.",
+        "B": "W spółce publicznej wymagana jest większość 2/3 głosów bez względu na kworum.",
+        "C": "W spółce komandytowo-akcyjnej wymagana jest zgoda wszystkich komplementariuszy oraz uchwała akcjonariuszy na poziomie co najmniej 3/4 kapitału.",
+        "D": "Uchwała nie wymaga protokołu notarialnego."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 541 §1 i §6; Kidyba 2024, §11 Nb. 546–550."
+    },
+    {
+      "id": 6,
+      "question": "[§11] Zaskarżenie uchwał o podziale po dniu podziału — zaznacz prawidłowe.",
+      "options": {
+        "A": "Powództwo (uchylenie/stwierdzenie nieważności) można wytoczyć jedynie przeciwko spółce przejmującej albo nowo zawiązanej.",
+        "B": "Termin na wniesienie powództwa wynosi 1 miesiąc.",
+        "C": "Uchwała nie może być zaskarżona z zastrzeżeń dotyczących wyłącznie stosunku wymiany udziałów (akcji), ale możliwe jest dochodzenie odszkodowania.",
+        "D": "Właściwy do rozpoznania jest wyłącznie sąd rejestrowy."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 544 §2; art. 541 §6; Kidyba 2024, §11 Nb. 546–550."
+    },
+    {
+      "id": 7,
+      "question": "[§11] Ochrona wierzycieli przy podziale krajowym — wskaż prawidłowe.",
+      "options": {
+        "A": "Wierzyciel może żądać zabezpieczenia, jeśli uprawdopodobni zagrożenie zaspokojenia roszczenia.",
+        "B": "Wniosek kieruje się do sądu właściwego według siedziby spółki dzielonej lub przejmującej.",
+        "C": "Uprawnienie powstaje dopiero po dniu podziału.",
+        "D": "O zabezpieczeniu orzeka sąd rejestrowy."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH przepisy o ochronie wierzycieli przy podziale; Kidyba 2024, §11 Nb. 546–550."
+    },
+    {
+      "id": 8,
+      "question": "[§11] Ochrona wierzycieli w połączeniu transgranicznym — zaznacz prawidłowe.",
+      "options": {
+        "A": "Wierzyciele spółki krajowej mogą żądać zabezpieczenia w terminie miesiąca od ujawnienia/udostępnienia planu połączenia transgranicznego.",
+        "B": "Powstanie sporu wstrzymuje wydanie zaświadczenia przez sąd rejestrowy o spełnieniu przesłanek połączenia transgranicznego.",
+        "C": "Gdy spółką przejmującą/nową jest spółka zagraniczna, nie stosuje się art. 495 i 496 KSH.",
+        "D": "O udzieleniu zabezpieczenia decyduje sąd rejestrowy."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 516(10) §2; wyłączenie art. 495–496, gdy przejmujący to spółka zagraniczna; Kidyba 2024, §11 Nb. 533–534."
+    },
+    {
+      "id": 9,
+      "question": "[§11] Podział transgraniczny — standard minimalny i prawo właściwe: zaznacz prawidłowe.",
+      "options": {
+        "A": "Do otrzymania zaświadczenia o zgodności podział podlega prawu państwa siedziby spółki dzielonej; po tym dniu — prawu państwa siedziby spółek nowo zawiązanych.",
+        "B": "Wspólny plan podziału transgranicznego musi zawierać elementy wskazane w art. 550(6) KSH.",
+        "C": "Opinia biegłego jest zawsze obowiązkowa, bez możliwości odstąpienia.",
+        "D": "Zatwierdzenie planu przez zgromadzenia wspólników jest co do zasady wymagane (z możliwością ustawowych odstępstw)."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 550(3), art. 550(6); Kidyba 2024, §11 Nb. 552–553."
+    },
+    {
+      "id": 10,
+      "question": "[§11] Dzień podziału, wydzielenia i wyodrębnienia — wskaż prawidłowe.",
+      "options": {
+        "A": "Dniem podziału jest dzień wykreślenia spółki dzielonej z rejestru.",
+        "B": "Reguła z lit. A nie dotyczy podziału przez wydzielenie oraz przez wyodrębnienie.",
+        "C": "W przypadku wydzielenia/wyodrębnienia do istniejącej spółki skutki następują w dniu wpisu podwyższenia kapitału tej spółki.",
+        "D": "Każdy rodzaj podziału skutkuje rozwiązaniem spółki dzielonej."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 530 §1–2."
+    },
+    {
+      "id": 11,
+      "question": "[§11] Kontynuacja vs sukcesja — odróżnienie przekształcenia od połączenia/podziału.",
+      "options": {
+        "A": "Przekształcenie opiera się na kontynuacji podmiotowej (brak następstwa prawnego).",
+        "B": "Połączenie i podział opierają się na sukcesji uniwersalnej.",
+        "C": "W przekształceniu prawa i obowiązki przysługują spółce przekształconej jako temu samemu podmiotowi ex lege.",
+        "D": "W przekształceniu wygasają prawa administracyjnoprawne."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 553; Kidyba 2024, §11 Nb. 576."
+    },
+    {
+      "id": 12,
+      "question": "[§11] Formy rozbioru spółki w podziale — wskaż prawidłowe.",
+      "options": {
+        "A": "Podział przez przejęcie i podział przez zawiązanie nowych spółek należą do tzw. rozbioru.",
+        "B": "Przy rozbiorze spółka dzielona przestaje istnieć.",
+        "C": "Podział przez wydzielenie stanowi rozbiór w rozumieniu KSH.",
+        "D": "Podział przez przejęcie i zawiązanie nowej spółki łączy oba typy rozbioru."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 529 §1 pkt 1–3; Kidyba 2024, §11 Nb. 538."
+    },
+    {
+      "id": 13,
+      "question": "[§11] Zakazy przy podziale — wybierz prawidłowe.",
+      "options": {
+        "A": "Spółka nie może obejmować własnych udziałów/akcji w ramach podziału.",
+        "B": "Zakaz obejmuje także nabycie przez osoby działające we własnym imieniu w ramach spółki.",
+        "C": "Postanowienie o ogłoszeniu upadłości stanowi ograniczenie podziału.",
+        "D": "Zakaz nie dotyczy spółki dzielonej, a jedynie przejmującej."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 550; Kidyba 2024, §11 Nb. 538 i nast."
+    },
+    {
+      "id": 14,
+      "question": "[§11] Dopłaty pieniężne przy podziale — wskaż prawidłowe.",
+      "options": {
+        "A": "Wspólnicy spółki dzielonej mogą otrzymać dopłaty w gotówce do 10% wartości właściwej spółki przejmującej/nowo zawiązanej.",
+        "B": "Spółka przejmująca może uzależnić przyznanie udziałów/akcji od wniesienia dopłat do wspólników.",
+        "C": "Dopłaty spółki przejmującej są dokonywane z kapitału zakładowego.",
+        "D": "Wartość referencyjna dopłaty jest określana według oświadczenia, o którym mowa w art. 534 §2 pkt 4 KSH."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 529 §3–4; art. 534 §2 pkt 4."
+    },
+    {
+      "id": 15,
+      "question": "[§11] Elementy planu podziału — prawidłowe wskazania.",
+      "options": {
+        "A": "Plan podziału musi zawierać m.in. firmę, formę prawną i siedzibę spółek uczestniczących oraz zasady przyznania udziałów/akcji.",
+        "B": "W podziale przez wyodrębnienie plan zawiera informację o liczbie i wartości udziałów/akcji obejmowanych przez spółkę dzieloną.",
+        "C": "Plan podziału nie musi obejmować opisu i podziału składników majątku.",
+        "D": "Plan podziału wymaga pisemnego uzgodnienia między spółką dzieloną a przejmującą (z wyjątkami dla zawiązania nowej spółki)."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 533–534."
+    },
+    {
+      "id": 16,
+      "question": "[§21] Instytucje not for profit — cechy ogólne: wskaż prawidłowe.",
+      "options": {
+        "A": "Podstawową cechą jest brak celu zarobkowego; działalność gospodarcza może mieć jedynie charakter akcesoryjny.",
+        "B": "Jeżeli przepisy nie zakazują działalności gospodarczej, jest ona co do zasady dopuszczalna.",
+        "C": "Instytucje non profit (w rozumieniu ścisłym) mają zakaz prowadzenia działalności gospodarczej.",
+        "D": "Każda instytucja not for profit musi być wpisana wyłącznie do rejestru przedsiębiorców."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "Kidyba 2024, §21 Uwagi ogólne."
+    },
+    {
+      "id": 17,
+      "question": "[§21] Rejestracja w KRS — wybierz prawidłowe.",
+      "options": {
+        "A": "Instytucje not for profit są wpisywane do rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz SPZOZ.",
+        "B": "W razie prowadzenia działalności gospodarczej następuje również wpis — pod tym samym numerem — do rejestru przedsiębiorców.",
+        "C": "Wpis do rejestru przedsiębiorców następuje tylko przy pierwotnym wpisie; wtórny wpis nie jest możliwy.",
+        "D": "Wpis do rejestru przedsiębiorców może nastąpić zarówno pierwotnie, jak i wtórnie (po rozpoczęciu działalności gospodarczej)."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "Kidyba 2024, §21 Uwagi ogólne."
+    },
+    {
+      "id": 18,
+      "question": "[§21] Fundacje — kwestia dopuszczalności działalności gospodarczej.",
+      "options": {
+        "A": "Fundacja może prowadzić działalność gospodarczą, jeśli przewiduje to statut.",
+        "B": "Prowadzenie działalności gospodarczej przez fundację zawsze wyklucza wpis do rejestru stowarzyszeń.",
+        "C": "Prowadzenie działalności gospodarczej przez fundację skutkuje obowiązkiem wpisu do rejestru przedsiębiorców.",
+        "D": "Brak wyraźnego zakazu w przepisach należy interpretować jako dopuszczalność działalności na zasadach ogólnych."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "Kidyba 2024, §21 (Fundacje)."
+    },
+    {
+      "id": 19,
+      "question": "[§21] Zakres wpisu do rejestru a numer KRS — zaznacz prawidłowe.",
+      "options": {
+        "A": "Wpis instytucji not for profit do rejestru przedsiębiorców następuje pod tym samym numerem KRS, co wpis do rejestru stowarzyszeń itp.",
+        "B": "Wpis do rejestru przedsiębiorców jest technicznie odrębnym numerem KRS.",
+        "C": "Wpis może być dokonany jednocześnie z pierwszym wpisem albo później, gdy rozpocznie się działalność gospodarcza.",
+        "D": "Wpis do rejestru przedsiębiorców nie jest możliwy dla fundacji."
+      },
+      "correct": ["A", "C"],
+      "basis": "Kidyba 2024, §21 Uwagi ogólne."
+    },
+    {
+      "id": 20,
+      "question": "[§21] Działalność gospodarcza instytucji not for profit — wybierz prawidłowe.",
+      "options": {
+        "A": "Działalność gospodarcza ma charakter akcesoryjny względem celu statutowego.",
+        "B": "Jeżeli przepisy milczą, przyjmuje się dopuszczalność prowadzenia działalności na zasadach ogólnych.",
+        "C": "Partie polityczne stanowią przykład instytucji non profit z ustawowym zakazem prowadzenia działalności gospodarczej.",
+        "D": "Prowadzenie działalności gospodarczej przez instytucję non profit zawsze wyłącza ją z KRS."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "Kidyba 2024, §21 Uwagi ogólne."
+    },
+    {
+      "id": 21,
+      "question": "[§21] Reżim rejestrowy a moment rozpoczęcia działalności — wskaż prawidłowe.",
+      "options": {
+        "A": "Wpis do rejestru przedsiębiorców może nastąpić wtórnie, po podjęciu działalności gospodarczej przez fundację.",
+        "B": "Brak jest możliwości wtórnego wpisu — dopuszczalny jest tylko wpis pierwotny.",
+        "C": "Wpis wtórny następuje w tym samym dziale KRS i pod tym samym numerem, co wpis pierwotny.",
+        "D": "Wpis wtórny skutkuje nadaniem nowego numeru KRS."
+      },
+      "correct": ["A", "C"],
+      "basis": "Kidyba 2024, §21 Uwagi ogólne."
+    },
+    {
+      "id": 22,
+      "question": "[§21] Cel statutowy a działalność gospodarcza — wybierz prawidłowe.",
+      "options": {
+        "A": "Działalność gospodarcza fundacji powinna służyć realizacji celów statutowych.",
+        "B": "Cele zarobkowe mogą być podstawowym celem fundacji not for profit.",
+        "C": "Naruszenie akcesoryjności działalności gospodarczej może prowadzić do interwencji organu nadzoru lub zmian statutu.",
+        "D": "Działalność gospodarcza nie ma wpływu na obowiązki rejestrowe fundacji."
+      },
+      "correct": ["A", "C"],
+      "basis": "Kidyba 2024, §21."
+    },
+    {
+      "id": 23,
+      "question": "[§21] Przedsiębiorcy a instytucje not for profit — prawidłowe tezy.",
+      "options": {
+        "A": "Instytucja not for profit prowadząca działalność gospodarczą staje się przedsiębiorcą i podlega wpisowi w rejestrze przedsiębiorców.",
+        "B": "Wpis do rejestru przedsiębiorców zmienia numer KRS instytucji.",
+        "C": "Brak wymogu likwidacji dotychczasowego wpisu przy rozszerzeniu o rejestr przedsiębiorców.",
+        "D": "Wpis w rejestrze przedsiębiorców może nastąpić bez zmian statutu/fundującego aktu, nawet gdy statut nie przewiduje działalności gospodarczej."
+      },
+      "correct": ["A", "C"],
+      "basis": "Kidyba 2024, §21 Uwagi ogólne."
+    },
+    {
+      "id": 24,
+      "question": "[§21] Odmienne reżimy a działalność gospodarcza — wybierz prawidłowe.",
+      "options": {
+        "A": "Podmioty not for profit prowadzące działalność gospodarczą podlegają równolegle reżimowi właściwemu dla tej działalności (np. rachunkowość).",
+        "B": "Prowadzenie działalności gospodarczej nie wpływa na konieczność ujawnienia danych w KRS.",
+        "C": "Wpis do rejestru przedsiębiorców może nastąpić na etapie pierwszego wpisu do KRS (pierwotnie).",
+        "D": "Wpis do rejestru przedsiębiorców nie może nastąpić wtórnie."
+      },
+      "correct": ["A", "C"],
+      "basis": "Kidyba 2024, §21 Uwagi ogólne."
+    },
+    {
+      "id": 25,
+      "question": "[§21] Zakres podmiotowy rejestru (dział stowarzyszeń) — wskaż prawidłowe.",
+      "options": {
+        "A": "Do działu rejestru stowarzyszeń KRS wpisuje się m.in. fundacje i stowarzyszenia.",
+        "B": "SPZOZ są wpisywane do działu rejestru stowarzyszeń KRS.",
+        "C": "Wpis do działu stowarzyszeń wyklucza jednoczesny wpis do rejestru przedsiębiorców.",
+        "D": "Podmioty z działu stowarzyszeń mogą równolegle figurować w rejestrze przedsiębiorców pod tym samym numerem."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "Kidyba 2024, §21 Uwagi ogólne."
+    },
+    {
+      "id": 26,
+      "question": "[§21] Not for profit vs non profit — rozróżnienie praktyczne.",
+      "options": {
+        "A": "„Not for profit” dopuszcza działalność gospodarczą, jeśli służy celom podstawowym.",
+        "B": "„Non profit” oznacza ustawowy zakaz działalności gospodarczej (np. partie polityczne).",
+        "C": "Oba pojęcia są synonimami i w polskim systemie nie występuje między nimi różnica.",
+        "D": "Dla kwalifikacji znaczenie ma przede wszystkim ratio legis przepisów ustrojowych."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "Kidyba 2024, §21 Uwagi ogólne."
+    },
+    {
+      "id": 27,
+      "question": "[§21] Rejestracja a moment rozpoczęcia działalności — wskaż prawidłowe.",
+      "options": {
+        "A": "Wpis do rejestru przedsiębiorców może nastąpić równolegle z pierwszym wpisem (pierwotnie).",
+        "B": "Wpis do rejestru przedsiębiorców może nastąpić dopiero po roku działalności statutowej.",
+        "C": "Wpis wtórny do rejestru przedsiębiorców jest dopuszczalny po decyzji o rozpoczęciu działalności gospodarczej.",
+        "D": "Wpis wtórny skutkuje zmianą numeru KRS na nowy."
+      },
+      "correct": ["A", "C"],
+      "basis": "Kidyba 2024, §21 Uwagi ogólne."
+    },
+    {
+      "id": 28,
+      "question": "[§21] Konsekwencje gospodarcze wpisu — wybierz prawidłowe.",
+      "options": {
+        "A": "Wpis do rejestru przedsiębiorców pod tym samym numerem KRS umożliwia wykonywanie działalności gospodarczej.",
+        "B": "Brak wpisu do rejestru przedsiębiorców wyklucza prowadzenie działalności gospodarczej przez fundację.",
+        "C": "Wpis do rejestru przedsiębiorców powoduje utratę statusu not for profit.",
+        "D": "Wpis do rejestru przedsiębiorców nie zmienia działu rejestrowego podstawowego wpisu."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "Kidyba 2024, §21 Uwagi ogólne."
+    },
+    {
+      "id": 29,
+      "question": "[§21] Likwidacja instytucji gospodarki budżetowej a sukcesja — zaznacz prawidłowe.",
+      "options": {
+        "A": "Likwidację przeprowadza organ wykonujący funkcje organu założycielskiego.",
+        "B": "Należności i zobowiązania likwidowanej instytucji przejmuje organ wykonujący funkcje organu założycielskiego.",
+        "C": "W przypadku przekształcenia należności i zobowiązania przejmuje utworzona jednostka.",
+        "D": "Łączenie instytucji gospodarki budżetowej jest niedopuszczalne."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "Kidyba 2024, Rozdz. 2 Nb. 713 (instytucje gospodarki budżetowej)."
+    },
+    {
+      "id": 30,
+      "question": "[§21] Podsumowanie rejestrowe — wskaż prawidłowe.",
+      "options": {
+        "A": "Instytucja not for profit prowadząca działalność gospodarczą widnieje w dwóch działach KRS pod tym samym numerem.",
+        "B": "Brak podstawy ustawowej oznacza zakaz prowadzenia działalności gospodarczej.",
+        "C": "Wpis do rejestru przedsiębiorców może być dokonany bezpośrednio albo po czasie (wtórnie).",
+        "D": "Wpis do rejestru przedsiębiorców wyklucza istnienie wpisu w dziale stowarzyszeń."
+      },
+      "correct": ["A", "C"],
+      "basis": "Kidyba 2024, §21 Uwagi ogólne."
+    },
+    {
+      "id": 31,
+      "question": "[§11] Łączenie — zakres dopuszczalności form (MSQ).",
+      "options": {
+        "A": "Spółki kapitałowe mogą łączyć się między sobą oraz ze spółkami osobowymi.",
+        "B": "Spółka osobowa może być spółką przejmującą.",
+        "C": "Spółka osobowa nie może być spółką nowo zawiązaną w wyniku połączenia.",
+        "D": "Spółki osobowe mogą łączyć się wyłącznie przez zawiązanie spółki kapitałowej."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "KSH art. 491 §1–2."
+    },
+    {
+      "id": 32,
+      "question": "[§11] Łączenie spółki w likwidacji (MSQ).",
+      "options": {
+        "A": "Dopuszczalne jest połączenie spółki w likwidacji, jeżeli nie rozpoczęto podziału majątku.",
+        "B": "Połączenie jest wykluczone w likwidacji zawsze i bez wyjątków.",
+        "C": "Rozpoczęcie podziału majątku czyni połączenie niedopuszczalnym.",
+        "D": "Połączenie w upadłości jest dopuszczalne bez zgody sądu upadłościowego."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 494 §4."
+    },
+    {
+      "id": 33,
+      "question": "[§11] Plan połączenia — elementy obligatoryjne (MSQ).",
+      "options": {
+        "A": "Stosunek wymiany udziałów/akcji oraz zasady przyznawania udziałów/akcji.",
+        "B": "Dzień, od którego udziały/akcje uprawniają do udziału w zysku.",
+        "C": "Prawa przyznane szczególnym uprawnionym w spółkach łączących się.",
+        "D": "Opis spodziewanych korzyści podatkowych dla członków zarządów."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 499 §1."
+    },
+    {
+      "id": 34,
+      "question": "[§11] Uproszczenia przy przejęciu spółki zależnej w 100% (MSQ).",
+      "options": {
+        "A": "Spółka przejmująca nie wydaje udziałów/akcji w zamian za majątek spółki przejmowanej.",
+        "B": "Można pominąć niektóre elementy planu połączenia przewidziane w art. 499 §1.",
+        "C": "Nie jest wymagana uchwała zgromadzenia spółki przejmującej.",
+        "D": "Badanie planu połączenia przez biegłego jest obowiązkowe."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 515 §1; art. 499 §2^1; art. 516 §6."
+    },
+    {
+      "id": 35,
+      "question": "[§11] Prawa pracownicze i informacyjne przy połączeniu/podziale (MSQ).",
+      "options": {
+        "A": "Plan połączenia/podziału podlega udostępnieniu wspólnikom/akcjonariuszom oraz pracownikom lub ich przedstawicielom.",
+        "B": "Sprawozdanie zarządu powinno omawiać wpływ operacji na zatrudnienie.",
+        "C": "Brak obowiązku informacyjnego wobec pracowników w procedurach transgranicznych.",
+        "D": "Udział przedstawicieli pracowników może wynikać z przepisów szczególnych."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 500, 501 oraz przepisy o transgranicznych łączeniach; Kidyba 2024, §11 (omówienie)."
+    },
+    {
+      "id": 36,
+      "question": "[§11] Podział — odpowiedzialność solidar­na spółek uczestniczących (MSQ).",
+      "options": {
+        "A": "Spółki uczestniczące w podziale odpowiadają solidarnie za zobowiązania spółki dzielonej istniejące przed dniem podziału w granicach przypisanych im w planie podziału.",
+        "B": "Solidarna odpowiedzialność nie obejmuje zobowiązań podatkowych.",
+        "C": "Zakres odpowiedzialności ogranicza się do wartości aktywów przypisanych w planie podziału.",
+        "D": "Odpowiedzialność solidarna obejmuje również zobowiązania sporne."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "KSH art. 531 §1–2."
+    },
+    {
+      "id": 37,
+      "question": "[§11] Podział — wyodrębnienie vs wydzielenie (MSQ).",
+      "options": {
+        "A": "W obu przypadkach spółka dzielona nie ulega rozwiązaniu.",
+        "B": "W wyodrębnieniu udziały/akcje obejmuje spółka dzielona, a nie jej wspólnicy.",
+        "C": "W wydzieleniu udziały/akcje obejmują wspólnicy spółki dzielonej.",
+        "D": "Oba tryby zawsze wymagają zawiązania nowej spółki."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 529 §1 pkt 4–5."
+    },
+    {
+      "id": 38,
+      "question": "[§11] Przekształcenie — odpowiedzialność wspólników spółki osobowej (MSQ).",
+      "options": {
+        "A": "Wspólnicy spółki osobowej przekształcanej odpowiadają solidarnie ze spółką przekształconą za zobowiązania powstałe przed dniem przekształcenia przez 3 lata.",
+        "B": "Odpowiedzialność ta liczona jest od dnia ogłoszenia o przekształceniu.",
+        "C": "Zakres odpowiedzialności zależy od rodzaju odpowiedzialności przed przekształceniem.",
+        "D": "Odpowiedzialność ta nie dotyczy zobowiązań wynikających z czynów niedozwolonych."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 574 §1–2."
+    },
+    {
+      "id": 39,
+      "question": "[§11] Przekształcenie przedsiębiorcy (osoby fizycznej) w spółkę kapitałową (MSQ).",
+      "options": {
+        "A": "Dopuszczalne jest przekształcenie przedsiębiorcy w spółkę kapitałową z zachowaniem ciągłości praw i obowiązków przedsiębiorstwa.",
+        "B": "Wymagane jest sporządzenie planu przekształcenia i sprawozdania finansowego.",
+        "C": "Przekształcenie osoby fizycznej w spółkę osobową jest dopuszczalne wprost w KSH.",
+        "D": "Dniem przekształcenia jest dzień wpisu spółki do rejestru."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 551 §5–6; art. 584(1)–584(13) (przepisy o przekształceniu przedsiębiorcy)."
+    },
+    {
+      "id": 40,
+      "question": "[§11] Przekształcenie — plan i jego załączniki (MSQ).",
+      "options": {
+        "A": "Plan przekształcenia wymaga opinii biegłego rewidenta w przypadkach wskazanych ustawą.",
+        "B": "Załącznikami są m.in. projekt umowy/statutu spółki przekształconej oraz wycena składników majątku.",
+        "C": "Sprawozdanie finansowe sporządza się na określony dzień w miesiącu poprzedzającym plan.",
+        "D": "Sprawozdanie zarządu nie jest wymagane przy przekształceniu spółki osobowej w kapitałową."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 558–561."
+    },
+    {
+      "id": 41,
+      "question": "[§11] Połączenie odwrotne (reverse merger) — dopuszczalność (MSQ).",
+      "options": {
+        "A": "Dopuszczalne jest przejęcie spółki dominującej przez jej spółkę zależną, o ile spełnione są przesłanki ustawowe.",
+        "B": "Wymaga to wydania udziałów/akcji własnych spółce dominującej.",
+        "C": "Zakaz dotyczy wyłącznie spółek publicznych.",
+        "D": "W reverse merger mogą mieć zastosowanie uproszczenia z art. 515, jeżeli występuje 100% udziałów."
+      },
+      "correct": ["A", "D"],
+      "basis": "KSH art. 492 i nast.; art. 515; Kidyba 2024, §11 (pojęcie połączenia odwrotnego)."
+    },
+    {
+      "id": 42,
+      "question": "[§11] Zgody organów przy połączeniu/podziale (MSQ).",
+      "options": {
+        "A": "Czynności rozporządzające przedsiębiorstwem wymagają co do zasady uchwał zgromadzeń (WZ/Zgromadzenie wspólników).",
+        "B": "W SKA konieczna jest dodatkowo zgoda wszystkich komplementariuszy na czynności z art. 146 §1.",
+        "C": "W spółce przejmującej uchwała może nie być wymagana w razie 100% udziału — art. 516 §6.",
+        "D": "Rada nadzorcza samodzielnie może zatwierdzić plan połączenia."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 493, 516 §6; w SKA art. 146 §1–2."
+    },
+    {
+      "id": 43,
+      "question": "[§11] Ochrona wspólników mniejszościowych — dopłaty i ekwiwalenty (MSQ).",
+      "options": {
+        "A": "Dopłata pieniężna nie może przekraczać 10% wartości udziałów/akcji przyznawanych w ramach podziału.",
+        "B": "W połączeniach dopłata pieniężna jest co do zasady dopuszczalna w granicach ustawowych.",
+        "C": "Brak jakichkolwiek ograniczeń co do wysokości dopłat.",
+        "D": "Dopłaty mogą rekompensować ułamkowe udziały/akcje."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 499 §2; art. 529 §3."
+    },
+    {
+      "id": 44,
+      "question": "[§11] Podział — plan i dokumenty dla wspólników (MSQ).",
+      "options": {
+        "A": "Spółka udostępnia plan podziału wraz z załącznikami przez okres ustawowy przed zgromadzeniem.",
+        "B": "Wspólnicy mają prawo żądać odpisów bezpłatnie.",
+        "C": "Brak obowiązku udostępniania sprawozdania zarządu.",
+        "D": "Możliwe są odstępstwa w przypadku spółek jednoosobowych."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 540–541; art. 516 §5–6 (odstępstwa)."
+    },
+    {
+      "id": 45,
+      "question": "[§11] Rejestracja połączenia a podwyższenie kapitału (MSQ).",
+      "options": {
+        "A": "W połączeniu przez przejęcie wpis podwyższenia kapitału spółki przejmującej następuje z dniem połączenia.",
+        "B": "Wpis połączenia nie wywołuje skutków bez wpisu podwyższenia kapitału.",
+        "C": "Dzień połączenia to dzień wpisu połączenia przez sąd rejestrowy spółki przejmującej.",
+        "D": "Wykreślenie spółki przejmowanej następuje z urzędu przez sąd rejestrowy."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "KSH art. 493 §2."
+    },
+    {
+      "id": 46,
+      "question": "[§21] Stowarzyszenia — wpis i zdolność do działalności gospodarczej (MSQ).",
+      "options": {
+        "A": "Stowarzyszenie rejestrowe podlega wpisowi do KRS w dziale stowarzyszeń.",
+        "B": "Prowadzenie działalności gospodarczej wymaga równoległego wpisu do rejestru przedsiębiorców pod tym samym numerem.",
+        "C": "Stowarzyszenie zwykłe wpisywane jest do KRS na zasadach ogólnych.",
+        "D": "Brak wpisu do rejestru przedsiębiorców wyklucza prowadzenie działalności gospodarczej."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "Kidyba 2024, §21 (stowarzyszenia)."
+    },
+    {
+      "id": 47,
+      "question": "[§21] Fundacja — majątek i cel a działalność gospodarcza (MSQ).",
+      "options": {
+        "A": "Fundator określa cel w statucie; działalność gospodarcza musi być akcesoryjna wobec celu.",
+        "B": "Dopuszczalne jest przeznaczanie całego dochodu z działalności gospodarczej na cele statutowe.",
+        "C": "Brak możliwości prowadzenia działalności gospodarczej nawet przy wyraźnym postanowieniu statutu.",
+        "D": "Wpis do rejestru przedsiębiorców nie zmienia numeru KRS fundacji."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "Kidyba 2024, §21 (fundacje — cel i majątek)."
+    },
+    {
+      "id": 48,
+      "question": "[§21] Organizacje pracodawców i izby gospodarcze — status rejestrowy (MSQ).",
+      "options": {
+        "A": "Podlegają wpisowi do KRS w dziale stowarzyszeń i organizacji społecznych.",
+        "B": "Mogą prowadzić działalność gospodarczą w zakresie dopuszczonym przepisami i statutem.",
+        "C": "Nie mogą być wpisane do rejestru przedsiębiorców.",
+        "D": "Wpis do rejestru przedsiębiorców następuje pod tym samym numerem KRS."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "Kidyba 2024, §21 (organizacje pracodawców, izby)."
+    },
+    {
+      "id": 49,
+      "question": "[§21] SPZOZ — wpis i gospodarka finansowa (MSQ).",
+      "options": {
+        "A": "SPZOZ wpisuje się do działu stowarzyszeń, fundacji i SPZOZ w KRS.",
+        "B": "SPZOZ może wykonywać działalność gospodarczą w zakresie niezbędnym do realizacji zadań statutowych.",
+        "C": "Wpis do rejestru przedsiębiorców jest niedopuszczalny dla SPZOZ.",
+        "D": "SPZOZ może równolegle figurować w rejestrze przedsiębiorców pod tym samym numerem KRS, jeśli prowadzi działalność gospodarczą."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "Kidyba 2024, §21 (SPZOZ)."
+    },
+    {
+      "id": 50,
+      "question": "[§21] Kościoły i związki wyznaniowe — działalność gospodarcza (MSQ).",
+      "options": {
+        "A": "Mogą prowadzić działalność gospodarczą przez swoje osoby prawne, jeżeli przepisy szczególne na to zezwalają.",
+        "B": "Zawsze są wpisywane do KRS w dziale stowarzyszeń.",
+        "C": "Wpis do rejestru przedsiębiorców jest możliwy pod tym samym numerem KRS.",
+        "D": "Działalność gospodarcza nie może być celem podstawowym."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "Kidyba 2024, §21 (jednostki kościelne – przedsiębiorcy)."
+    },
+    {
+      "id": 51,
+      "question": "[§21] Organizacje pożytku publicznego (OPP) — reżim (MSQ).",
+      "options": {
+        "A": "Status OPP nie wyklucza prowadzenia działalności gospodarczej, o ile spełnione są wymogi ustawy o działalności pożytku publicznego.",
+        "B": "OPP zawsze działają wyłącznie poza KRS.",
+        "C": "OPP może być fundacją lub stowarzyszeniem.",
+        "D": "Wpis do rejestru przedsiębiorców jest dopuszczalny przy działalności gospodarczej."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "Kidyba 2024, §21 (OPP)."
+    },
+    {
+      "id": 52,
+      "question": "[§21] Nadzór nad fundacjami i stowarzyszeniami (MSQ).",
+      "options": {
+        "A": "Organ nadzoru może żądać wyjaśnień i dokumentów.",
+        "B": "Nadzór nie obejmuje działalności gospodarczej prowadzonej na cele statutowe.",
+        "C": "Naruszenia mogą skutkować wezwaniem do usunięcia nieprawidłowości lub wnioskiem o zmianę statutu.",
+        "D": "Nadzór może skutkować rozwiązaniem podmiotu w trybie sądowym w przypadkach przewidzianych prawem."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "Kidyba 2024, §21 (nadzór)."
+    },
+    {
+      "id": 53,
+      "question": "[§21] Przedsiębiorca a oddział organizacji non profit (MSQ).",
+      "options": {
+        "A": "Oddział zagranicznej organizacji non profit wykonującej działalność gospodarczą w Polsce wymaga wpisu do KRS.",
+        "B": "Oddział nie jest ujawniany w rejestrze przedsiębiorców.",
+        "C": "Oddział działa w zakresie przedmiotu działalności jednostki macierzystej.",
+        "D": "Wpis oddziału następuje pod nowym, odrębnym numerem KRS od jednostki macierzystej."
+      },
+      "correct": ["A", "C"],
+      "basis": "Kidyba 2024, §21 (oddziały — wpis)."
+    },
+    {
+      "id": 54,
+      "question": "[§21] Rachunkowość i sprawozdawczość (MSQ).",
+      "options": {
+        "A": "Podjęcie działalności gospodarczej rodzi obowiązki rachunkowe właściwe przedsiębiorcom.",
+        "B": "Podmioty nieprowadzące działalności gospodarczej nie podlegają żadnej sprawozdawczości.",
+        "C": "Fundacje mają obowiązki sprawozdawcze także bez działalności gospodarczej.",
+        "D": "OPP podlegają dodatkowym wymogom sprawozdawczym."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "Kidyba 2024, §21 (sprawozdawczość)."
+    },
+    {
+      "id": 55,
+      "question": "[§21] Zdolność do czynności prawnych i organy (MSQ).",
+      "options": {
+        "A": "Fundacja działa przez zarząd; statut może przewidywać inne organy.",
+        "B": "Stowarzyszenie działa przez zarząd i walne zgromadzenie członków; statut może ustanowić dodatkowe organy.",
+        "C": "Brak organów nie ma wpływu na skuteczność czynności prawnych.",
+        "D": "Organy mogą być jednocześnie organami nadzoru publicznego."
+      },
+      "correct": ["A", "B"],
+      "basis": "Kidyba 2024, §21 (organy)."
+    },
+    {
+      "id": 56,
+      "question": "[§21] Ograniczenia w prowadzeniu działalności gospodarczej (MSQ).",
+      "options": {
+        "A": "Zakres działalności gospodarczej powinien wynikać ze statutu i służyć celom statutowym.",
+        "B": "Działalność gospodarcza może mieć charakter dominujący.",
+        "C": "Naruszenie akcesoryjności może prowadzić do konsekwencji rejestrowych i nadzorczych.",
+        "D": "Brak wpisu do rejestru przedsiębiorców nie blokuje prowadzenia działalności gospodarczej."
+      },
+      "correct": ["A", "C"],
+      "basis": "Kidyba 2024, §21 (akcesoryjność działalności)."
+    },
+    {
+      "id": 57,
+      "question": "[§21] Połączenia i przekształcenia w sektorze not for profit (MSQ).",
+      "options": {
+        "A": "Połączenie stowarzyszeń jest dopuszczalne w reżimach szczególnych ustaw ustrojowych.",
+        "B": "Fundacja może być przekształcona w stowarzyszenie na zasadach przewidzianych w przepisach szczególnych.",
+        "C": "Przekształcenie not for profit w spółkę handlową następuje wprost na podstawie KSH.",
+        "D": "Operacje te mogą wywoływać obowiązki rejestrowe w KRS."
+      },
+      "correct": ["A", "D"],
+      "basis": "Kidyba 2024, §21 (transformacje w sektorze non profit — zarys)."
+    },
+    {
+      "id": 58,
+      "question": "[§21] Nazwa (firma) i oznaczenia (MSQ).",
+      "options": {
+        "A": "Fundacja i stowarzyszenie posługują się nazwą (nie „firmą” w sensie Kodeksu cywilnego).",
+        "B": "Dodanie skrótu formy prawnej jest dopuszczalne, gdy wynika z przepisów ustrojowych.",
+        "C": "Przedsiębiorca non profit w rejestrze przedsiębiorców posługuje się nazwą podmiotu wpisaną do KRS.",
+        "D": "Obowiązkowe jest posługiwanie się oznaczeniem „spółka” w nazwie fundacji prowadzącej działalność."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "Kidyba 2024, §21 (nazwa/oznaczenia)."
+    },
+    {
+      "id": 59,
+      "question": "[§21] Odpowiedzialność cywilnoprawna podmiotów not for profit (MSQ).",
+      "options": {
+        "A": "Podmioty te ponoszą odpowiedzialność za zobowiązania całym swoim majątkiem.",
+        "B": "Członkowie stowarzyszenia co do zasady nie odpowiadają za zobowiązania stowarzyszenia.",
+        "C": "Członkowie zarządu fundacji mogą ponosić odpowiedzialność odszkodowawczą wobec fundacji za naruszenie obowiązków.",
+        "D": "Członkowie organizacji zawsze odpowiadają solidarnie za jej zobowiązania."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "Kidyba 2024, §21 (odpowiedzialność)."
+    },
+    {
+      "id": 60,
+      "question": "[§21] Dostęp do informacji i jawność (MSQ).",
+      "options": {
+        "A": "KRS zapewnia jawność wpisów; każdy może przeglądać akta rejestrowe.",
+        "B": "Sprawozdania OPP są publicznie dostępne w rejestrach właściwych.",
+        "C": "Jawność KRS nie dotyczy podmiotów non profit.",
+        "D": "Wpis do KRS ma co do zasady charakter konstytutywny dla powstania stowarzyszenia rejestrowego i fundacji."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "Kidyba 2024, §21 (jawność rejestrowa; charakter wpisu)."
+    }
+  ]
+}

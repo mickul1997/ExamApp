@@ -1,0 +1,368 @@
+{
+  "title": "Egzamin z prawa handlowego",
+  "topic": "Rozdział 2 (obie części) podręcznika „Prawo handlowe” + Kodeks spółek handlowych – spółki osobowe i kapitałowe",
+  "format": "wielokrotnego wyboru (multi-select)",
+  "instructions": "Zaznacz wszystkie prawidłowe odpowiedzi (może być więcej niż jedna). Pytania mają podwyższony poziom trudności.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Spółka jawna – prowadzenie spraw: wskaż prawidłowe zasady (MSQ).",
+      "options": {
+        "A": "Każdy wspólnik może samodzielnie dokonywać czynności nieprzekraczających zwykłego zarządu.",
+        "B": "Czynności przekraczające zwykły zarząd wymagają zgody wszystkich wspólników uprawnionych do prowadzenia spraw.",
+        "C": "Sprzeciw innego wspólnika wobec czynności zwykłego zarządu powoduje konieczność uchwały wspólników.",
+        "D": "Umowa spółki nie może wyłączyć żadnego wspólnika od prowadzenia spraw spółki."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 39 §1–3; art. 40."
+    },
+    {
+      "id": 2,
+      "question": "Spółka jawna – prokura: które twierdzenia są prawidłowe?",
+      "options": {
+        "A": "Ustanowienie prokury wymaga zgody wszystkich wspólników mających prawo prowadzenia spraw spółki.",
+        "B": "Każdy wspólnik może samodzielnie ustanowić prokurę bez zgody pozostałych.",
+        "C": "Odwołanie prokury wymaga jednomyślnej uchwały wspólników.",
+        "D": "Prokura może być odwołana przez każdego wspólnika mającego prawo prowadzenia spraw."
+      },
+      "correct": ["A", "D"],
+      "basis": "KSH art. 41 §1–2."
+    },
+    {
+      "id": 3,
+      "question": "Spółka partnerska – zarząd i reprezentacja (MSQ).",
+      "options": {
+        "A": "Ustanowienie zarządu jest dopuszczalne, jeżeli przewiduje to umowa spółki.",
+        "B": "Po ustanowieniu zarządu stosuje się odpowiednio przepisy o zarządzie spółki z o.o.",
+        "C": "Partner nie może być członkiem zarządu spółki partnerskiej.",
+        "D": "Ustanowienie zarządu jest obowiązkowe, gdy liczba partnerów przekracza 25."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 97 §1–3."
+    },
+    {
+      "id": 4,
+      "question": "Spółka komandytowa – reprezentacja komandytariusza.",
+      "options": {
+        "A": "Komandytariusz co do zasady nie ma prawa reprezentować spółki.",
+        "B": "Komandytariusz może reprezentować spółkę jako pełnomocnik lub prokurent na podstawie umocowania.",
+        "C": "Dokonanie czynności w imieniu spółki przez komandytariusza bez umocowania może skutkować jego nieograniczoną odpowiedzialnością jak komplementariusza.",
+        "D": "Komandytariusz może bez pełnomocnictwa reprezentować spółkę w sprawach nagłych."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 117–118."
+    },
+    {
+      "id": 5,
+      "question": "Spółka komandytowa – suma komandytowa i firma spółki.",
+      "options": {
+        "A": "Komandytariusz odpowiada wobec wierzycieli do wysokości sumy komandytowej pomniejszonej o wartość wniesionego wkładu.",
+        "B": "Umieszczenie nazwiska komandytariusza w firmie spółki nie ma wpływu na jego odpowiedzialność.",
+        "C": "Umieszczenie nazwiska komandytariusza w firmie powoduje jego odpowiedzialność wobec osób trzecich jak komplementariusza.",
+        "D": "Suma komandytowa nie może być zmieniona po wpisie spółki do rejestru."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 104 §4; art. 112 §1."
+    },
+    {
+      "id": 6,
+      "question": "Spółka komandytowo-akcyjna – czynności wymagające podwójnej zgody.",
+      "options": {
+        "A": "Rozporządzenie przedsiębiorstwem spółki wymaga zgody wszystkich komplementariuszy oraz uchwały walnego zgromadzenia.",
+        "B": "Oddanie przedsiębiorstwa do czasowego korzystania (np. dzierżawa) wymaga zgody wszystkich komplementariuszy oraz uchwały walnego zgromadzenia.",
+        "C": "Podwyższenie kapitału zakładowego wymaga wyłącznie uchwały walnego zgromadzenia, bez udziału komplementariuszy.",
+        "D": "Zbycie nieruchomości wymaga jedynie zgody komplementariuszy."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 146 §1–2."
+    },
+    {
+      "id": 7,
+      "question": "Spółka z o.o. – nabywanie własnych udziałów.",
+      "options": {
+        "A": "Co do zasady spółka z o.o. nie może nabywać własnych udziałów.",
+        "B": "Nabycie własnych udziałów przez spółkę z o.o. jest zawsze dopuszczalne, jeśli wspólnicy tak postanowią w uchwale.",
+        "C": "Wyjątkiem jest nabycie własnych udziałów w przypadkach przewidzianych ustawą, w szczególności w celu ich umorzenia.",
+        "D": "Nabycie własnych udziałów jest nieważne, ale wspólnicy ponoszą solidarną odpowiedzialność za ich wartość."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 200 §1; art. 199."
+    },
+    {
+      "id": 8,
+      "question": "Spółka z o.o. – pokrycie kapitału przed rejestracją.",
+      "options": {
+        "A": "Kapitał zakładowy powinien być pokryty w całości przed zgłoszeniem spółki do rejestru.",
+        "B": "Wystarczy wpłacić 25% kapitału przed rejestracją, resztę można dopłacić po wpisie.",
+        "C": "Wkłady niepieniężne muszą być wniesione w całości przed rejestracją.",
+        "D": "Wkłady pieniężne na udziały mogą być wpłacone w ciągu roku po rejestracji."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 163 §1 pkt 2; art. 158."
+    },
+    {
+      "id": 9,
+      "question": "Spółka z o.o. – reprezentacja przy czynnościach z członkiem zarządu.",
+      "options": {
+        "A": "W umowie między spółką a członkiem zarządu spółkę reprezentuje rada nadzorcza albo pełnomocnik powołany uchwałą zgromadzenia wspólników.",
+        "B": "W każdej czynności z członkiem zarządu wymagana jest forma aktu notarialnego.",
+        "C": "W spółce jednoosobowej reprezentacja przy czynnościach z członkiem zarządu następuje przez pełnomocnika powołanego uchwałą jedynego wspólnika.",
+        "D": "Naruszenie zasad reprezentacji z art. 210 KSH nie wpływa na ważność czynności prawnej."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 210 §1–2."
+    },
+    {
+      "id": 10,
+      "question": "Spółka akcyjna – pokrycie akcji przed rejestracją.",
+      "options": {
+        "A": "Przed rejestracją należy wnieść co najmniej 1/4 wartości nominalnej obejmowanych akcji pieniężnych oraz całe agio.",
+        "B": "Przed rejestracją wszystkie wkłady pieniężne i niepieniężne muszą być wniesione w 100% bez wyjątku.",
+        "C": "Wkłady niepieniężne na akcje muszą być wniesione w całości najpóźniej do dnia rejestracji.",
+        "D": "Dopuszczalne jest obejmowanie akcji w zamian za świadczenie pracy lub usług."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 309 §3; art. 14 §1."
+    },
+    {
+      "id": 11,
+      "question": "Spółka akcyjna – prawo poboru (prawo pierwszeństwa).",
+      "options": {
+        "A": "Dotychczasowym akcjonariuszom przysługuje ustawowe prawo poboru nowych akcji.",
+        "B": "Pozbawienie prawa poboru jest niedopuszczalne.",
+        "C": "Pozbawienie prawa poboru może nastąpić uchwałą walnego zgromadzenia podjętą większością 4/5 głosów po przedstawieniu uzasadnienia przez zarząd (zaopiniowanego przez radę nadzorczą).",
+        "D": "Pozbawienie prawa poboru może nastąpić w drodze uchwały rady nadzorczej."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 433 §1–2 i §5."
+    },
+    {
+      "id": 12,
+      "question": "Dematerializacja akcji – skutki po 1.03.2021 r.",
+      "options": {
+        "A": "Spółka akcyjna i SKA nie wydają dokumentów akcji; prawa z akcji wynikają z wpisu w rejestrze akcjonariuszy lub z zapisów w depozycie papierów wartościowych.",
+        "B": "Dematerializacja dotyczy wyłącznie spółek publicznych.",
+        "C": "Zbycie akcji następuje skutecznie dopiero po wpisie nabywcy do rejestru akcjonariuszy (lub odpowiednim zapisie w depozycie).",
+        "D": "Po dematerializacji nie ma obowiązku prowadzenia rejestru akcjonariuszy."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 328^1–328^6."
+    },
+    {
+      "id": 13,
+      "question": "Prosta spółka akcyjna (P.S.A.) – kapitał i wkłady.",
+      "options": {
+        "A": "Akcje P.S.A. nie mają wartości nominalnej.",
+        "B": "Na pokrycie akcji w P.S.A. mogą być wnoszone wkłady w postaci świadczenia pracy lub usług.",
+        "C": "Minimalny kapitał akcyjny P.S.A. wynosi 100 000 zł.",
+        "D": "Wypłaty na rzecz akcjonariuszy są dopuszczalne nie tylko w formie dywidendy, o ile spełniony jest test wypłacalności."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 300^1 §2; art. 300^2 §2–3; art. 300^15."
+    },
+    {
+      "id": 14,
+      "question": "Prosta spółka akcyjna – system organów.",
+      "options": {
+        "A": "W P.S.A. dopuszczalny jest system dualistyczny albo monistyczny.",
+        "B": "Rada dyrektorów w systemie monistycznym łączy funkcje zarządcze i nadzorcze.",
+        "C": "Rada nadzorcza jest organem obligatoryjnym w każdej P.S.A.",
+        "D": "W P.S.A. nie można powołać rady dyrektorów."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 300^26; art. 300^73 §1."
+    },
+    {
+      "id": 15,
+      "question": "Łączenie – przejęcie spółki zależnej w 100% (uproszczenia).",
+      "options": {
+        "A": "Spółka przejmująca nie wydaje udziałów/akcji w zamian za majątek spółki przejmowanej.",
+        "B": "Plan połączenia może pominąć stosunek wymiany udziałów/akcji oraz zasady przyznawania udziałów/akcji.",
+        "C": "Badanie planu połączenia przez biegłego jest zawsze obowiązkowe.",
+        "D": "Walne/zgromadzenie spółki przejmującej zawsze musi wyrazić zgodę na połączenie."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 515 §1; art. 499 §2^1; art. 516 §6."
+    },
+    {
+      "id": 16,
+      "question": "Podział spółek kapitałowych – formy i wymogi (MSQ).",
+      "options": {
+        "A": "Podział przez wydzielenie powoduje sukcesję uniwersalną częściową praw i obowiązków.",
+        "B": "Spółki osobowe mogą być dzielone w trybie przepisów o podziale spółek.",
+        "C": "Przedmiotem podziału może być zorganizowana część przedsiębiorstwa.",
+        "D": "Co do zasady wymagane jest sporządzenie planu podziału."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "KSH art. 529 §1 (w tym pkt 4); art. 531; art. 533."
+    },
+    {
+      "id": 17,
+      "question": "Przekształcenie spółek – skutki (MSQ).",
+      "options": {
+        "A": "Wspólnicy spółki przekształcanej stają się z mocy prawa wspólnikami spółki przekształconej.",
+        "B": "Spółka przekształcona wstępuje we wszystkie prawa i obowiązki spółki przekształcanej.",
+        "C": "Do ważności przekształcenia zawsze wymagana jest zgoda wszystkich wspólników bez wyjątków.",
+        "D": "Przekształcenie powoduje utratę tożsamości prawnej i brak ciągłości umów spółki."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 553 §1–2."
+    },
+    {
+      "id": 18,
+      "question": "Grupa spółek (prawo holdingowe) – podstawowe założenia.",
+      "options": {
+        "A": "Uczestnictwo w grupie spółek wymaga uchwał spółki dominującej i zależnej oraz ujawnienia w KRS.",
+        "B": "Spółka dominująca może wydawać spółce zależnej wiążące polecenia w interesie grupy.",
+        "C": "Grupa spółek jest dopuszczalna wyłącznie w spółkach publicznych.",
+        "D": "Spółka dominująca może ponosić odpowiedzialność odszkodowawczą za szkodę wyrządzoną wykonaniem wiążącego polecenia."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 21^1–21^15."
+    },
+    {
+      "id": 19,
+      "question": "Spółka z o.o. – tryby podejmowania uchwał.",
+      "options": {
+        "A": "Udział w zgromadzeniu przy wykorzystaniu środków komunikacji elektronicznej jest dopuszczalny, jeżeli umowa spółki tego nie wyłącza.",
+        "B": "W spółce z o.o. nie można odbyć zgromadzenia bez formalnego zwołania.",
+        "C": "Uchwały mogą być powzięte bez formalnego zwołania, jeżeli cały kapitał zakładowy jest reprezentowany i nikt nie sprzeciwia się odbyciu zgromadzenia ani porządkowi obrad.",
+        "D": "Oddanie głosu na piśmie jest niedopuszczalne w spółce z o.o."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 234^1 §1; art. 240."
+    },
+    {
+      "id": 20,
+      "question": "Spółka z o.o. – prawo indywidualnej kontroli wspólnika.",
+      "options": {
+        "A": "Wspólnik ma prawo przeglądać księgi i dokumenty spółki oraz żądać wyjaśnień od zarządu.",
+        "B": "Odmowa informacji przez zarząd jest ostateczna – brak środka zaskarżenia.",
+        "C": "Wspólnik może zaskarżyć odmowę do sądu rejestrowego.",
+        "D": "Prawo to może zostać wyłączone w umowie spółki."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 212 §1–5."
+    },
+    {
+      "id": 21,
+      "question": "Spółka akcyjna – reprezentacja przy zarządzie wieloosobowym.",
+      "options": {
+        "A": "Jeżeli statut nie stanowi inaczej, spółkę reprezentuje dwóch członków zarządu albo jeden członek zarządu łącznie z prokurentem.",
+        "B": "Każdy członek zarządu zawsze może reprezentować spółkę samodzielnie.",
+        "C": "Statut nie może modyfikować zasad reprezentacji.",
+        "D": "Rada nadzorcza współreprezentuje spółkę wraz z członkiem zarządu."
+      },
+      "correct": ["A"],
+      "basis": "KSH art. 373 §1."
+    },
+    {
+      "id": 22,
+      "question": "Spółka akcyjna – kompetencje rady nadzorczej.",
+      "options": {
+        "A": "Rada nadzorcza sprawuje stały nadzór nad działalnością spółki we wszystkich dziedzinach.",
+        "B": "Rada nadzorcza może wydawać zarządowi wiążące polecenia w zakresie prowadzenia spraw spółki.",
+        "C": "Rada nadzorcza może zawieszać w czynnościach członków zarządu.",
+        "D": "W umowie z członkiem zarządu spółkę reprezentuje rada nadzorcza."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "KSH art. 382 §1; art. 383 §1; art. 379 §1."
+    },
+    {
+      "id": 23,
+      "question": "P.S.A. – rejestr akcjonariuszy i zbycie akcji.",
+      "options": {
+        "A": "Rejestr akcjonariuszy P.S.A. prowadzi podmiot uprawniony (m.in. dom maklerski, bank powierniczy) albo notariusz.",
+        "B": "P.S.A. wydaje dokumenty akcji na żądanie akcjonariuszy.",
+        "C": "Skuteczność zbycia akcji następuje z chwilą wpisu do rejestru akcjonariuszy.",
+        "D": "Rejestr akcjonariuszy jest jawny dla każdego zainteresowanego."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 300^38–300^39."
+    },
+    {
+      "id": 24,
+      "question": "Spółka z o.o. – zbywanie udziałów.",
+      "options": {
+        "A": "Zbycie udziału wymaga formy pisemnej z podpisami notarialnie poświadczonymi.",
+        "B": "Umowa spółki nie może ograniczyć zbywalności udziałów.",
+        "C": "Umowa spółki może uzależnić zbycie udziału od zgody spółki.",
+        "D": "Skuteczność przeniesienia udziału zależy od wpisu do KRS (wpis ma charakter konstytutywny)."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 180 §1; art. 182 §1."
+    },
+    {
+      "id": 25,
+      "question": "Spółka akcyjna – uprzywilejowanie akcji co do głosu.",
+      "options": {
+        "A": "Akcja uprzywilejowana co do głosu nie może dawać więcej niż dwa głosy na jedną akcję.",
+        "B": "Akcje uprzywilejowane co do głosu mogą być na okaziciela.",
+        "C": "W spółce publicznej uprzywilejowanie co do głosu jest zawsze niedopuszczalne.",
+        "D": "Uprzywilejowanie co do głosu ustala statut."
+      },
+      "correct": ["A", "D"],
+      "basis": "KSH art. 351 §1–2."
+    },
+    {
+      "id": 26,
+      "question": "Spółka akcyjna – nabywanie akcji własnych.",
+      "options": {
+        "A": "Co do zasady spółka akcyjna nie może nabywać akcji własnych, z wyjątkiem przypadków wskazanych w ustawie.",
+        "B": "Walne zgromadzenie nie może upoważnić zarządu do nabywania akcji własnych.",
+        "C": "Łączna wartość nominalna akcji własnych nie może przekraczać 20% kapitału zakładowego.",
+        "D": "Nabycie akcji własnych jest dopuszczalne wyłącznie w celu ich umorzenia."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 362 §1–2."
+    },
+    {
+      "id": 27,
+      "question": "Spółka z o.o. – likwidacja (MSQ).",
+      "options": {
+        "A": "Otwarcie likwidacji następuje z dniem zaistnienia przyczyny rozwiązania, w szczególności podjęcia uchwały o rozwiązaniu.",
+        "B": "Likwidatorami są co do zasady członkowie zarządu, chyba że umowa spółki lub uchwała stanowi inaczej.",
+        "C": "Do firmy spółki w likwidacji dodaje się oznaczenie „w likwidacji”.",
+        "D": "Podział majątku między wspólników może nastąpić niezwłocznie po otwarciu likwidacji, bez szczególnych ograniczeń czasowych."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 274 §1; art. 276; art. 279; art. 286 §1."
+    },
+    {
+      "id": 28,
+      "question": "Spółka jawna – likwidacja (MSQ).",
+      "options": {
+        "A": "Likwidatorami są co do zasady wszyscy wspólnicy, chyba że umowa spółki lub uchwała stanowi inaczej.",
+        "B": "O otwarciu likwidacji należy ogłosić i wezwać wierzycieli.",
+        "C": "Likwidatorów zawsze wyznacza sąd rejestrowy.",
+        "D": "W okresie likwidacji nie można zbywać składników majątku spółki."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 70 §1; art. 77."
+    },
+    {
+      "id": 29,
+      "question": "Spółka z o.o. – umorzenie udziałów.",
+      "options": {
+        "A": "Umorzenie udziałów wymaga podstawy w umowie spółki.",
+        "B": "Umorzenie przymusowe wymaga uchwały zgromadzenia wspólników oraz podstaw przewidzianych w umowie spółki.",
+        "C": "Umorzenie może nastąpić bez obniżenia kapitału zakładowego – z czystego zysku.",
+        "D": "Umorzenie przymusowe zawsze wymaga zatwierdzenia przez sąd rejestrowy."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 199 §1–7."
+    },
+    {
+      "id": 30,
+      "question": "Spółka akcyjna (niepubliczna) – przymusowy wykup (squeeze-out) akcjonariuszy mniejszościowych.",
+      "options": {
+        "A": "Akcjonariusze większościowi posiadający łącznie co najmniej 95% kapitału zakładowego mogą żądać wykupu akcji pozostałych akcjonariuszy.",
+        "B": "Do przymusowego wykupu niezbędna jest uchwała walnego zgromadzenia.",
+        "C": "Przymusowy wykup jest dopuszczalny tylko w spółkach publicznych.",
+        "D": "Przymusowy wykup może być dokonany wyłącznie przez jednego akcjonariusza posiadającego 95% kapitału."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 418 §1–2."
+    }
+  ]
+}
