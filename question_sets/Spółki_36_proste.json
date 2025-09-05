@@ -1,0 +1,440 @@
+{
+  "title": "Egzamin z prawa handlowego",
+  "topic": "Spółki osobowe i kapitałowe – tworzenie, funkcjonowanie i likwidacja",
+  "format": "wielokrotnego wyboru (multi-select)",
+  "instructions": "Zaznacz wszystkie prawidłowe odpowiedzi (może być więcej niż jedna).",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Wskaż prawidłowe stwierdzenia dotyczące powstania i umowy spółki jawnej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Umowa spółki jawnej powinna być zawarta na piśmie pod rygorem nieważności.",
+        "B": "Spółka jawna powstaje z chwilą złożenia wniosku o wpis do rejestru.",
+        "C": "Spółka jawna powstaje z chwilą wpisu do Krajowego Rejestru Sądowego.",
+        "D": "Ogłoszenie wpisu w Monitorze Sądowym i Gospodarczym ma charakter konstytutywny dla powstania spółki."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 23; art. 25 § 1. Kidyba 2024, sp.j. – powstanie, forma umowy."
+    },
+    {
+      "id": 2,
+      "question": "Odpowiedzialność wspólników spółki jawnej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Jest solidarna i nieograniczona, z zastrzeżeniem subsydiarności.",
+        "B": "Może zostać skutecznie ograniczona wobec osób trzecich postanowieniem umowy spółki.",
+        "C": "Egzekucja z majątku wspólnika jest dopuszczalna po bezskutecznej egzekucji z majątku spółki.",
+        "D": "Wspólnik, który działał w imieniu spółki przed wpisem, nigdy nie odpowiada za to działanie."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 22 § 2; art. 31. Kidyba 2024, sp.j. – odpowiedzialność."
+    },
+    {
+      "id": 3,
+      "question": "Reprezentacja spółki jawnej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Co do zasady każdy wspólnik ma prawo reprezentować spółkę.",
+        "B": "Wspólnik może być pozbawiony prawa reprezentacji wyłącznie uchwałą wspólników bez udziału sądu.",
+        "C": "Wspólnik może zostać pozbawiony prawa reprezentacji umową spółki lub prawomocnym orzeczeniem sądu z ważnych powodów.",
+        "D": "Reprezentacja przysługuje wyłącznie wspólnikom prowadzącym sprawy spółki."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 29 § 1; art. 30 § 1. Kidyba 2024, sp.j. – reprezentacja."
+    },
+    {
+      "id": 4,
+      "question": "Rozwiązanie spółki jawnej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Może nastąpić wskutek jednomyślnej uchwały wszystkich wspólników.",
+        "B": "Ogłoszenie upadłości spółki stanowi ustawową przesłankę rozwiązania spółki.",
+        "C": "Brak zgody prokurenta na zmianę umowy jest przesłanką rozwiązania spółki z mocy ustawy.",
+        "D": "Sprzedaż przedsiębiorstwa jednego ze wspólników powoduje rozwiązanie spółki."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 58. Kidyba 2024, sp.j. – rozwiązanie i likwidacja."
+    },
+    {
+      "id": 5,
+      "question": "Spółka partnerska – status i firma (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Partnerem może być wyłącznie osoba fizyczna wykonująca wolny zawód.",
+        "B": "Partnerem może być osoba prawna wykonująca wolny zawód.",
+        "C": "Dopuszczalny jest skrót firmy „sp.p.” dla spółki partnerskiej.",
+        "D": "Umowa spółki może przewidywać powołanie zarządu."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "KSH art. 86 § 1; art. 90; art. 97. Kidyba 2024, sp.p."
+    },
+    {
+      "id": 6,
+      "question": "Odpowiedzialność partnera w spółce partnerskiej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Partner odpowiada za zobowiązania z tytułu wykonywania zawodu przez innego partnera.",
+        "B": "Partner nie odpowiada za zobowiązania powstałe wskutek wykonywania wolnego zawodu przez innego partnera.",
+        "C": "Odpowiedzialność partnera nigdy nie ma charakteru subsydiarnego.",
+        "D": "Odpowiedzialność partnera ma charakter subsydiarny w stosunku do majątku spółki."
+      },
+      "correct": ["B", "D"],
+      "basis": "KSH art. 95 § 1; art. 89 w zw. z art. 31. Kidyba 2024, sp.p."
+    },
+    {
+      "id": 7,
+      "question": "Zarząd w spółce partnerskiej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Ustanowienie zarządu jest niedopuszczalne.",
+        "B": "Zarząd można powołać wyłącznie na czas likwidacji.",
+        "C": "Powołanie zarządu jest dopuszczalne, jeżeli przewiduje to umowa spółki.",
+        "D": "W razie ustanowienia zarządu, co do zasady prowadzenie spraw i reprezentacja przechodzą na zarząd (stosuje się odpowiednio przepisy o zarządzie w sp. z o.o.)."
+      },
+      "correct": ["C", "D"],
+      "basis": "KSH art. 97 § 1–3. Kidyba 2024, sp.p. – organy."
+    },
+    {
+      "id": 8,
+      "question": "Reprezentacja w spółce komandytowej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Komandytariusze reprezentują spółkę z mocy ustawy.",
+        "B": "Komplementariusze są uprawnieni do reprezentowania spółki.",
+        "C": "Rada nadzorcza jest organem reprezentującym spółkę komandytową.",
+        "D": "Komandytariusz może reprezentować spółkę jedynie jako pełnomocnik lub prokurent na podstawie umocowania."
+      },
+      "correct": ["B", "D"],
+      "basis": "KSH art. 117–118. Kidyba 2024, sp.k. – reprezentacja."
+    },
+    {
+      "id": 9,
+      "question": "Odpowiedzialność komandytariusza (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Komandytariusz odpowiada bez ograniczeń za zobowiązania spółki.",
+        "B": "Komandytariusz odpowiada do wysokości sumy komandytowej.",
+        "C": "Komandytariusz nie ponosi żadnej odpowiedzialności wobec wierzycieli spółki.",
+        "D": "Umieszczenie nazwiska komandytariusza w firmie powoduje jego odpowiedzialność jak komplementariusza."
+      },
+      "correct": ["B", "D"],
+      "basis": "KSH art. 111–112; art. 104 § 4. Kidyba 2024, sp.k. – odpowiedzialność."
+    },
+    {
+      "id": 10,
+      "question": "Firma spółki komandytowej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Musi zawierać nazwisko przynajmniej jednego komandytariusza.",
+        "B": "Nie może zawierać nazwiska żadnego wspólnika.",
+        "C": "Musi zawierać nazwisko przynajmniej jednego komplementariusza.",
+        "D": "Powinna zawierać oznaczenie „spółka komandytowa” lub skrót „sp.k.”."
+      },
+      "correct": ["C", "D"],
+      "basis": "KSH art. 104 § 1–2. Kidyba 2024, sp.k. – firma."
+    },
+    {
+      "id": 11,
+      "question": "Spółka komandytowo-akcyjna (SKA) – elementy konstrukcyjne (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Kapitał zakładowy wynosi co najmniej 100 000 zł.",
+        "B": "Wymaga co najmniej jednego komplementariusza i jednego akcjonariusza.",
+        "C": "Kapitał zakładowy wynosi co najmniej 50 000 zł.",
+        "D": "W SKA nie może być komplementariusza – wyłącznie akcjonariusze."
+      },
+      "correct": ["B", "C"],
+      "basis": "KSH art. 125; art. 126 § 2. Kidyba 2024, SKA – konstrukcja."
+    },
+    {
+      "id": 12,
+      "question": "Prowadzenie spraw i reprezentacja w SKA (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Należą do rady nadzorczej.",
+        "B": "Co do zasady należą do komplementariuszy.",
+        "C": "Akcjonariusz nie jest uprawniony do prowadzenia spraw ani reprezentacji, chyba że jest także komplementariuszem.",
+        "D": "Zawsze należą do akcjonariuszy."
+      },
+      "correct": ["B", "C"],
+      "basis": "KSH art. 137; art. 140; art. 126 § 1 pkt 2. Kidyba 2024."
+    },
+    {
+      "id": 13,
+      "question": "Status akcjonariusza w SKA (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Odpowiada wobec wierzycieli spółki jak komplementariusz.",
+        "B": "Co do zasady nie odpowiada wobec wierzycieli spółki.",
+        "C": "Z mocy ustawy prowadzi sprawy spółki.",
+        "D": "Uczestniczy w zysku na zasadach określonych w statucie."
+      },
+      "correct": ["B", "D"],
+      "basis": "KSH art. 126 § 1 pkt 2 w zw. z przepisami o S.A.; art. 347 KSH. Kidyba 2024."
+    },
+    {
+      "id": 14,
+      "question": "Kapitał i udziały w spółce z ograniczoną odpowiedzialnością (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Minimalny kapitał zakładowy wynosi 1 zł.",
+        "B": "Minimalny kapitał zakładowy wynosi 5 000 zł.",
+        "C": "Wartość nominalna udziału nie może być niższa niż 50 zł.",
+        "D": "Wartość nominalna udziału nie może być niższa niż 500 zł."
+      },
+      "correct": ["B", "C"],
+      "basis": "KSH art. 154 § 1–2. Kidyba 2024, sp. z o.o. – kapitał."
+    },
+    {
+      "id": 15,
+      "question": "Reprezentacja spółki z o.o. przy zarządzie wieloosobowym (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Jeżeli umowa spółki nie stanowi inaczej, spółkę reprezentuje dwóch członków zarządu albo jeden członek zarządu łącznie z prokurentem.",
+        "B": "Każdy członek zarządu zawsze może reprezentować samodzielnie, niezależnie od umowy spółki.",
+        "C": "Umowa spółki może określać inne zasady reprezentacji.",
+        "D": "Zasady reprezentacji określa wyłącznie rada nadzorcza."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 205 § 1. Kidyba 2024, sp. z o.o. – reprezentacja."
+    },
+    {
+      "id": 16,
+      "question": "Nadzór w spółce z o.o. (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Rada nadzorcza albo komisja rewizyjna są obowiązkowe, gdy kapitał przekracza 500 000 zł i liczba wspólników > 25.",
+        "B": "Obowiązek ustanowienia rady nadzorczej wynika zawsze z posiadania przez spółkę statusu „publicznej”.",
+        "C": "Umowa spółki może przewidywać ustanowienie rady nadzorczej także wtedy, gdy nie ma ustawowego obowiązku.",
+        "D": "Możliwe jest fakultatywne powołanie rady nadzorczej, jeśli tak postanowią wspólnicy w umowie."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "KSH art. 213 § 1–2. Kidyba 2024, sp. z o.o. – organy nadzoru."
+    },
+    {
+      "id": 17,
+      "question": "Wkłady w spółce z o.o. (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Aportem mogą być rzeczy i prawa zbywalne, w tym nieruchomości.",
+        "B": "Prawa niezbywalne oraz świadczenie pracy lub usług nie mogą stanowić wkładu.",
+        "C": "Udziały mogą być obejmowane wyłącznie za wkłady pieniężne.",
+        "D": "Kapitał zakładowy powinien być pokryty w całości przed wpisem spółki do rejestru."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 14 § 1; art. 158; art. 163 § 1 pkt 2. Kidyba 2024."
+    },
+    {
+      "id": 18,
+      "question": "Umorzenie udziałów w spółce z o.o. (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Jest zawsze niedopuszczalne.",
+        "B": "Wymaga podstawy w umowie spółki i co do zasady uchwały zgromadzenia wspólników.",
+        "C": "Może mieć charakter dobrowolny albo przymusowy.",
+        "D": "Zawsze wymaga zgody sądu rejestrowego."
+      },
+      "correct": ["B", "C"],
+      "basis": "KSH art. 199. Kidyba 2024, sp. z o.o. – umorzenie udziałów."
+    },
+    {
+      "id": 19,
+      "question": "Spółka z o.o. w organizacji (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Nie ma zdolności prawnej ani sądowej.",
+        "B": "Może nabywać prawa, zaciągać zobowiązania, pozywać i być pozywana.",
+        "C": "Nie może ustanowić prokury.",
+        "D": "Powstaje dopiero z chwilą wpisu do rejestru."
+      },
+      "correct": ["B", "C"],
+      "basis": "KSH art. 161 § 1–3; KC art. 109^1 (prokura wymaga wpisu przedsiębiorcy do rejestru). Kidyba 2024."
+    },
+    {
+      "id": 20,
+      "question": "Dopłaty w spółce z o.o. (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Mogą być nakładane uchwałą, nawet jeśli umowa spółki o nich nie stanowi.",
+        "B": "Są dopuszczalne tylko wtedy, gdy umowa spółki tak stanowi.",
+        "C": "Są zawsze niedopuszczalne.",
+        "D": "Mogą zostać zwrócone wspólnikom, jeśli nie są wymagane i spełnione zostaną warunki ustawowe."
+      },
+      "correct": ["B", "D"],
+      "basis": "KSH art. 177–179. Kidyba 2024, sp. z o.o. – dopłaty."
+    },
+    {
+      "id": 21,
+      "question": "Kapitał zakładowy w spółce akcyjnej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Minimalny kapitał zakładowy wynosi 1 zł.",
+        "B": "Minimalny kapitał zakładowy wynosi 50 000 zł.",
+        "C": "Minimalny kapitał zakładowy wynosi 100 000 zł.",
+        "D": "Akcje nie mogą być obejmowane poniżej wartości nominalnej (zakaz obejmowania poniżej pari)."
+      },
+      "correct": ["C", "D"],
+      "basis": "KSH art. 308 § 1; art. 309 § 1. Kidyba 2024, S.A. – kapitał."
+    },
+    {
+      "id": 22,
+      "question": "Organy spółki akcyjnej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Komisja rewizyjna jest organem obligatoryjnym.",
+        "B": "Rada nadzorcza jest organem obligatoryjnym.",
+        "C": "Rada dyrektorów jest organem obligatoryjnym.",
+        "D": "Walne zgromadzenie jest organem obligatoryjnym."
+      },
+      "correct": ["B", "D"],
+      "basis": "KSH art. 368, 382, 393 i nast. Kidyba 2024."
+    },
+    {
+      "id": 23,
+      "question": "Wkłady na akcje w spółce akcyjnej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Dopuszczalne jest objęcie akcji w zamian za świadczenie pracy lub usług.",
+        "B": "Wkłady niepieniężne co do zasady wymagają zbadania przez biegłego.",
+        "C": "Przed rejestracją spółki należy wnieść co najmniej jedną czwartą wartości nominalnej obejmowanych akcji oraz całe agio.",
+        "D": "Wkłady niepieniężne mogą polegać na świadczeniu pracy."
+      },
+      "correct": ["B", "C"],
+      "basis": "KSH art. 14 § 1; art. 311; art. 309 § 3. Kidyba 2024, S.A. – wkłady."
+    },
+    {
+      "id": 24,
+      "question": "Dematerializacja akcji (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Po dematerializacji spółka wydaje dokumenty akcji na żądanie akcjonariuszy.",
+        "B": "Akcje mają formę zapisu w rejestrze akcjonariuszy lub w depozycie papierów wartościowych.",
+        "C": "Dematerializacja dotyczy wyłącznie spółek publicznych.",
+        "D": "Obowiązek dematerializacji dotyczy także spółek niepublicznych (S.A. i SKA)."
+      },
+      "correct": ["B", "D"],
+      "basis": "KSH art. 328^1 i nast. Kidyba 2024, dematerializacja."
+    },
+    {
+      "id": 25,
+      "question": "Prosta spółka akcyjna – kapitał i wkłady (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Kapitał akcyjny wynosi co najmniej 1 zł.",
+        "B": "Na pokrycie akcji w PSA mogą być wnoszone wkłady w postaci świadczenia pracy lub usług.",
+        "C": "Kapitał akcyjny musi wynosić co najmniej 25 000 zł.",
+        "D": "W PSA dopuszczalne są wyłącznie wkłady pieniężne."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 300^2 § 1–3. Kidyba 2024, PSA – kapitał i wkłady."
+    },
+    {
+      "id": 26,
+      "question": "Prosta spółka akcyjna – system organów (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Zawsze obowiązuje system dualistyczny (zarząd i rada nadzorcza).",
+        "B": "Zawsze obowiązuje system monistyczny (rada dyrektorów).",
+        "C": "Statut może przewidywać system dualistyczny albo monistyczny.",
+        "D": "W systemie monistycznym funkcjonuje rada dyrektorów."
+      },
+      "correct": ["C", "D"],
+      "basis": "KSH art. 300^26 i nast. Kidyba 2024, PSA – organy."
+    },
+    {
+      "id": 27,
+      "question": "Połączenie spółek przez przejęcie (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Powoduje sukcesję uniwersalną praw i obowiązków spółki przejmowanej.",
+        "B": "Na spółkę przejmującą przechodzą także zezwolenia, koncesje i ulgi – z zastrzeżeniami ustawowymi.",
+        "C": "Wymaga dokonania cesji wszystkich aktywów i umów.",
+        "D": "Prowadzi do powstania nowej spółki łączącej."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 494 § 1–2. Kidyba 2024, łączenie spółek."
+    },
+    {
+      "id": 28,
+      "question": "Połączenie spółek przez zawiązanie nowej spółki (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Powstaje nowa spółka, do której przenoszony jest majątek spółek łączących się.",
+        "B": "Spółki łączące ulegają rozwiązaniu bez przeprowadzenia likwidacji.",
+        "C": "Konieczne jest dokonanie cesji wszystkich umów spółek łączących się.",
+        "D": "Wspólnicy spółek łączących się nie stają się wspólnikami nowej spółki."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 492 § 1 pkt 2; art. 493 § 1; art. 494. Kidyba 2024."
+    },
+    {
+      "id": 29,
+      "question": "Podział spółki kapitałowej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Jest dopuszczalny z zachowaniem sukcesji uniwersalnej częściowej przewidzianej w KSH.",
+        "B": "Wymaga co do zasady sporządzenia planu podziału.",
+        "C": "Jest niedopuszczalny w przypadku spółki z o.o.",
+        "D": "Może przybrać formę podziału przez wydzielenie."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 529–541 (w tym art. 529 § 1 pkt 4 – wydzielenie). Kidyba 2024."
+    },
+    {
+      "id": 30,
+      "question": "Przekształcenie spółek (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Wspólnicy spółki przekształcanej stają się z mocy prawa wspólnikami spółki przekształconej.",
+        "B": "Przekształcenie wymaga zawsze zgody wszystkich wspólników bez wyjątku.",
+        "C": "Spółka przekształcona wstępuje we wszystkie prawa i obowiązki spółki przekształcanej.",
+        "D": "Przekształcenie jest niedopuszczalne z udziałem spółek kapitałowych."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 553 § 1–2. Kidyba 2024, przekształcenia."
+    },
+    {
+      "id": 31,
+      "question": "Zgromadzenie wspólników sp. z o.o. – podstawy (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Uchwały zapadają co do zasady bezwzględną większością głosów, chyba że ustawa lub umowa stanowią inaczej.",
+        "B": "Do zmiany umowy spółki wymagana jest uchwała większością 2/3 głosów, chyba że umowa stanowi surowsze warunki.",
+        "C": "Zgromadzenie może odbyć się bez formalnego zwołania, jeżeli cały kapitał jest reprezentowany i nikt nie sprzeciwia się odbyciu zgromadzenia.",
+        "D": "Nie jest dopuszczalne podejmowanie uchwał poza zgromadzeniem (tryb pisemny lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość)."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 245; art. 246 § 1; art. 240; art. 234^1–234^3. Kidyba 2024."
+    },
+    {
+      "id": 32,
+      "question": "Walne zgromadzenie spółki akcyjnej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Podejmuje uchwały m.in. w sprawach podziału zysku lub pokrycia straty.",
+        "B": "Może udzielić absolutorium członkom zarządu i rady nadzorczej.",
+        "C": "Nie może odbywać się z wykorzystaniem środków komunikacji elektronicznej.",
+        "D": "Zmiana statutu wymaga kwalifikowanej większości 2/3 głosów, o ile statut nie stanowi surowszych wymogów."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 395 § 2; art. 406^5; art. 415 § 1. Kidyba 2024."
+    },
+    {
+      "id": 33,
+      "question": "Prokura i pełnomocnictwo w spółkach handlowych (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Prokura może być ustanowiona tylko przez przedsiębiorcę wpisanego do rejestru.",
+        "B": "Spółka z o.o. w organizacji może ustanowić prokurę.",
+        "C": "Prokura może być łączna (np. prokurent łącznie z członkiem zarządu).",
+        "D": "Ustanowienie prokury wymaga formy pisemnej pod rygorem nieważności."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "KC art. 109^1–109^9; wymóg wpisu do rejestru; KSH odsyła do KC. Kidyba 2024."
+    },
+    {
+      "id": 34,
+      "question": "Odpowiedzialność członków zarządu sp. z o.o. wobec wierzycieli (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Członkowie zarządu odpowiadają solidarnie za zobowiązania spółki, jeżeli egzekucja przeciwko spółce okaże się bezskuteczna.",
+        "B": "Mogą się uwolnić od odpowiedzialności, jeżeli wykażą, że we właściwym czasie złożyli wniosek o ogłoszenie upadłości albo wszczęli postępowanie restrukturyzacyjne.",
+        "C": "Odpowiedzialność ta nie obejmuje zobowiązań podatkowych.",
+        "D": "Odpowiedzialność ma charakter subsydiarny wobec odpowiedzialności spółki."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 299 § 1–2; Ordynacja podatkowa art. 116 – zbieżne zasady. Kidyba 2024."
+    },
+    {
+      "id": 35,
+      "question": "Likwidacja spółki jawnej (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Likwidatorami są co do zasady wszyscy wspólnicy, chyba że umowa spółki lub uchwała stanowi inaczej.",
+        "B": "Likwidatorów zawsze powołuje sąd rejestrowy.",
+        "C": "O otwarciu likwidacji należy ogłosić i wezwać wierzycieli.",
+        "D": "W okresie likwidacji nie można zbywać składników majątku spółki."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 70 § 1; art. 77. Kidyba 2024, sp.j. – likwidacja."
+    },
+    {
+      "id": 36,
+      "question": "Likwidacja spółki z o.o. (zaznacz wszystkie prawidłowe).",
+      "options": {
+        "A": "Otwarcie likwidacji następuje z dniem wpisu spółki do rejestru.",
+        "B": "Otwarcie likwidacji następuje z dniem powzięcia uchwały o rozwiązaniu spółki lub zaistnienia innej przyczyny rozwiązania.",
+        "C": "W okresie likwidacji spółka posługuje się dawną firmą bez jakichkolwiek dodatków.",
+        "D": "W okresie likwidacji do firmy dodaje się oznaczenie „w likwidacji”."
+      },
+      "correct": ["B", "D"],
+      "basis": "KSH art. 274 § 1; art. 279. Kidyba 2024, sp. z o.o. – likwidacja."
+    }
+  ]
+}

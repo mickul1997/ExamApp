@@ -1,0 +1,1195 @@
+{
+  "title": "Egzamin z prawa handlowego — Rozdział 3: Umowy handlowe (Kidyba, 26. wyd.) — §6 §7 §8 §9 §10",
+  "topic": "Rozdział 3 §1–§15: Część ogólna i umowy nazwane",
+  "format": "wielokrotnego wyboru (multi-select)",
+  "instructions": "Zaznacz wszystkie prawidłowe odpowiedzi (może być więcej niż jedna).",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[§6] Rachunek bankowy — essentialia.",
+      "options": {
+        "A": "Obowiązek przechowywania środków i wykonywania dyspozycji",
+        "B": "Brak odpłatności",
+        "C": "Rodzaj rachunku i opłaty w treści",
+        "D": "Zawsze terminowa umowa na 12 miesięcy"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 I–III. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 2,
+      "question": "[§6] Odpowiedzialność banku — poprawne.",
+      "options": {
+        "A": "Za nienależyte wykonanie zleceń odpowiada kontraktowo",
+        "B": "Nigdy nie odpowiada",
+        "C": "Możliwe ograniczenia odpowiedzialności w regulaminie (z wyjątkami)",
+        "D": "Przepisy szczególne o usługach płatniczych mają znaczenie"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 VIII–IX. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 3,
+      "question": "[§6] Dyspozycje i pełnomocnictwa — wskaż prawidłowe.",
+      "options": {
+        "A": "Pełnomocnictwo do rachunku może być rodzajowe",
+        "B": "Dyspozycje po śmierci posiadacza — reżim szczególny",
+        "C": "Brak formy pisemnej zawsze nieważny",
+        "D": "Bank weryfikuje umocowanie"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 VIII–IX. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 4,
+      "question": "[§6] Rachunek wspólny — wybierz prawidłowe.",
+      "options": {
+        "A": "Każdy współposiadacz może dysponować całością środków (co do zasady)",
+        "B": "Bank nie może limitować sposobu reprezentacji",
+        "C": "Odpowiedzialność solidarna wobec banku",
+        "D": "Umowa może inaczej uregulować reprezentację"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 III–VIII. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 5,
+      "question": "[§6] Tajemnica bankowa i dane — poprawne.",
+      "options": {
+        "A": "Bank objęty jest tajemnicą bankową",
+        "B": "Ujawnienie wyłącznie klientowi",
+        "C": "Wyjątki wynikają z ustaw (np. organy)",
+        "D": "RODO wpływa na przetwarzanie danych"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 VIII–IX. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 6,
+      "question": "[§6] Reklamacje i terminy — wskaż prawidłowe.",
+      "options": {
+        "A": "Terminy ustawowe/umowne na złożenie reklamacji",
+        "B": "Brak reklamacji wyklucza roszczenia zawsze",
+        "C": "Bank rozpatruje i odpowiada w terminach szczególnych",
+        "D": "Dowody transakcji elektronicznych mają znaczenie"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 IX. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 7,
+      "question": "[§6] Rozwiązanie umowy rachunku — poprawne.",
+      "options": {
+        "A": "Za wypowiedzeniem umownym/ustawowym",
+        "B": "Zawsze tylko sądownie",
+        "C": "Saldo wypłacane posiadaczowi lub spadkobiercom",
+        "D": "Opłaty końcowe mogą wynikać z tabeli opłat"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 III–IX. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 8,
+      "question": "[§6] Blokada rachunku — wybierz prawidłowe.",
+      "options": {
+        "A": "Dopuszczalna w przypadkach przewidzianych umową/ustawą",
+        "B": "Zawsze dowolna decyzja banku",
+        "C": "Może wynikać z AML/bezpieczeństwa",
+        "D": "Klient informowany z poszanowaniem przepisów"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 VIII–IX. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 9,
+      "question": "[§6] Błędy przelewów — poprawne.",
+      "options": {
+        "A": "Bank odpowiada za błędny numer rachunku w granicach przepisów PSD2",
+        "B": "Nabywca środków w złej wierze zobowiązany do zwrotu",
+        "C": "Zawsze odpowiedzialność klienta",
+        "D": "Procedury odzyskiwania środków przewidziane w regulacjach"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 VIII–IX. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 10,
+      "question": "[§6] Zasady księgowania i chwila uznania — poprawne.",
+      "options": {
+        "A": "Chwila uznania wpływa na odpowiedzialność banku",
+        "B": "Godziny graniczne (cut-off) mogą mieć znaczenie",
+        "C": "Zawsze D+2 w krajowych przelewach",
+        "D": "Systemy rozliczeniowe (np. ELIXIR) determinują terminy"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 VIII–IX. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 11,
+      "question": "[§6] Opłaty i prowizje — wskaż prawidłowe.",
+      "options": {
+        "A": "Określane w tabelach opłat",
+        "B": "Nie wymagają doręczenia klientowi",
+        "C": "Zmiany podlegają notyfikacji",
+        "D": "Mogą wynikać z regulaminu"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 VIII–IX. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 12,
+      "question": "[§6] Rachunek a zabezpieczenia — wybierz prawidłowe.",
+      "options": {
+        "A": "Możliwe zajęcie egzekucyjne",
+        "B": "Bank nigdy nie realizuje zajęć",
+        "C": "Prawo potrącenia może wynikać z umowy",
+        "D": "Zastaw na wierzytelności z rachunku dopuszczalny"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 VIII–IX. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 13,
+      "question": "[§6] Dodatkowe zagadnienie (1) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 Uzupełnienie — praktyka kontraktowa. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 14,
+      "question": "[§6] Dodatkowe zagadnienie (2) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 Uzupełnienie — praktyka kontraktowa. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 15,
+      "question": "[§6] Dodatkowe zagadnienie (3) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §6 Uzupełnienie — praktyka kontraktowa. KSH: art. 205; art. 373."
+    },
+    {
+      "id": 16,
+      "question": "[§7] Definicja agencyjnej — poprawne.",
+      "options": {
+        "A": "Agent stale, za wynagrodzeniem, pośredniczy/zawiera umowy",
+        "B": "Agent zawsze działa we własnym imieniu",
+        "C": "Charakter starannego działania",
+        "D": "Wynagrodzenie — prowizja"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 I–III. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 17,
+      "question": "[§7] Terytorium i wyłączność — wybierz prawidłowe.",
+      "options": {
+        "A": "Można zastrzec wyłączność terytorialną",
+        "B": "Zakaz konkurencji w czasie trwania umowy możliwy",
+        "C": "Wyłączność wyklucza obowiązki informacyjne",
+        "D": "Naruszenie wyłączności może rodzić odszkodowanie"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 VII–VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 18,
+      "question": "[§7] Prowizja — zasady naliczania.",
+      "options": {
+        "A": "Należna za umowy z udziałem agenta",
+        "B": "Możliwa prowizja del credere",
+        "C": "Termin wymagalności po wykonaniu przez kontrahenta",
+        "D": "Zawsze niezależna od wykonania umowy"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 VII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 19,
+      "question": "[§7] Obowiązki agenta — poprawne.",
+      "options": {
+        "A": "Lojalność, informowanie, staranność",
+        "B": "Przechowywanie dokumentów",
+        "C": "Dowolna reprezentacja sprzeczna z instrukcjami",
+        "D": "Raportowanie działań"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 VII–VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 20,
+      "question": "[§7] Obowiązki dającego zlecenie — wybierz prawidłowe.",
+      "options": {
+        "A": "Materiały i informacje",
+        "B": "Wynagrodzenie/prowizje",
+        "C": "Zwrot wydatków uzasadnionych",
+        "D": "Brak odpowiedzialności za działania własne"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 21,
+      "question": "[§7] Del credere — poprawne.",
+      "options": {
+        "A": "Agent może przejąć ryzyko niewypłacalności kontrahenta za dodatkowym wynagrodzeniem",
+        "B": "Zawsze obowiązkowe",
+        "C": "Podnosi odpowiedzialność agenta",
+        "D": "Nie może współistnieć z prowizją"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 VII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 22,
+      "question": "[§7] Zakaz konkurencji po ustaniu — prawidłowe.",
+      "options": {
+        "A": "Wymaga formy i ekwiwalentu (co do zasady)",
+        "B": "Może być bezterminowy bez ograniczeń",
+        "C": "Powinien określać zakres i terytorium",
+        "D": "Naruszenie może rodzić karę umowną"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 23,
+      "question": "[§7] Rozwiązanie umowy — wskaż prawidłowe.",
+      "options": {
+        "A": "Za wypowiedzeniem z zachowaniem terminów",
+        "B": "Z ważnych powodów ze skutkiem natychmiastowym",
+        "C": "Brak rozliczenia prowizji po rozwiązaniu",
+        "D": "Wypowiedzenie może wymagać formy pisemnej"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 24,
+      "question": "[§7] Odpowiedzialność agenta — poprawne.",
+      "options": {
+        "A": "Za naruszenie instrukcji i lojalności",
+        "B": "Zawsze za rezultat",
+        "C": "Może odpowiadać deliktowo wobec osób trzecich",
+        "D": "Z tytułu gwarancji jakości świadczenia głównego"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 VII–VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 25,
+      "question": "[§7] Protekcja klienteli (klauzula klienteli) — wybierz prawidłowe.",
+      "options": {
+        "A": "Może ograniczać przejmowanie klientów po zakończeniu",
+        "B": "Zawsze nieważna",
+        "C": "Wiąże się z zakazem konkurencji",
+        "D": "Może być zabezpieczona karą umowną"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 26,
+      "question": "[§7] Rozliczenia po rozwiązaniu — poprawne.",
+      "options": {
+        "A": "Prowizja należy się także za umowy zawarte po rozwiązaniu, jeśli to skutek działań agenta w okresie obowiązywania",
+        "B": "Nigdy po rozwiązaniu",
+        "C": "Rozliczenia wydatków według umowy",
+        "D": "Zwrot materiałów i narzędzi"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 VII–VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 27,
+      "question": "[§7] Pełnomocnictwo agenta — wskaż prawidłowe.",
+      "options": {
+        "A": "Może być do zawierania umów w imieniu dającego zlecenie",
+        "B": "Zawsze wynika z samej umowy agencyjnej",
+        "C": "Wymaga ujawnienia wobec kontrahentów",
+        "D": "Zakres powinien być precyzyjny"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 III–VII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 28,
+      "question": "[§7] Dodatkowe zagadnienie (1) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 29,
+      "question": "[§7] Dodatkowe zagadnienie (2) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 30,
+      "question": "[§7] Dodatkowe zagadnienie (3) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §7 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 31,
+      "question": "[§8] Komis — istota.",
+      "options": {
+        "A": "Komisant działa we własnym imieniu na rachunek komitenta",
+        "B": "Zawsze del credere",
+        "C": "Prowizja jako wynagrodzenie",
+        "D": "Komitent nie może odwołać zlecenia przed wykonaniem"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 I–III. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 32,
+      "question": "[§8] Del credere — wybierz prawidłowe.",
+      "options": {
+        "A": "Można zastrzec dodatkową odpowiedzialność komisanta za zapłatę",
+        "B": "Zawsze w komisji sprzedaży",
+        "C": "Wymaga odrębnego wynagrodzenia",
+        "D": "Nie wpływa na prowizję podstawową"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 III. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 33,
+      "question": "[§8] Odpowiedzialność komisanta za rzecz — poprawne.",
+      "options": {
+        "A": "Za staranne przechowanie rzeczy komitenta",
+        "B": "Za wady sprzedanej rzeczy wobec nabywcy jak sprzedawca",
+        "C": "Za cenę, gdy zastrzeżono del credere",
+        "D": "Za szkody wynikłe z niewłaściwego wykonania zlecenia"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 34,
+      "question": "[§8] Cena minimalna i warunki — wskaż prawidłowe.",
+      "options": {
+        "A": "Komitent może określić minimalną cenę",
+        "B": "Komisant może dowolnie odstąpić od warunków",
+        "C": "Naruszenie może rodzić odpowiedzialność",
+        "D": "Komisant ma obowiązek rozliczenia"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 III–VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 35,
+      "question": "[§8] Zwrot rzeczy — wybierz prawidłowe.",
+      "options": {
+        "A": "Niewykonanie zlecenia wymaga zwrotu rzeczy",
+        "B": "Komisant może zatrzymać rzecz dowolnie",
+        "C": "Prawo zatrzymania na zabezpieczenie roszczeń",
+        "D": "Obowiązek rozliczenia prowizji i kosztów"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 36,
+      "question": "[§8] Komis kupna — poprawne.",
+      "options": {
+        "A": "Komisant nabywa rzecz na rachunek komitenta",
+        "B": "Własność przechodzi najpierw na komisanta",
+        "C": "Komitent nie nabywa własności",
+        "D": "Możliwe odstąpienie przy naruszeniu instrukcji"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 I–III. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 37,
+      "question": "[§8] Komis sprzedaży — poprawne.",
+      "options": {
+        "A": "Komisant sprzedaje rzecz komitenta",
+        "B": "Może zawierać umowy we własnym imieniu",
+        "C": "Nigdy nie odpowiada za zapłatę ceny",
+        "D": "Rozlicza cenę i prowizję z komitentem"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 I–III. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 38,
+      "question": "[§8] Koszty i wydatki — wskaż prawidłowe.",
+      "options": {
+        "A": "Komitent zwraca uzasadnione wydatki",
+        "B": "Komisant nie może żądać zwrotu",
+        "C": "Można zastrzec ryczałt kosztów",
+        "D": "Odsetki za poniesione wydatki są wykluczone"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 39,
+      "question": "[§8] Dowody i dokumenty — poprawne.",
+      "options": {
+        "A": "Komisant prowadzi rozliczenia i dokumentuje sprzedaż",
+        "B": "Brak dokumentów nie ma znaczenia",
+        "C": "Obowiązek wydania dokumentów komitentowi",
+        "D": "Listy przewozowe/faktury mogą być istotne"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 40,
+      "question": "[§8] Odpowiedzialność wobec osób trzecich — wybierz prawidłowe.",
+      "options": {
+        "A": "Komisant odpowiada jako strona umowy zawartej we własnym imieniu",
+        "B": "Komitent zawsze odpowiada bezpośrednio",
+        "C": "Del credere wzmacnia odpowiedzialność za zapłatę",
+        "D": "Komisant nie odpowiada za swoje zapewnienia"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 III–VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 41,
+      "question": "[§8] Ubezpieczenie rzeczy — poprawne.",
+      "options": {
+        "A": "Może być uzgodnione przy przechowaniu",
+        "B": "Nigdy niepotrzebne",
+        "C": "Koszt obciąża komitenta jeśli tak ustalono",
+        "D": "Brak ubezpieczenia nie rodzi nigdy odpowiedzialności"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 42,
+      "question": "[§8] Zakończenie zlecenia komisowego — wskaż prawidłowe.",
+      "options": {
+        "A": "Rozliczenie prowizji i kosztów",
+        "B": "Zwrot niesprzedanych rzeczy",
+        "C": "Brak odpowiedzialności za towar do chwili przekazania",
+        "D": "Możliwość zatrzymania do czasu zapłaty prowizji"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 43,
+      "question": "[§8] Dodatkowe zagadnienie (1) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 44,
+      "question": "[§8] Dodatkowe zagadnienie (2) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 45,
+      "question": "[§8] Dodatkowe zagadnienie (3) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §8 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 46,
+      "question": "[§9] Istota przewozu — poprawne.",
+      "options": {
+        "A": "Przewóz osób lub rzeczy za wynagrodzeniem",
+        "B": "Przewoźnik zawsze odpowiada na zasadzie winy",
+        "C": "Odpowiedzialność przewoźnika ma charakter ryzyka z wyjątkami",
+        "D": "Stronami są przewoźnik i nadawca/odbiorca"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 I–III. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 47,
+      "question": "[§9] List przewozowy — wskaż prawidłowe.",
+      "options": {
+        "A": "Pełni funkcję dowodową",
+        "B": "Brak listu czyni umowę nieważną",
+        "C": "Może dokumentować warunki i stan przesyłki",
+        "D": "Stanowi papier wartościowy w każdym przewozie krajowym"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 48,
+      "question": "[§9] Odpowiedzialność za utratę/uszkodzenie — poprawne.",
+      "options": {
+        "A": "Domniemanie odpowiedzialności przewoźnika",
+        "B": "Wyłączenia m.in. siła wyższa, wada własna rzeczy",
+        "C": "Limit odpowiedzialności ustawowe/umowne",
+        "D": "Zawsze pełne odszkodowanie bez limitów"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 49,
+      "question": "[§9] Terminy przewozu i opóźnienie — wybierz prawidłowe.",
+      "options": {
+        "A": "Opóźnienie może rodzić odpowiedzialność",
+        "B": "Zawsze kara ustawowa",
+        "C": "Można umownie określić terminy",
+        "D": "Dowód szkody z opóźnienia obciąża nadawcę"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 50,
+      "question": "[§9] Uprawnienia odbiorcy — wskaż prawidłowe.",
+      "options": {
+        "A": "Może żądać wydania przesyłki i dokumentów",
+        "B": "Nigdy nie przysługuje mu roszczenie do przewoźnika",
+        "C": "Może dochodzić roszczeń po wykazaniu legitymacji",
+        "D": "Odbiorca nie odpowiada za opłaty"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 III–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 51,
+      "question": "[§9] Przesyłki nieodebrane — poprawne.",
+      "options": {
+        "A": "Przewoźnik może oddać na skład lub sprzedać zgodnie z przepisami",
+        "B": "Nigdy nie ma takich uprawnień",
+        "C": "Koszty obciążają nadawcę/odbiorcę",
+        "D": "Wymaga każdorazowo zgody sądu"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 52,
+      "question": "[§9] Reklamacje w przewozie — wybierz prawidłowe.",
+      "options": {
+        "A": "Wymogi formalne i terminy w przepisach szczególnych",
+        "B": "Brak reklamacji nie wyklucza nigdy pozwu",
+        "C": "Odpowiedź przewoźnika w terminie",
+        "D": "Dowody: list przewozowy, protokoły szkody"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 53,
+      "question": "[§9] Przewóz osób — odpowiedzialność.",
+      "options": {
+        "A": "Za szkody na osobie odpowiedzialność na zasadach szczególnych",
+        "B": "Bagaż zawsze wyłączony z odpowiedzialności",
+        "C": "Regulaminy przewozu kształtują relację",
+        "D": "Bilety dokumentują zawarcie umowy"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 I–III. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 54,
+      "question": "[§9] Przewoźnik zastępczy — wskaż prawidłowe.",
+      "options": {
+        "A": "Możliwe powierzenie transportu innemu przewoźnikowi",
+        "B": "Powierzający zwolniony z odpowiedzialności",
+        "C": "Odpowiedzialność solidarna możliwa",
+        "D": "Nadawca nie ma roszczeń do przewoźnika zastępczego"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 55,
+      "question": "[§9] Przesyłka niebezpieczna — poprawne.",
+      "options": {
+        "A": "Szczególne oznaczenia i dokumenty",
+        "B": "Brak wpływu na odpowiedzialność",
+        "C": "Naruszenia mogą skutkować sankcjami i odpowiedzialnością nadawcy",
+        "D": "Przewoźnik zawsze musi przyjąć"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 56,
+      "question": "[§9] Prawo zastawu przewoźnika — wybierz prawidłowe.",
+      "options": {
+        "A": "Na przesyłce dla zabezpieczenia należności",
+        "B": "Nigdy nie przysługuje",
+        "C": "Możliwe zaspokojenie z przesyłki przy spełnieniu przesłanek",
+        "D": "Nie dotyczy przewozu osób"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 57,
+      "question": "[§9] Międzynarodowy przewóz rzeczy — wskaż prawidłowe.",
+      "options": {
+        "A": "Zastosowanie mogą mieć konwencje (np. CMR)",
+        "B": "Zawsze stosuje się tylko prawo polskie",
+        "C": "Limity i terminy mogą wynikać z konwencji",
+        "D": "List CMR pełni funkcję dowodową"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 58,
+      "question": "[§9] Dodatkowe zagadnienie (1) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 59,
+      "question": "[§9] Dodatkowe zagadnienie (2) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 60,
+      "question": "[§9] Dodatkowe zagadnienie (3) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §9 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 61,
+      "question": "[§10] Istota spedycji — poprawne.",
+      "options": {
+        "A": "Spedytor organizuje przewóz za wynagrodzeniem",
+        "B": "Jest to umowa rezultatu",
+        "C": "Może wykonywać czynności dodatkowe",
+        "D": "Co do zasady staranne działanie"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 I–II. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 62,
+      "question": "[§10] Odpowiedzialność spedytora — wybierz prawidłowe.",
+      "options": {
+        "A": "Za wybór przewoźnika z należytą starannością",
+        "B": "Jak przewoźnik w każdym wypadku",
+        "C": "Może odpowiadać jak przewoźnik przy tzw. spedycji czynnej (samodzielny przewóz)",
+        "D": "Odpowiada za dokumenty przewozowe"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 VII–VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 63,
+      "question": "[§10] Zastępca i podwykonawca — poprawne.",
+      "options": {
+        "A": "Spedytor może posłużyć się innymi",
+        "B": "Zawsze zwolniony z odpowiedzialności",
+        "C": "Odpowiada za ich wybór i instrukcje",
+        "D": "Umowa może rozszerzyć/ograniczyć odpowiedzialność"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 VII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 64,
+      "question": "[§10] Spedycja a przewóz — różnice.",
+      "options": {
+        "A": "Przewoźnik wykonuje transport, spedytor organizuje",
+        "B": "W spedycji brak prawa zastawu",
+        "C": "Czynności dodatkowe odróżniają spedycję",
+        "D": "Spedytor może działać jako przewoźnik"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 I–II. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 65,
+      "question": "[§10] Prawo zastawu spedytora — wskaż prawidłowe.",
+      "options": {
+        "A": "Na przesyłce dla zabezpieczenia należności",
+        "B": "Nie przysługuje nigdy",
+        "C": "Możliwe zaspokojenie w trybie ustawowym",
+        "D": "Ograniczenia mogą wynikać z przepisów szczególnych"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 66,
+      "question": "[§10] Instrukcje zleceniodawcy — poprawne.",
+      "options": {
+        "A": "Spedytor powinien je wykonywać w granicach umowy",
+        "B": "Dowolna modyfikacja bez zgody",
+        "C": "Naruszenie może rodzić odpowiedzialność",
+        "D": "Można żądać zaliczek na wydatki"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 VII–VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 67,
+      "question": "[§10] Ubezpieczenie w spedycji — wybierz prawidłowe.",
+      "options": {
+        "A": "Spedytor może ubezpieczyć przesyłkę za zgodą",
+        "B": "Nigdy nie ubezpiecza",
+        "C": "Składka może obciążać zleceniodawcę",
+        "D": "Brak ubezpieczenia nigdy nie rodzi odpowiedzialności"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 68,
+      "question": "[§10] Dowody i dokumenty — poprawne.",
+      "options": {
+        "A": "List przewozowy, zlecenie spedycyjne, potwierdzenia",
+        "B": "Dokumenty nie mają znaczenia",
+        "C": "Obowiązek rozliczenia i raportowania",
+        "D": "E-dokumenty dopuszczalne"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 69,
+      "question": "[§10] Odprawa celna — wskaż prawidłowe.",
+      "options": {
+        "A": "Może być czynnością dodatkową spedytora",
+        "B": "Wymaga odrębnego umocowania",
+        "C": "Nie jest zadaniem spedytora",
+        "D": "Dokumentacja celna należy do obowiązków spedytora przy takim zleceniu"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 70,
+      "question": "[§10] Wynagrodzenie i koszty — wybierz prawidłowe.",
+      "options": {
+        "A": "Prowizja za organizację przewozu",
+        "B": "Zwrot wydatków uzasadnionych",
+        "C": "Brak prawa do zaliczek",
+        "D": "Możliwe ryczałty kosztów"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 71,
+      "question": "[§10] Roszczenia z tytułu szkód — poprawne.",
+      "options": {
+        "A": "Spedytor odpowiada za szkody z nienależytej organizacji",
+        "B": "Zawsze odpowiada jak przewoźnik",
+        "C": "Terminy i tryb reklamacyjny mogą wynikać z przepisów szczególnych",
+        "D": "Dowody obejmują dokumentację przewozową"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 72,
+      "question": "[§10] Zakończenie zlecenia spedycyjnego — wskaż prawidłowe.",
+      "options": {
+        "A": "Rozliczenie i wydanie dokumentów",
+        "B": "Prawo zatrzymania nigdy nie przysługuje",
+        "C": "Zwrot niewykorzystanych zaliczek",
+        "D": "Raport z wykonania czynności"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 73,
+      "question": "[§10] Dodatkowe zagadnienie (1) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 74,
+      "question": "[§10] Dodatkowe zagadnienie (2) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 75,
+      "question": "[§10] Dodatkowe zagadnienie (3) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §10 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    }
+  ]
+}
