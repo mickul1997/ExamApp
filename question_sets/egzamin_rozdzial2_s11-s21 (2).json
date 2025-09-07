@@ -1,0 +1,3542 @@
+{
+  "title": "Egzamin z prawa handlowego — Rozdział 2 (Kidyba, 26. wyd.) — WERSJA ROZSZERZONA",
+  "topic": "§11–§21: Łączenie, podział, przekształcenia spółek; EZIG; SE; Spółdzielnia; Przedsiębiorstwo państwowe; NFP",
+  "format": "wielokrotnego wyboru (multi-select)",
+  "instructions": "Zaznacz wszystkie prawidłowe odpowiedzi (może być więcej niż jedna).",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[§11] Plan połączenia — elementy obligatoryjne.",
+      "options": {
+        "A": "Wskazanie firm, siedzib, form prawnych i sposobu łączenia.",
+        "B": "Stosunek wymiany udziałów/akcji i ewentualne dopłaty.",
+        "C": "Załączniki zgodnie z art. 499 §2 KSH.",
+        "D": "Obowiązkowe dołączenie zgód wszystkich wierzycieli."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 498–499. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 2,
+      "question": "[§11] Udostępnienie/ogłoszenie planu połączenia.",
+      "options": {
+        "A": "Można zastąpić ogłoszenie publikacją online przez wymagany okres.",
+        "B": "Udostępnienie online musi być nieprzerwane do zakończenia zgromadzenia.",
+        "C": "Ogłoszenie jest zbędne również bez publikacji online.",
+        "D": "Co do zasady termin min. miesiąc przed pierwszą uchwałą."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 500 §2^1, 506. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 3,
+      "question": "[§11] Badanie planu przez biegłego.",
+      "options": {
+        "A": "Biegłego wyznacza sąd rejestrowy.",
+        "B": "Opinia obejmuje poprawność i rzetelność planu.",
+        "C": "Zawsze wyłącza się badanie przy łączeniu spółek kapitałowych.",
+        "D": "Termin opinii jest ustawowo limitowany."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 502. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 4,
+      "question": "[§11] Sprawozdanie zarządu — zakres.",
+      "options": {
+        "A": "Uzasadnia podstawy prawne i ekonomiczne połączenia.",
+        "B": "Omawia stosunek wymiany i trudności wyceny.",
+        "C": "W trybach uproszczonych może zostać wyłączone.",
+        "D": "Musi zawierać opinię doradcy transakcyjnego pod rygorem nieważności."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 501, 516. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 5,
+      "question": "[§11] Uchwały połączeniowe i większości.",
+      "options": {
+        "A": "Co do zasady każda spółka uczestnicząca podejmuje uchwałę.",
+        "B": "Możliwe większości kwalifikowane.",
+        "C": "Bez trybu uproszczonego wystarczy uchwała jednej spółki.",
+        "D": "Uchwały zapadają po udostępnieniu dokumentów."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 506 i nast.. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 6,
+      "question": "[§11] Ochrona wierzycieli.",
+      "options": {
+        "A": "Można żądać zabezpieczenia po uprawdopodobnieniu zagrożenia.",
+        "B": "Termin na zgłoszenia to 6 miesięcy od ogłoszenia.",
+        "C": "Zabezpieczenie przysługuje także bez uprawdopodobnienia.",
+        "D": "Stosuje się niezależnie od wariantu łączenia."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 496. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 7,
+      "question": "[§11] Skutki połączenia (sukcesja).",
+      "options": {
+        "A": "Sukcesja uniwersalna na spółkę przejmującą/nową.",
+        "B": "Przejście stosunków pracy.",
+        "C": "Udziały/akcje spółki przejmującej/nowej dla wspólników przejmowanej.",
+        "D": "Skutki połączenia po 6 miesiącach od wpisu."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 494. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 8,
+      "question": "[§11] Tryb uproszczony (100%).",
+      "options": {
+        "A": "Możliwość wyłączenia badania przez biegłego.",
+        "B": "Możliwość wyłączenia sprawozdania zarządu.",
+        "C": "Zakaz przy 90% posiadania.",
+        "D": "Zastępcze wymogi informacyjne."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 516. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 9,
+      "question": "[§11] Uprawnienia informacyjne wspólników.",
+      "options": {
+        "A": "Wgląd do planu i załączników.",
+        "B": "Wgląd do sprawozdania zarządu i opinii biegłego.",
+        "C": "Prawo żądania prywatnej ekspertyzy na koszt spółki zawsze.",
+        "D": "Elektroniczne udostępnienie jest dopuszczalne."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 500 §2^1, 502, 505. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 10,
+      "question": "[§11] Wpis do KRS i skutek.",
+      "options": {
+        "A": "Skutek połączenia z dniem wpisu.",
+        "B": "Wykreślenie spółki przejmowanej po wpisie.",
+        "C": "Skutek odroczony o 6 miesięcy.",
+        "D": "Sąd bada wymogi formalne."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 493, 497. Kidyba 2024, Rozdz. 2 §11 Nb. 509."
+    },
+    {
+      "id": 11,
+      "question": "[§13] Sukcesja po połączeniu.",
+      "options": {
+        "A": "Przejście praw i obowiązków.",
+        "B": "Przejście stosunków pracy.",
+        "C": "Wygaśnięcie wszystkich koncesji ex lege.",
+        "D": "Przejście roszczeń i zobowiązań procesowych."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 494. Kidyba 2024, Rozdz. 2 §13 Nb. 509."
+    },
+    {
+      "id": 12,
+      "question": "[§13] Odpowiedzialność za dokumenty korporacyjne.",
+      "options": {
+        "A": "Członkowie organów mogą odpowiadać za szkodę.",
+        "B": "Brak winy wyłącza odpowiedzialność.",
+        "C": "Likwidatorzy zawsze wyłączeni.",
+        "D": "Odpowiedzialność może być solidarna."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 526. Kidyba 2024, Rozdz. 2 §13 Nb. 538."
+    },
+    {
+      "id": 13,
+      "question": "[§13] Połączenia transgraniczne S.K.A.",
+      "options": {
+        "A": "Stosuje się odpowiednio przepisy o kapitałowych.",
+        "B": "Art. 522 — szczególne zasady uchwał.",
+        "C": "Art. 525–526 — odpowiedzialność wspólników i organów.",
+        "D": "Brak ochrony wierzycieli."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 522, 525–526. Kidyba 2024, Rozdz. 2 §13 Nb. 538."
+    },
+    {
+      "id": 14,
+      "question": "[§13] Ograniczenia łączenia.",
+      "options": {
+        "A": "Spółka w likwidacji łączy się do podziału majątku.",
+        "B": "W upadłości łączenie jest wyłączone.",
+        "C": "Nie można umownie wyłączyć ochrony wierzycieli.",
+        "D": "Kontrola koncentracji może wymagać zgody organu."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: art. 494, 496; ustawa antymonopolowa. Kidyba 2024, Rozdz. 2 §13 Nb. 509."
+    },
+    {
+      "id": 15,
+      "question": "[§13 — SE] SE — formy utworzenia.",
+      "options": {
+        "A": "Połączenie S.A. (merger).",
+        "B": "Utworzenie holdingu przez spółki kapitałowe.",
+        "C": "Utworzenie zależnej SE.",
+        "D": "Przekształcenie S.A. w SE."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: KSH: S.A. (art. 301–490) stosowane odpowiednio; ustawa o SE; prawo UE. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 16,
+      "question": "[§13 — SE] SE — kapitał i akcje.",
+      "options": {
+        "A": "Min. kapitał 120 000 EUR.",
+        "B": "Wyłącznie wkłady pieniężne są dopuszczalne.",
+        "C": "Akcje mogą być imienne lub na okaziciela wg prawa krajowego.",
+        "D": "KSH o S.A. stosuje się subsydiarnie."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: KSH: S.A. (art. 301–490) stosowane odpowiednio; ustawa o SE; prawo UE. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 17,
+      "question": "[§13 — SE] SE — system organów.",
+      "options": {
+        "A": "Dualistyczny (zarząd + rada nadzorcza) jest dopuszczalny.",
+        "B": "Monistyczny (rada administrująca) jest dopuszczalny.",
+        "C": "W Polsce tylko dualistyczny jest dopuszczalny.",
+        "D": "Wybór następuje w statucie."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: KSH: S.A. (art. 301–490) stosowane odpowiednio; ustawa o SE; prawo UE. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 18,
+      "question": "[§13 — SE] SE — siedziba i przeniesienie.",
+      "options": {
+        "A": "Siedziba statutowa w UE, co do zasady wraz z zarządem głównym.",
+        "B": "Transgraniczna zmiana siedziby bez likwidacji jest możliwa.",
+        "C": "Zmiana siedziby zawsze powoduje rozwiązanie spółki.",
+        "D": "Procedura obejmuje plan i kontrolę organu rejestrowego."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: KSH: S.A. (art. 301–490) stosowane odpowiednio; ustawa o SE; prawo UE. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 19,
+      "question": "[§13 — SE] SE — uczestnictwo pracowników.",
+      "options": {
+        "A": "Wymaga procedury informowania i konsultacji (negocjacje).",
+        "B": "Model partycypacji zależy od wyniku negocjacji i prawa krajowego.",
+        "C": "Zawsze brak udziału pracowników w organach.",
+        "D": "Brak procedury nigdy nie wstrzymuje rejestracji."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: KSH: S.A. (art. 301–490) stosowane odpowiednio; ustawa o SE; prawo UE. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 20,
+      "question": "[§14] Formy podziału.",
+      "options": {
+        "A": "Przez przejęcie.",
+        "B": "Przez zawiązanie nowych spółek.",
+        "C": "Przez wydzielenie.",
+        "D": "Wyłącznie przez przekształcenie."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 528–529. Kidyba 2024, Rozdz. 2 §14 Nb. 538."
+    },
+    {
+      "id": 21,
+      "question": "[§14] Plan podziału — treść.",
+      "options": {
+        "A": "Sposób podziału i przydział majątku.",
+        "B": "Stosunek wymiany i dopłaty.",
+        "C": "Projekt zmian umowy/statutu albo projekt nowej umowy/statutu.",
+        "D": "Obowiązkowa zgoda wszystkich wierzycieli w załączniku."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 534–536. Kidyba 2024, Rozdz. 2 §14 Nb. 538."
+    },
+    {
+      "id": 22,
+      "question": "[§14] Skutki podziału i odpowiedzialność.",
+      "options": {
+        "A": "Sukcesja w zakresie przypisanych składników.",
+        "B": "Odpowiedzialność solidarna w granicach przydziału.",
+        "C": "Wygaśnięcie roszczeń wierzycieli z dniem podziału.",
+        "D": "Rozwiązanie spółki dzielonej przy rozbiorze."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 531, 546. Kidyba 2024, Rozdz. 2 §14 Nb. 538."
+    },
+    {
+      "id": 23,
+      "question": "[§14] Wydzielenie — specyfika.",
+      "options": {
+        "A": "Spółka dzielona pozostaje.",
+        "B": "Przeniesienie zorganizowanej części majątku.",
+        "C": "Sukcesja praw i obowiązków dot. wydzielonej części.",
+        "D": "Zakaz przyznania udziałów wspólnikom spółki dzielonej."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 529 §1 pkt 4, 531. Kidyba 2024, Rozdz. 2 §14 Nb. 538."
+    },
+    {
+      "id": 24,
+      "question": "[§14 — Spółdzielnia] Spółdzielnia — definicja.",
+      "options": {
+        "A": "Dobrowolne zrzeszenie o zmiennym składzie i funduszu udziałowym.",
+        "B": "Celem podstawowym jest zysk wspólników jak w S.A.",
+        "C": "Może prowadzić działalność dla realizacji celów członków.",
+        "D": "Zasadniczo brak celu zarobkowego sensu stricto."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: KSH bezpośrednio nie stosuje się; istotny przy spółkach zależnych spółdzielni; KRS. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 25,
+      "question": "[§14 — Spółdzielnia] Spółdzielnia — założyciele i rejestracja.",
+      "options": {
+        "A": "Min. 10 osób fizycznych lub 3 osoby prawne.",
+        "B": "Wpis do KRS konieczny.",
+        "C": "Założycielem musi być spółka akcyjna.",
+        "D": "Statut w formie aktu notarialnego."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: KSH bezpośrednio nie stosuje się; istotny przy spółkach zależnych spółdzielni; KRS. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 26,
+      "question": "[§14 — Spółdzielnia] Spółdzielnia — organy.",
+      "options": {
+        "A": "Walne zgromadzenie.",
+        "B": "Rada nadzorcza (co do zasady).",
+        "C": "Zarząd.",
+        "D": "Komisja rewizyjna obligatoryjna w każdej spółdzielni."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: KSH bezpośrednio nie stosuje się; istotny przy spółkach zależnych spółdzielni; KRS. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 27,
+      "question": "[§15] Terminy i kalendarz transformacji.",
+      "options": {
+        "A": "Minimalne terminy ogłoszeń/udostępnień są konieczne.",
+        "B": "Brak ciągłości udostępnienia planu jest irrelewantny.",
+        "C": "Terminy zaskarżenia wynikają z KSH.",
+        "D": "Termin opinii biegłego wyznacza sąd."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: art. 500 §2^1, 502, 506. Kidyba 2024, Rozdz. 2 §15."
+    },
+    {
+      "id": 28,
+      "question": "[§15] KRS i skutki wpisu.",
+      "options": {
+        "A": "Skutek transformacji z dniem wpisu.",
+        "B": "Wykreślenie podmiotu „wychodzącego” po wpisie następczyni.",
+        "C": "Skutek po 6 miesiącach od wpisu.",
+        "D": "Sąd rejestrowy bada formalnoprawne przesłanki."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 493, 497, 569–570. Kidyba 2024, Rozdz. 2 §15."
+    },
+    {
+      "id": 29,
+      "question": "[§15 — Przedsiębiorstwo państwowe] PP — status i majątek.",
+      "options": {
+        "A": "Państwowa osoba prawna odrębna od Skarbu Państwa.",
+        "B": "Jednostka bez osobowości prawnej.",
+        "C": "Majątek Skarbu Państwa oddany do zarządu przedsiębiorstwa.",
+        "D": "Nie podlega wpisowi do KRS."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: KSH stosuje się po komercjalizacji; KRS; przepisy o przedsiębiorstwach państwowych. Kidyba 2024, Rozdz. 2 §15 (Przedsiębiorstwa państwowe)."
+    },
+    {
+      "id": 30,
+      "question": "[§15 — Przedsiębiorstwo państwowe] PP — organy i nadzór.",
+      "options": {
+        "A": "Dyrektor jako kierownik.",
+        "B": "Rada pracownicza (model historyczny).",
+        "C": "Walne zgromadzenie jak w S.A.",
+        "D": "Rada nadzorcza obowiązkowa w każdym PP."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: KSH stosuje się po komercjalizacji; KRS; przepisy o przedsiębiorstwach państwowych. Kidyba 2024, Rozdz. 2 §15 (Przedsiębiorstwa państwowe)."
+    },
+    {
+      "id": 31,
+      "question": "[§15 — Przedsiębiorstwo państwowe] PP — komercjalizacja/przekształcenia.",
+      "options": {
+        "A": "Możliwa komercjalizacja do spółek Skarbu Państwa.",
+        "B": "Zawsze wymaga przetargu publicznego.",
+        "C": "Ustawa przewiduje łączenie i likwidację.",
+        "D": "Po przekształceniu stosuje się KSH."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: KSH stosuje się po komercjalizacji; KRS; przepisy o przedsiębiorstwach państwowych. Kidyba 2024, Rozdz. 2 §15 (Przedsiębiorstwa państwowe)."
+    },
+    {
+      "id": 32,
+      "question": "[§16] Zakres przekształceń.",
+      "options": {
+        "A": "Spółki osobowe i kapitałowe mogą się przekształcać (z wyjątkami).",
+        "B": "Przekształcenie transgraniczne możliwe w ramach prawa UE.",
+        "C": "Spółka cywilna nigdy nie może być przekształcona w jawną.",
+        "D": "Kapitałowa nie może być przekształcona w osobową."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 551 §1, §11. Kidyba 2024, Rozdz. 2 §16 Nb. 564."
+    },
+    {
+      "id": 33,
+      "question": "[§16] Plan przekształcenia — treść/załączniki.",
+      "options": {
+        "A": "Forma spółki przekształconej, kapitał, prawa wspólników.",
+        "B": "Zasady przyznania udziałów/akcji.",
+        "C": "Załączniki: projekt umowy/statutu, wycena majątku.",
+        "D": "Brak obowiązku sprawozdań finansowych."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 556–558. Kidyba 2024, Rozdz. 2 §16 Nb. 564."
+    },
+    {
+      "id": 34,
+      "question": "[§16] Skutek przekształcenia — sukcesja.",
+      "options": {
+        "A": "Sukcesja praw i obowiązków.",
+        "B": "Kontynuacja bytu w innej formie.",
+        "C": "Ustanie praw publicznoprawnych z dniem wpisu.",
+        "D": "Wspólnicy stają się wspólnikami spółki przekształconej z dniem wpisu."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 553. Kidyba 2024, Rozdz. 2 §16 Nb. 564."
+    },
+    {
+      "id": 35,
+      "question": "[§17] Przekształcenie spółki cywilnej.",
+      "options": {
+        "A": "Możliwe w jawną przez wpis do KRS.",
+        "B": "Do przekształcenia w inną niż jawna stosuje się przepisy o jawnej.",
+        "C": "Możliwe przekształcenie handlowej w cywilną.",
+        "D": "Wspólnicy spółki cywilnej współdziałają przy przekształceniu."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 26 §5, 551 §3. Kidyba 2024, Rozdz. 2 §17 Nb. 564."
+    },
+    {
+      "id": 36,
+      "question": "[§17] Skutki przekształcenia cywilnej w jawną.",
+      "options": {
+        "A": "Sukcesja praw i obowiązków przedsiębiorstwa.",
+        "B": "Ciągłość kontraktów zawartych dla spółki.",
+        "C": "Powstanie nowego bytu bez kontynuacji.",
+        "D": "Odpowiedzialność jak w spółce jawnej."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 26 §5; 553 w zw. z 551 §3. Kidyba 2024, Rozdz. 2 §17 Nb. 564."
+    },
+    {
+      "id": 37,
+      "question": "[§18] Istota przekształcenia przedsiębiorcy.",
+      "options": {
+        "A": "Skutek z dniem wpisu spółki do KRS.",
+        "B": "Przedsiębiorca staje się jedynym wspólnikiem w chwili wpisu.",
+        "C": "Solidarna odpowiedzialność za zobowiązania sprzed przekształcenia przez okres ustawowy.",
+        "D": "Brak obowiązku dokumentów finansowych."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 584^1–584^13. Kidyba 2024, Rozdz. 2 §18 Nb. 510, 564."
+    },
+    {
+      "id": 38,
+      "question": "[§18] Sukcesja i odpowiedzialność.",
+      "options": {
+        "A": "Spółka wstępuje w prawa i obowiązki przedsiębiorcy.",
+        "B": "Koncesje/zezwolenia zawsze wygasają.",
+        "C": "Przejście umów co do zasady z mocy prawa.",
+        "D": "Okres odpowiedzialności przedsiębiorcy wynika z KSH."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: art. 584^2–584^5, 584^13. Kidyba 2024, Rozdz. 2 §18 Nb. 564."
+    },
+    {
+      "id": 39,
+      "question": "[§19] Osobowe → kapitałowe.",
+      "options": {
+        "A": "Dopuszczalne wg KSH.",
+        "B": "Wspólnicy otrzymują udziały/akcje spółki przekształconej.",
+        "C": "Wspólnicy osobowi tracą odpowiedzialność za długi sprzed przekształcenia bez wyjątków.",
+        "D": "Plan i uchwały zgodnie z KSH."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 571–574. Kidyba 2024, Rozdz. 2 §19 Nb. 564."
+    },
+    {
+      "id": 40,
+      "question": "[§19] Kapitałowe → osobowe.",
+      "options": {
+        "A": "Możliwe wg art. 575–576.",
+        "B": "Wspólnicy mogą wejść w odpowiedzialność osobistą.",
+        "C": "Brak obowiązku udostępnienia planu.",
+        "D": "Uchwała wymaga kwalifikowanej większości."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 575–576. Kidyba 2024, Rozdz. 2 §19 Nb. 564."
+    },
+    {
+      "id": 41,
+      "question": "[§19] Kapitałowe ↔ kapitałowe.",
+      "options": {
+        "A": "Dopuszczalne wg art. 577–580.",
+        "B": "Wspólnicy obejmują akcje/udziały wg planu.",
+        "C": "Nigdy nie ma badania biegłego.",
+        "D": "Możliwa ciągłość zezwoleń wg przepisów sektorowych."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 577–580. Kidyba 2024, Rozdz. 2 §19 Nb. 564."
+    },
+    {
+      "id": 42,
+      "question": "[§20] Zakres transgranicznego przekształcenia.",
+      "options": {
+        "A": "Dotyczy kapitałowych/S.K.A. z przeniesieniem co najmniej siedziby statutowej.",
+        "B": "Spółka jawna może przekształcić się w spółkę dowolnego państwa trzeciego.",
+        "C": "Spółka docelowa podlega prawu UE/EOG.",
+        "D": "Dyrektywa mobilności wprowadza szczególne mechanizmy kontroli."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: art. 551 §11; prawo UE. Kidyba 2024, Rozdz. 2 §20 Nb. 564."
+    },
+    {
+      "id": 43,
+      "question": "[§20] Procedura transgraniczna — elementy.",
+      "options": {
+        "A": "Plan i jego udostępnienie.",
+        "B": "Mechanizmy ochrony wierzycieli i wspólników (biegły/sąd).",
+        "C": "Brak roli sądu rejestrowego państwa wyjścia.",
+        "D": "Wpis spółki zagranicznej i wykreślenie spółki polskiej."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 551 §11 w zw. z 551–570. Kidyba 2024, Rozdz. 2 §20 Nb. 564."
+    },
+    {
+      "id": 44,
+      "question": "[§21] Cechy NFP.",
+      "options": {
+        "A": "Brak celu zarobkowego jako celu podstawowego.",
+        "B": "Zawsze zakaz działalności gospodarczej.",
+        "C": "Wpis do rejestru stowarzyszeń/fundacji, a przy działalności — także do rejestru przedsiębiorców.",
+        "D": "KSH stosuje się, gdy NFP uczestniczy w spółce handlowej."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: ustawa o KRS; KSH (udział w spółkach). Kidyba 2024, Rozdz. 2 §21 Nb. 714–715."
+    },
+    {
+      "id": 45,
+      "question": "[§21] Fundacja a działalność gospodarcza.",
+      "options": {
+        "A": "Może prowadzić działalność w rozmiarach służących celom statutowym.",
+        "B": "Wymaga ujawnienia w KRS.",
+        "C": "Fundacja nie może być wspólnikiem spółki kapitałowej.",
+        "D": "W spółkach zależnych stosuje się KSH właściwe dla formy."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: ustawa o fundacjach; KSH. Kidyba 2024, Rozdz. 2 §21 Nb. 714–715."
+    },
+    {
+      "id": 46,
+      "question": "[§12] EZIG — wskaż prawidłowe cechy konstrukcyjne i cel gospodarczy.",
+      "options": {
+        "A": "Służy ułatwieniu/rozwojowi działalności członków, a nie samodzielnemu osiąganiu zysku.",
+        "B": "Jest spółką kapitałową w rozumieniu KSH.",
+        "C": "Może osiągać nadwyżkę, która służy rozliczeniom między członkami.",
+        "D": "Zasadniczo zastępuje spółkę dominującą w grupie spółek."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); charakter/cel."
+    },
+    {
+      "id": 47,
+      "question": "[§12] EZIG — zakres dopuszczalnej aktywności.",
+      "options": {
+        "A": "Może koordynować działania operacyjne członków (np. marketing, logistyka).",
+        "B": "Może prowadzić samodzielną, pełną działalność konkurencyjną wobec członków jako cel główny.",
+        "C": "Może zawierać umowy pomocnicze do działalności członków.",
+        "D": "Z mocy prawa jest podatnikiem CIT według stawek dla S.A."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); zakres aktywności."
+    },
+    {
+      "id": 48,
+      "question": "[§12] EZIG — członkostwo i kryteria.",
+      "options": {
+        "A": "Członkami mogą być osoby fizyczne i prawne prowadzące działalność.",
+        "B": "Członkami mogą być wyłącznie spółki akcyjne.",
+        "C": "Wymogiem jest transgraniczny element (członkowie z co najmniej dwóch państw UE).",
+        "D": "Członkiem musi być Skarb Państwa."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); członkostwo."
+    },
+    {
+      "id": 49,
+      "question": "[§12] EZIG — prawa członków.",
+      "options": {
+        "A": "Prawo współdecydowania w sprawach zgrupowania zgodnie z umową.",
+        "B": "Brak jakichkolwiek praw informacyjnych członków.",
+        "C": "Możliwość wyłączenia członka decyzją sądu rejestrowego, jeżeli umowa tak stanowi.",
+        "D": "Prawo wnoszenia wkładów rzeczowych zamiast pieniężnych — dopuszczalne."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); prawa członków/wkłady."
+    },
+    {
+      "id": 50,
+      "question": "[§12] EZIG — powstanie i rejestracja w Polsce.",
+      "options": {
+        "A": "Wpis do KRS jest konieczny dla skutków wobec osób trzecich.",
+        "B": "Zgrupowanie powstaje wyłącznie na podstawie decyzji ministra właściwego.",
+        "C": "Umowa (statut) określa m.in. siedzibę, firmę i cel.",
+        "D": "Ogłoszenie wpisu następuje zgodnie z zasadami KRS/MSiG/WWW (odpowiednio)."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); powstanie/rejestracja."
+    },
+    {
+      "id": 51,
+      "question": "[§12] EZIG — treść umowy zgrupowania.",
+      "options": {
+        "A": "Określenie celu i zakresu działalności pomocniczej.",
+        "B": "Przydział wkładów i zasad finansowania.",
+        "C": "Skład organu zarządzającego/kierownika oraz reprezentację.",
+        "D": "Obowiązkowe wskazanie zgody UOKiK jako elementu umowy."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); umowa — elementy."
+    },
+    {
+      "id": 52,
+      "question": "[§12] EZIG — firma i oznaczenie.",
+      "options": {
+        "A": "Firma zawiera skrót „EZIG” lub „EEIG”.",
+        "B": "Dodanie państwa siedziby jest niedopuszczalne.",
+        "C": "Dopuszczalne jest użycie pełnej nazwy w języku obcym.",
+        "D": "Oznaczenie formy prawnej nie jest wymagane."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); firma."
+    },
+    {
+      "id": 53,
+      "question": "[§12] EZIG — siedziba i jej zmiana.",
+      "options": {
+        "A": "Siedziba powinna znajdować się w państwie członkowskim UE.",
+        "B": "Zmiana siedziby do innego państwa UE możliwa bez likwidacji.",
+        "C": "Zmiana siedziby zawsze powoduje rozwiązanie.",
+        "D": "Zmiana siedziby wymaga planu i ogłoszeń."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); siedziba/relokacja."
+    },
+    {
+      "id": 54,
+      "question": "[§12] EZIG — organy wewnętrzne.",
+      "options": {
+        "A": "Ustanawia się kierownika/zarząd prowadzący sprawy zgrupowania.",
+        "B": "Obowiązkowo tworzy się radę nadzorczą jak w S.A.",
+        "C": "Umowa może przewidywać zgromadzenie członków i jego kompetencje.",
+        "D": "Organ nadzoru państwowego jest obligatoryjny w każdej sprawie."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); organy."
+    },
+    {
+      "id": 55,
+      "question": "[§12] EZIG — tryb podejmowania decyzji.",
+      "options": {
+        "A": "Umowa może przewidywać większości kwalifikowane.",
+        "B": "Członek nie może być wyłączony od głosu z powodu konfliktu interesów.",
+        "C": "Dopuszczalne jest głosowanie pisemne/obiegowe, jeśli umowa tak stanowi.",
+        "D": "Wszystkie decyzje muszą być jednomyślne z mocy prawa."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); głosowanie."
+    },
+    {
+      "id": 56,
+      "question": "[§12] EZIG — reprezentacja na zewnątrz.",
+      "options": {
+        "A": "Reprezentację ujawnia się w KRS.",
+        "B": "Możliwa reprezentacja łączna członków organu.",
+        "C": "Członek zgrupowania z mocy prawa reprezentuje EZIG, bez postanowień umowy.",
+        "D": "Zasady reprezentacji określa umowa i ujawnienie."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); reprezentacja/KRS."
+    },
+    {
+      "id": 57,
+      "question": "[§12] EZIG — pełnomocnictwa i prokura.",
+      "options": {
+        "A": "Dopuszczalne jest ustanowienie prokury.",
+        "B": "Prokura nie podlega ujawnieniu w KRS.",
+        "C": "Ustanowienie pełnomocników szczególnych jest możliwe.",
+        "D": "Prokura może być łączna."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); prokura/pełnomocnictwa."
+    },
+    {
+      "id": 58,
+      "question": "[§12] EZIG — odpowiedzialność za zobowiązania.",
+      "options": {
+        "A": "Zgrupowanie odpowiada całym majątkiem.",
+        "B": "Członkowie mogą odpowiadać solidarnie na zasadach przewidzianych w prawie właściwym.",
+        "C": "Odpowiedzialność członków jest zawsze wyłączona.",
+        "D": "Można umownie wyłączyć odpowiedzialność wobec wierzycieli bez ich zgody."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); odpowiedzialność."
+    },
+    {
+      "id": 59,
+      "question": "[§12] EZIG — odpowiedzialność wewnętrzna członków.",
+      "options": {
+        "A": "Umowa może przewidywać regres między członkami.",
+        "B": "Odpowiedzialność regresowa jest niedopuszczalna.",
+        "C": "Zasady partycypacji w stratach określa umowa.",
+        "D": "Członek nigdy nie ponosi odpowiedzialności dyscyplinarnej."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); regres/straty."
+    },
+    {
+      "id": 60,
+      "question": "[§12] EZIG — rachunkowość i sprawozdania.",
+      "options": {
+        "A": "Prowadzi księgi zgodnie z ustawą o rachunkowości.",
+        "B": "Zawsze stosuje MSSF niezależnie od wielkości.",
+        "C": "Sprawozdania finansowe mogą podlegać ogłaszaniu (MSiG/WWW) odpowiednio do KSH.",
+        "D": "Nigdy nie podlega badaniu biegłego rewidenta."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); rachunkowość/ogłoszenia."
+    },
+    {
+      "id": 61,
+      "question": "[§12] EZIG — rok obrotowy i kontrola.",
+      "options": {
+        "A": "Rok obrotowy określa umowa zgrupowania.",
+        "B": "Kontrola wewnętrzna może być powierzona wybranemu członkowi.",
+        "C": "Nie wolno ustanowić komitetu audytu.",
+        "D": "Zasady kontroli zewnętrznej wynikają z przepisów szczególnych."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); kontrola."
+    },
+    {
+      "id": 62,
+      "question": "[§12] EZIG — źródła finansowania.",
+      "options": {
+        "A": "Wkłady członków określone w umowie.",
+        "B": "Emisja akcji/udziałów jak w S.A./z o.o.",
+        "C": "Finansowanie długiem (pożyczki) jest możliwe.",
+        "D": "Publiczna oferta akcji jest dopuszczalna."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); finansowanie."
+    },
+    {
+      "id": 63,
+      "question": "[§12] EZIG — rozliczenia z członkami.",
+      "options": {
+        "A": "Rozliczenia kosztów/profitów według reguł umownych.",
+        "B": "Zawsze dywidenda jak w S.A.",
+        "C": "Dopuszczalne są dopłaty członków na pokrycie kosztów wspólnych.",
+        "D": "Zakaz jakichkolwiek świadczeń wzajemnych między członkami."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); rozliczenia/dopłaty."
+    },
+    {
+      "id": 64,
+      "question": "[§12] EZIG — przyczyny rozwiązania.",
+      "options": {
+        "A": "Uchwała członków przewidziana w umowie.",
+        "B": "Orzeczenie sądu z ważnych powodów.",
+        "C": "Automatycznie z upływem 6 miesięcy od powstania.",
+        "D": "Zmiana siedziby do innego państwa UE zawsze powoduje rozwiązanie."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); rozwiązanie — przyczyny."
+    },
+    {
+      "id": 65,
+      "question": "[§12] EZIG — likwidacja i wykreślenie.",
+      "options": {
+        "A": "Przeprowadza się likwidację odpowiednio jak w osobowych (analogicznie).",
+        "B": "Wierzyciele mają pierwszeństwo zaspokojenia przed rozliczeniami członków.",
+        "C": "Wykreślenie z KRS kończy byt prawny w Polsce.",
+        "D": "Zawsze wymagana zgoda rządu."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); likwidacja/wykreślenie."
+    },
+    {
+      "id": 66,
+      "question": "[§12] EZIG — transgraniczność i prawo właściwe.",
+      "options": {
+        "A": "Możliwość zmiany siedziby w ramach UE bez likwidacji.",
+        "B": "Prawo właściwe określa rozporządzenie UE oraz prawo państwa siedziby.",
+        "C": "Zawsze stosuje się wyłącznie KSH bez odesłań.",
+        "D": "Kolizja praw jest rozstrzygana przez umowę bez ograniczeń."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); prawo właściwe."
+    },
+    {
+      "id": 67,
+      "question": "[§12] EZIG — kolizje i właściwość sądu.",
+      "options": {
+        "A": "Spory wewnętrzne mogą być poddane arbitrażowi, jeśli umowa tak stanowi.",
+        "B": "Właściwy jest wyłącznie sąd państwa członka o największym udziale.",
+        "C": "Dopuszczalny jest wybór prawa w granicach rozporządzenia.",
+        "D": "Zawsze wyłącznie sądy polskie są właściwe."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); jurysdykcja/kolizje."
+    },
+    {
+      "id": 68,
+      "question": "[§12] EZIG — ogłoszenia i ujawnienia rejestrowe.",
+      "options": {
+        "A": "Ogłoszenia mogą następować w MSiG lub przez stronę WWW — odpowiednio do zasad znanych z KSH.",
+        "B": "Brak jakichkolwiek ogłoszeń jest dopuszczalny.",
+        "C": "Ujawnia się skład organów i reprezentację.",
+        "D": "Zmiany umowy nie wymagają ujawnienia."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); ogłoszenia/KRS."
+    },
+    {
+      "id": 69,
+      "question": "[§12] EZIG — transparentność i dostęp do dokumentów.",
+      "options": {
+        "A": "Członkom zapewnia się dostęp do umowy i uchwał.",
+        "B": "Nie ujawnia się danych w KRS.",
+        "C": "Elektroniczne udostępnianie dokumentów jest dopuszczalne.",
+        "D": "Uchwały mogą być zaskarżane wg reguł przyjętych w umowie i prawa właściwego."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: stosowane pomocniczo (ujawnienia/KRS, odpowiedzialność w spółkach zależnych); analogie do spółek osobowych/kapitałowych. Kidyba 2024, Rozdz. 2 §12 (EZIG); dostęp/zaskarżenie."
+    },
+    {
+      "id": 70,
+      "question": "[§11] Plan połączenia — elementy i załączniki (doprecyzowanie).",
+      "options": {
+        "A": "Wskazanie firm/siedzib i sposobu łączenia.",
+        "B": "Stosunek wymiany i dopłaty.",
+        "C": "Załączniki z art. 499 §2 (projekty uchwał/umów/statutów, wycena).",
+        "D": "Załącznik z listą wierzycieli jest obligatoryjny."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 498–499. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 71,
+      "question": "[§11] Plan połączenia — dopuszczalne uproszczenia treści.",
+      "options": {
+        "A": "Możliwe pominięcie stosunku wymiany przy 100% zależności (warunkowo).",
+        "B": "Plan nie musi przewidywać dnia przyznania uprawnień do dywidendy.",
+        "C": "Nie wolno pominąć wskazania trybu łączenia.",
+        "D": "Plan może odsyłać do statutu w sprawach technicznych."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: art. 499 §1 pkt 2, 516; 499 §1 pkt 4. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 72,
+      "question": "[§11] Ogłoszenie/udostępnienie — kontrola terminów i ciągłości.",
+      "options": {
+        "A": "Co do zasady min. miesiąc przed pierwszą uchwałą.",
+        "B": "Publikacja WWW może zastąpić MSiG.",
+        "C": "Ciągłość udostępnienia nie jest wymagana.",
+        "D": "Udostępnienie trwa do zakończenia zgromadzenia."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 500 §2^1, 506. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 73,
+      "question": "[§11] Udostępnienie dokumentów — zakres i forma.",
+      "options": {
+        "A": "Plan + załączniki; sprawozdanie zarządu; opinia biegłego.",
+        "B": "Elektroniczny dostęp jest dopuszczalny.",
+        "C": "Wystarczy odpis KRS.",
+        "D": "Brak udostępnienia nie wpływa na ważność uchwał."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 501–505, 500 §2^1. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 74,
+      "question": "[§11] Biegły — powołanie i zakres.",
+      "options": {
+        "A": "Wyznacza go sąd rejestrowy.",
+        "B": "Bada rzetelność i poprawność planu.",
+        "C": "Termin opinii ustawowo limitowany.",
+        "D": "Wyznacza go rada nadzorcza spółki przejmującej."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 502. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 75,
+      "question": "[§11] Biegły — wyłączenia i tryby uproszczone.",
+      "options": {
+        "A": "Możliwość wyłączenia przy łączeniach 100%/siostrzanych.",
+        "B": "Wyłączenie wynika z art. 516 KSH.",
+        "C": "Nigdy nie można wyłączyć badania.",
+        "D": "Opinia biegłego może obejmować metody wyceny."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 516, 502. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 76,
+      "question": "[§11] Sprawozdanie zarządu — treść i zwolnienia.",
+      "options": {
+        "A": "Uzasadnia podstawy prawne/ekonomiczne i stosunek wymiany.",
+        "B": "Omawia trudności wyceny.",
+        "C": "Można zwolnić w przewidzianych przypadkach.",
+        "D": "Zawsze wymaga opinii doradcy transakcyjnego."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 501, 516. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 77,
+      "question": "[§11] Sprawozdanie zarządu — zakres informacji dla wspólników.",
+      "options": {
+        "A": "Wpływ połączenia na prawa wspólników.",
+        "B": "Opis współczynników i metod wyceny.",
+        "C": "Ocena wpływu na wierzycieli.",
+        "D": "Zawsze pomijane przy łączeniu przez nową spółkę."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 501. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 78,
+      "question": "[§11] Uchwały połączeniowe — wymogi formalne.",
+      "options": {
+        "A": "Podejmowane przez zgromadzenia każdej spółki (z wyjątkami).",
+        "B": "Wymagane kwalifikowane większości.",
+        "C": "Jedna uchwała wystarczy bez trybu uproszczonego.",
+        "D": "Uchwały po uprzednim udostępnieniu dokumentów."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 506 i nast.. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 79,
+      "question": "[§11] Uchwały połączeniowe — treść i skutki.",
+      "options": {
+        "A": "Zawierają zgodę na plan/zmiany umowy lub statut.",
+        "B": "Mogą wskazywać dzień praw do dywidendy.",
+        "C": "Nie mogą delegować zmian na zarząd.",
+        "D": "Stanowią podstawę wpisu i wykreślenia."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 506, 499 §1 pkt 4, 493. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 80,
+      "question": "[§11] Ochrona wierzycieli — przesłanki i instrumenty.",
+      "options": {
+        "A": "Uprawdopodobnienie zagrożenia zaspokojenia.",
+        "B": "Żądanie zabezpieczenia w terminie 6 miesięcy od ogłoszenia.",
+        "C": "Zabezpieczenie bez wykazania zagrożenia.",
+        "D": "Możliwe fakultatywne środki zabezpieczające."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 496. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 81,
+      "question": "[§11] Ochrona wierzycieli — relacja do rozliczeń między spółkami.",
+      "options": {
+        "A": "Zabezpieczenie niezależne od sposobu łączenia.",
+        "B": "Pierwszeństwo zaspokojenia z majątku właściwej spółki przed wpisem.",
+        "C": "Wierzyciel nie ma legitymacji do zaskarżenia uchwał.",
+        "D": "Może żądać odpowiednich gwarancji."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 496. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 82,
+      "question": "[§11] Wpis i skutek połączenia — zasady.",
+      "options": {
+        "A": "Skutek z dniem wpisu spółki przejmującej/nowej.",
+        "B": "Wykreślenie spółki przejmowanej po wpisie.",
+        "C": "Skutek odroczony 6 miesięcy.",
+        "D": "Sąd bada wymogi formalne."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 493, 497. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 83,
+      "question": "[§11] Skutki połączenia — sukcesja i pracownicy.",
+      "options": {
+        "A": "Sukcesja uniwersalna praw i obowiązków.",
+        "B": "Stosunki pracy przechodzą z mocy prawa.",
+        "C": "Wspólnicy spółki przejmowanej obejmują udziały/akcje w spółce przejmującej/nowej.",
+        "D": "Wygasają licencje z mocy prawa zawsze."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 494. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 84,
+      "question": "[§11] Zaskarżanie uchwał — terminy i granice.",
+      "options": {
+        "A": "Środki zaskarżenia wg KSH i terminów ustawowych.",
+        "B": "Po 6 miesiącach nie można uchylić połączenia z przyczyn z art. 21 KSH.",
+        "C": "Każdy wierzyciel ma status jak akcjonariusz.",
+        "D": "Ważność uchwał nie zależy od udostępnienia dokumentów."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 497 §2; przepisy o zaskarżaniu. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 85,
+      "question": "[§11] Odpowiedzialność członków organów/likwidatorów.",
+      "options": {
+        "A": "Możliwa odpowiedzialność odszkodowawcza wobec spółki i wspólników.",
+        "B": "W S.K.A. zastosowanie art. 526.",
+        "C": "Odpowiedzialność niezależna od winy.",
+        "D": "Likwidatorzy wyłączeni co do zasady z odpowiedzialności."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 526. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 86,
+      "question": "[§11] Prawo konkurencji — koncentracje.",
+      "options": {
+        "A": "Obowiązek zgłoszenia zamiaru koncentracji (próg).",
+        "B": "Brak zgłoszenia może rodzić sankcje.",
+        "C": "Zgoda antymonopolowa zastępowana uchwałami.",
+        "D": "Regulacje stosuje się równolegle do KSH."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: ustawa o ochronie konkurencji. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 87,
+      "question": "[§11] Transgraniczne łączenia — S.K.A. i modyfikacje.",
+      "options": {
+        "A": "Stosuje się przepisy o kapitałowych z modyfikacjami.",
+        "B": "Art. 522 reguluje uchwały; 525–526 — odpowiedzialność.",
+        "C": "Udział biegłego jest zawsze wyłączony.",
+        "D": "Obowiązują dodatkowe wymogi informacyjne."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 522, 525–526. Kidyba 2024, Rozdz. 2 §11 Nb. 509, 514–517."
+    },
+    {
+      "id": 88,
+      "question": "[§12] Stosunek wymiany — konstrukcja i uzasadnienie.",
+      "options": {
+        "A": "Określany w planie połączenia.",
+        "B": "Uzasadniany w sprawozdaniu zarządu.",
+        "C": "Może być pominięty przy 100% zależności.",
+        "D": "Musi być identyczny dla wszystkich klas akcji bez wyjątku."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 499 §1 pkt 2, 501, 516. Kidyba 2024, Rozdz. 2 §12 Nb. 514–517."
+    },
+    {
+      "id": 89,
+      "question": "[§12] Dopłaty pieniężne — ograniczenia praktyczne.",
+      "options": {
+        "A": "Dopuszczalne w granicach KSH.",
+        "B": "Muszą być wypłacane wszystkim wspólnikom także w trybie uproszczonym.",
+        "C": "Służą wyrównaniu wartości wymiany.",
+        "D": "Określa się je w planie połączenia."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: art. 499 §1 pkt 2. Kidyba 2024, Rozdz. 2 §12 Nb. 514–517."
+    },
+    {
+      "id": 90,
+      "question": "[§12] Załączniki do planu — kompletność.",
+      "options": {
+        "A": "Projekt uchwał o połączeniu.",
+        "B": "Projekt zmian umowy/statutu lub projekt nowej umowy/statutu.",
+        "C": "Ustalenie wartości majątku spółki przejmowanej.",
+        "D": "Wykaz wierzycieli jako obligatoryjny załącznik."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 499 §2. Kidyba 2024, Rozdz. 2 §12 Nb. 514–517."
+    },
+    {
+      "id": 91,
+      "question": "[§12] Załączniki — dokumenty finansowe.",
+      "options": {
+        "A": "Sprawozdania finansowe wymagane ustawą.",
+        "B": "Zawsze opinia biegłego rewidenta z badania sprawozdań.",
+        "C": "Możliwe odesłanie do repozytoriów elektronicznych.",
+        "D": "Udostępnienie elektroniczne dopuszczalne."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: art. 505, 500 §2^1. Kidyba 2024, Rozdz. 2 §12 Nb. 514–517."
+    },
+    {
+      "id": 92,
+      "question": "[§12] Uchwały — większości i forma.",
+      "options": {
+        "A": "Kwalifikowane większości z KSH/statutu.",
+        "B": "Zgromadzenie wspólników decyduje w sp. z o.o.",
+        "C": "Statut/umowa mogą zaostrzać wymogi.",
+        "D": "Uchwały bez udostępnienia dokumentów są dopuszczalne."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 506 i nast.. Kidyba 2024, Rozdz. 2 §12 Nb. 514–517."
+    },
+    {
+      "id": 93,
+      "question": "[§12] Uchwały — treść i skutki korporacyjne.",
+      "options": {
+        "A": "Zgoda na plan i zmiany umowy/statutu.",
+        "B": "Określenie dnia praw do dywidendy.",
+        "C": "Delegacja na zarząd do zmiany planu po rejestracji.",
+        "D": "Podstawa wpisu i wykreślenia."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 506, 499 §1 pkt 4, 493. Kidyba 2024, Rozdz. 2 §12 Nb. 514–517."
+    },
+    {
+      "id": 94,
+      "question": "[§12] Połączenia siostrzane/100% — zwolnienia.",
+      "options": {
+        "A": "Możliwe zwolnienie z badania przez biegłego.",
+        "B": "Możliwe zwolnienie ze sprawozdania zarządu.",
+        "C": "Obowiązkowe pełne ogłoszenia zawsze.",
+        "D": "Szczególne wymogi informacyjne zamiast pełnych."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 516. Kidyba 2024, Rozdz. 2 §12 Nb. 514–517."
+    },
+    {
+      "id": 95,
+      "question": "[§12] Likwidacja/upadłość — ograniczenia łączenia.",
+      "options": {
+        "A": "Likwidowana może łączyć się do podziału majątku.",
+        "B": "Upadła nie może się łączyć.",
+        "C": "Ochrony wierzycieli nie stosuje się.",
+        "D": "KSH przewiduje szczególne wyłączenia."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 494, 496. Kidyba 2024, Rozdz. 2 §12 Nb. 514–517."
+    },
+    {
+      "id": 96,
+      "question": "[§12] Udostępniane dokumenty — zakres i forma.",
+      "options": {
+        "A": "Plan, załączniki, sprawozdanie zarządu, opinia biegłego.",
+        "B": "Elektroniczny dostęp dopuszczalny.",
+        "C": "Wystarczy odpis KRS.",
+        "D": "Terminy wynikają z KSH."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 501–505, 500 §2^1. Kidyba 2024, Rozdz. 2 §12 Nb. 514–517."
+    },
+    {
+      "id": 97,
+      "question": "[§12] Dowody udostępnienia i ryzyka dla uchwał.",
+      "options": {
+        "A": "Brak ciągłości udostępnienia może podważać procedurę.",
+        "B": "Dowody publikacji WWW mają znaczenie dowodowe.",
+        "C": "Brak dowodu jest irrelewantny procesowo.",
+        "D": "MSiG nigdy nie jest wymagany."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 500 §2^1. Kidyba 2024, Rozdz. 2 §12 Nb. 514–517."
+    },
+    {
+      "id": 98,
+      "question": "[§13 — SE] SE — tryby kreacji a konsekwencje dla akcjonariuszy.",
+      "options": {
+        "A": "Przy mergerze akcjonariusze spółki przejmowanej otrzymują akcje SE.",
+        "B": "Holdingowa SE wymaga planu i zatwierdzenia.",
+        "C": "Zależna SE może być utworzona przez osoby prawne.",
+        "D": "Przekształcenie S.A. w SE wymaga uprzedniej dwuletniej siedziby w UE."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: KSH: S.A. odpowiednio; rozporządzenie 2157/2001. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 99,
+      "question": "[§13 — SE] SE — kapitał i wkłady.",
+      "options": {
+        "A": "Min. 120 000 EUR kapitału zakładowego.",
+        "B": "Wkłady niepieniężne są dopuszczalne.",
+        "C": "Wkłady muszą być zawsze pieniężne.",
+        "D": "KSH o aportach stosuje się odpowiednio."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: KSH: art. 301–309 (aporty) stosowane odpowiednio. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 100,
+      "question": "[§13 — SE] SE — kompetencje organów w systemie monistycznym.",
+      "options": {
+        "A": "Rada administrująca kieruje spółką i reprezentuje ją.",
+        "B": "Możliwy dyrektor generalny jako wykonawczy.",
+        "C": "Walne nie ma żadnych kompetencji.",
+        "D": "Zasady reprezentacji określa statut i prawo siedziby."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: KSH: S.A. organy stosowane odpowiednio. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 101,
+      "question": "[§13 — SE] SE — zmiana siedziby transgranicznie.",
+      "options": {
+        "A": "Wymaga planu i raportu oraz ochrony interesariuszy.",
+        "B": "Nie powoduje rozwiązania SE.",
+        "C": "Zawsze wymaga likwidacji w państwie wyjścia.",
+        "D": "Wpis w państwie docelowym poprzedza wykreślenie."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: ustawa o SE; rozporządzenie 2157/2001. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 102,
+      "question": "[§13 — SE] SE — partycypacja pracownicza po negocjacjach.",
+      "options": {
+        "A": "Model ustala się w porozumieniu lub według przepisów fallback.",
+        "B": "Może obejmować udział w radzie nadzorczej.",
+        "C": "Nie ma obowiązku informowania/ konsultacji.",
+        "D": "Brak porozumienia nigdy nie blokuje rejestracji."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: ustawa o uczestnictwie pracowników w SE. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 103,
+      "question": "[§13 — SE] SE — prawo właściwe i kolizje.",
+      "options": {
+        "A": "Rozporządzenie SE + prawo państwa siedziby.",
+        "B": "KSH stosuje się odpowiednio w sprawach S.A.",
+        "C": "Prawo państwa siedziby nie ma znaczenia.",
+        "D": "Wyłącza się całkowicie prawo krajowe."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: ustawa o SE; KSH (S.A.). Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 104,
+      "question": "[§14 — Spółdzielnia] Spółdzielnia — cele i działalność gospodarcza.",
+      "options": {
+        "A": "Dopuszczalna, jeśli służy celom członków.",
+        "B": "Celem nie jest maksymalizacja zysku wspólników jak w S.A.",
+        "C": "Zawsze zakaz jakiejkolwiek działalności gospodarczej.",
+        "D": "Może tworzyć spółki zależne objęte KSH."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: — (ustawa Prawo spółdzielcze); KSH przy spółkach zależnych. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 105,
+      "question": "[§14 — Spółdzielnia] Spółdzielnia — powstanie i statut.",
+      "options": {
+        "A": "Założyciele: min. 10 osób fiz. albo 3 osoby prawne.",
+        "B": "Statut w formie aktu notarialnego.",
+        "C": "Wpis do KRS wymagany.",
+        "D": "Założycielem musi być S.A."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: KRS; Prawo spółdzielcze. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 106,
+      "question": "[§14 — Spółdzielnia] Spółdzielnia — organy i kompetencje.",
+      "options": {
+        "A": "Walne zgromadzenie podejmuje uchwały statutowe.",
+        "B": "Rada nadzorcza sprawuje stały nadzór (co do zasady).",
+        "C": "Zarząd prowadzi sprawy i reprezentuje.",
+        "D": "Komisja rewizyjna zawsze obowiązkowa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: Prawo spółdzielcze. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 107,
+      "question": "[§14 — Spółdzielnia] Spółdzielnia — członkostwo i udziały.",
+      "options": {
+        "A": "Uchwała o przyjęciu tworzy członkostwo.",
+        "B": "Udziały są zbywalne jak akcje na okaziciela.",
+        "C": "Statut może określić obowiązkową liczbę udziałów.",
+        "D": "Rozliczenie przy wystąpieniu wg zasad statutu."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: Prawo spółdzielcze. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 108,
+      "question": "[§14 — Spółdzielnia] Spółdzielnia — odpowiedzialność.",
+      "options": {
+        "A": "Spółdzielnia odpowiada całym majątkiem.",
+        "B": "Członkowie co do zasady nie odpowiadają osobiście (chyba że statut).",
+        "C": "Zawsze solidarna odpowiedzialność członków z mocy ustawy.",
+        "D": "Statut może przewidzieć odpowiedzialność udziałową."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: Prawo spółdzielcze. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 109,
+      "question": "[§15 — Przedsiębiorstwo państwowe] PP — komercjalizacja i przekształcenia.",
+      "options": {
+        "A": "Możliwa komercjalizacja do spółek Skarbu Państwa.",
+        "B": "Po przekształceniu stosuje się KSH.",
+        "C": "Zawsze wymaga przetargu publicznego.",
+        "D": "Ustawa przewiduje łączenie i likwidację."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: ustawy o komercjalizacji; KSH po przekształceniu. Kidyba 2024, Rozdz. 2 §15 (PP)."
+    },
+    {
+      "id": 110,
+      "question": "[§13] Sukcesja — licencje i zezwolenia.",
+      "options": {
+        "A": "Co do zasady przechodzą, jeśli przepisy szczególne tak stanowią.",
+        "B": "Niektóre wymagają zgody organu.",
+        "C": "Zawsze wygasają z mocy prawa.",
+        "D": "Sukcesja procesowa obejmuje roszczenia w toku."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 494; przepisy sektorowe. Kidyba 2024, Rozdz. 2 §13 Nb. 509, 538."
+    },
+    {
+      "id": 111,
+      "question": "[§13] Zaskarżanie — legitymacja i interes prawny.",
+      "options": {
+        "A": "Akcjonariusz/wspólnik z interesem prawnym może zaskarżyć.",
+        "B": "Wierzyciel zaskarża na zasadach jak akcjonariusz.",
+        "C": "Terminy zawite wynikają z KSH.",
+        "D": "Powództwo o uchylenie i stwierdzenie nieważności to różne środki."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: KSH: przepisy o zaskarżaniu uchwał. Kidyba 2024, Rozdz. 2 §13 Nb. 509, 538."
+    },
+    {
+      "id": 112,
+      "question": "[§14] Wydzielenie — rozliczenia korporacyjne.",
+      "options": {
+        "A": "Wspólnicy spółki dzielonej mogą objąć udziały/akcje w spółce przejmującej/nowej.",
+        "B": "Zawsze są wyłączeni z objęcia udziałów.",
+        "C": "Sukcesja dotyczy praw/obowiązków związanych z wydzielaną częścią.",
+        "D": "Spółka dzielona traci byt prawny ex lege."
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 529 §1 pkt 4, 531. Kidyba 2024, Rozdz. 2 §14 Nb. 538."
+    },
+    {
+      "id": 113,
+      "question": "[§14] Podział — badanie biegłego i publikacje.",
+      "options": {
+        "A": "Badanie planu podziału może być wyłączone w przypadkach przewidzianych w KSH.",
+        "B": "Publikacja online planu może zastąpić ogłoszenie w MSiG (analogicznie do art. 500 §2^1).",
+        "C": "Zawsze wymagane pełne badanie biegłego.",
+        "D": "Udostępnienie dokumentów wspólnikom jest obowiązkowe."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 535–536 w zw. z 500 §2^1. Kidyba 2024, Rozdz. 2 §14 Nb. 538."
+    },
+    {
+      "id": 114,
+      "question": "[§16] Plan przekształcenia — wymogi informacyjne.",
+      "options": {
+        "A": "Projekt umowy/statutu i wycena składników majątku.",
+        "B": "Prawa przyznane wspólnikom w spółce przekształconej.",
+        "C": "Brak konieczności ujawniania zasad przydziału udziałów/akcji.",
+        "D": "Można udostępnić elektronicznie."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 556–558, 500 §2^1 odpowiednio. Kidyba 2024, Rozdz. 2 §16 Nb. 564."
+    },
+    {
+      "id": 115,
+      "question": "[§16] Uchwała o przekształceniu — treść.",
+      "options": {
+        "A": "Wyraża zgodę na brzmienie umowy/statutu.",
+        "B": "Określa liczbę udziałów/akcji przypadających wspólnikom.",
+        "C": "Nie wymaga kwalifikowanej większości.",
+        "D": "Poprzedzona udostępnieniem planu i załączników."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 562–563. Kidyba 2024, Rozdz. 2 §16 Nb. 564."
+    },
+    {
+      "id": 116,
+      "question": "[§17] Spółka cywilna → jawna — tryb i skutek.",
+      "options": {
+        "A": "Wpis do KRS konstytuuje przemianę.",
+        "B": "Sukcesja obejmuje przedsiębiorstwo wspólników.",
+        "C": "Powstaje nowy byt bez kontynuacji.",
+        "D": "Odpowiedzialność jak w sp. jawnej."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 26 §5; 553 w zw. z 551 §3. Kidyba 2024, Rozdz. 2 §17 Nb. 564."
+    },
+    {
+      "id": 117,
+      "question": "[§17] Spółka cywilna — dokumenty i uchwały.",
+      "options": {
+        "A": "Plan/uchwała przekształceniowa zgodnie z odesłaniem do jawnej.",
+        "B": "Udostępnienie dokumentów wspólnikom.",
+        "C": "Brak wymogu żadnych dokumentów.",
+        "D": "Wpis do KRS poprzedza uchwała."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 26 §5; 551 §3; 562–563. Kidyba 2024, Rozdz. 2 §17 Nb. 564."
+    },
+    {
+      "id": 118,
+      "question": "[§18] Przedsiębiorca → spółka — dokumenty i dzień przekształcenia.",
+      "options": {
+        "A": "Sprawozdanie finansowe na dzień przekształcenia.",
+        "B": "Wycena składników majątku.",
+        "C": "Brak jakichkolwiek dokumentów finansowych.",
+        "D": "Dzień wpisu = skutek przekształcenia."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 584^3–584^6, 584^1. Kidyba 2024, Rozdz. 2 §18 Nb. 564."
+    },
+    {
+      "id": 119,
+      "question": "[§18] Odpowiedzialność przedsiębiorcy po przekształceniu.",
+      "options": {
+        "A": "Solidarna ze spółką za zobowiązania sprzed przekształcenia.",
+        "B": "Okres odpowiedzialności z art. 584^13.",
+        "C": "Można ją wyłączyć bez zgody wierzycieli.",
+        "D": "Dotyczy wyłącznie publicznoprawnych."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 584^13. Kidyba 2024, Rozdz. 2 §18 Nb. 564."
+    },
+    {
+      "id": 120,
+      "question": "[§19] Kapitałowa ↔ kapitałowa — reżim formalny.",
+      "options": {
+        "A": "Plan przekształcenia i jego udostępnienie.",
+        "B": "Biegły może być wymagany zgodnie z KSH.",
+        "C": "Nigdy nie bada się planu.",
+        "D": "Wspólnicy obejmują udziały/akcje wg planu."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 577–580, 559–560. Kidyba 2024, Rozdz. 2 §19 Nb. 564."
+    },
+    {
+      "id": 121,
+      "question": "[§19] Osobowa → kapitałowa — prawa wspólników.",
+      "options": {
+        "A": "Otrzymują udziały/akcje w spółce przekształconej.",
+        "B": "Z dniem wpisu automatycznie ustaje wszelka odpowiedzialność za długi sprzed przekształcenia bez wyjątków.",
+        "C": "Mogą przysługiwać szczególne uprawnienia w umowie/statucie.",
+        "D": "Wymagana uchwała w trybie przewidzianym w KSH."
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: art. 571–574. Kidyba 2024, Rozdz. 2 §19 Nb. 564."
+    },
+    {
+      "id": 122,
+      "question": "[§20] Transgraniczne przekształcenie — plan i ochrona.",
+      "options": {
+        "A": "Plan zawiera m.in. skutki dla pracowników i wierzycieli.",
+        "B": "Mechanizmy ochrony przewiduje prawo UE i krajowe.",
+        "C": "Brak roli sądu rejestrowego państwa wyjścia.",
+        "D": "Publikacja planu online zwiększa transparentność."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 551 §11 w zw. z 551–570. Kidyba 2024, Rozdz. 2 §20 Nb. 564."
+    },
+    {
+      "id": 123,
+      "question": "[§20] Transgraniczne — prawo właściwe i rejestracja.",
+      "options": {
+        "A": "Prawo państwa docelowego stosuje własne wymogi rejestrowe.",
+        "B": "Wpis docelowy poprzedza wykreślenie w państwie wyjścia.",
+        "C": "Zawsze likwidacja w państwie wyjścia.",
+        "D": "Kolizje rozstrzygane według rozporządzeń UE."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: Dyrektywa mobilności; KSH art. 551 §11. Kidyba 2024, Rozdz. 2 §20 Nb. 564."
+    },
+    {
+      "id": 124,
+      "question": "[§21] NFP — rejestracja a działalność gospodarcza.",
+      "options": {
+        "A": "Wpis do rejestru stowarzyszeń/fundacji.",
+        "B": "Przy działalności — wpis do rejestru przedsiębiorców.",
+        "C": "Wpis przedsiębiorców eliminuje wpis podstawowy.",
+        "D": "Te same dane KRS identyfikują oba rejestry podmiotu."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: ustawa o KRS. Kidyba 2024, Rozdz. 2 §21 Nb. 714–715."
+    },
+    {
+      "id": 125,
+      "question": "[§21] NFP jako wspólnik spółki handlowej.",
+      "options": {
+        "A": "Może posiadać udziały/akcje w spółkach kapitałowych.",
+        "B": "W spółce stosuje się KSH jak dla innych wspólników.",
+        "C": "NFP nie może zasiadać w organach spółki kapitałowej.",
+        "D": "Może tworzyć spółki zależne do realizacji celów."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: KSH: z o.o., S.A., PSA. Kidyba 2024, Rozdz. 2 §21 Nb. 714–715."
+    },
+    {
+      "id": 126,
+      "question": "[§11.I.1.1] Wybierz elementy, które MUSZĄ znaleźć się w planie połączenia.",
+      "options": {
+        "A": "Wskazanie firm, siedzib i form uczestników",
+        "B": "Sposób łączenia",
+        "C": "Stosunek wymiany i dopłaty",
+        "D": "Wykaz wszystkich wierzycieli"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 498–499. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 127,
+      "question": "[§11.I.1.1] Plan połączenia — wskaż prawidłowe.",
+      "options": {
+        "A": "Forma pisemna",
+        "B": "Oznaczenie spółki przejmującej/nowej",
+        "C": "Opis zasad przyznania udziałów/akcji",
+        "D": "Zgody wszystkich wierzycieli jako załącznik obowiązkowy"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 498–499. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 128,
+      "question": "[§11.I.1.2] Załączniki planu połączenia — wybierz właściwe.",
+      "options": {
+        "A": "Projekt uchwał o połączeniu",
+        "B": "Projekt zmian umowy/statutu lub projektu nowej spółki",
+        "C": "Ustalenie wartości majątku przejmowanej",
+        "D": "Lista wspólników z podpisami notarialnymi"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 499 §2. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 129,
+      "question": "[§11.I.1.2] Załączniki — prawidłowe zestawienie.",
+      "options": {
+        "A": "Sprawozdania finansowe wymagane ustawą",
+        "B": "Projekt statutu nowej spółki",
+        "C": "Projekt uchwał połączeniowych",
+        "D": "Oświadczenia wierzycieli o braku sprzeciwu (obligatoryjne)"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 499 §2. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 130,
+      "question": "[§11.I.2.1] Terminy ogłoszenia/udostępnienia — wybierz poprawne.",
+      "options": {
+        "A": "Co do zasady min. miesiąc przed pierwszą uchwałą",
+        "B": "Udostępnienie WWW może zastąpić MSiG",
+        "C": "Udostępnienie musi trwać do zakończenia zgromadzenia",
+        "D": "Wystarczy 24h przed zgromadzeniem"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 500 §2^1, 506. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 131,
+      "question": "[§11.I.2.1] Udostępnienie planu — skutki naruszenia terminów.",
+      "options": {
+        "A": "Brak ciągłości może podważać procedurę",
+        "B": "Dowody publikacji WWW są istotne",
+        "C": "Terminy nie mają znaczenia",
+        "D": "Brak udostępnienia jest irrelewantny dla ważności"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 500 §2^1, 506. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 132,
+      "question": "[§11.I.2.2] Wspólnikom udostępnia się:",
+      "options": {
+        "A": "Plan i załączniki",
+        "B": "Sprawozdanie zarządu",
+        "C": "Opinię biegłego",
+        "D": "Wyłącznie odpis KRS"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 501–505, 500 §2^1. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 133,
+      "question": "[§11.I.2.2] Forma udostępnienia — wybierz prawidłowe.",
+      "options": {
+        "A": "Dopuszczalny jest dostęp elektroniczny",
+        "B": "Wymagane jest wyłącznie MSiG",
+        "C": "Wgląd w siedzibie spółki jest możliwy",
+        "D": "Brak udostępnienia nie wywołuje skutków"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 501–505, 500 §2^1. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 134,
+      "question": "[§11.II.1.1] Kto wyznacza biegłego i co bada?",
+      "options": {
+        "A": "Sąd rejestrowy",
+        "B": "Rada nadzorcza spółki przejmującej",
+        "C": "Rzetelność i poprawność planu",
+        "D": "Wyłącznie rachunkowość spółek"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 502. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 135,
+      "question": "[§11.II.1.1] Biegły przy połączeniu — prawidłowe twierdzenia.",
+      "options": {
+        "A": "Opinia ma charakter niezależny",
+        "B": "Termin opinii jest limitowany ustawowo",
+        "C": "Wyznacza go zarząd spółki przejmującej",
+        "D": "Opinia nie podlega ujawnieniu wspólnikom"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 502. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 136,
+      "question": "[§11.II.1.2] Zakres opinii biegłego obejmuje:",
+      "options": {
+        "A": "Metody wyceny i trudności szacowania",
+        "B": "Sprawdzenie stosunku wymiany",
+        "C": "Weryfikację interesu publicznego",
+        "D": "Wyłącznie zgodność z IFRS"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 502. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 137,
+      "question": "[§11.II.1.2] Biegły — wybierz poprawne.",
+      "options": {
+        "A": "Może korzystać z informacji od zarządów",
+        "B": "Nie bada przyczyn ekonomicznych połączenia",
+        "C": "Opinia dotyczy rzetelności planu",
+        "D": "Zawsze sporządza opinię w 7 dni"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 502. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 138,
+      "question": "[§11.II.2.1] Tryb uproszczony — kiedy możliwy?",
+      "options": {
+        "A": "Gdy spółka przejmująca ma 100% udziałów w przejmowanej",
+        "B": "Zawsze, niezależnie od relacji",
+        "C": "W połączeniu siostrzanym przy spełnieniu przesłanek",
+        "D": "Gdy posiada 90% — zawsze bezwarunkowo"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 516. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 139,
+      "question": "[§11.II.2.1] Skutki uproszczeń — zaznacz prawidłowe.",
+      "options": {
+        "A": "Możliwe wyłączenie badania biegłego",
+        "B": "Możliwe wyłączenie sprawozdania zarządu",
+        "C": "Brak obowiązków informacyjnych",
+        "D": "Stosuje się szczególne wymogi informacyjne"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 516. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 140,
+      "question": "[§11.III.1.1] Sprawozdanie zarządu powinno zawierać:",
+      "options": {
+        "A": "Uzasadnienie prawne i ekonomiczne",
+        "B": "Opis stosunku wymiany i metod wyceny",
+        "C": "Szczególne trudności wyceny",
+        "D": "Wycenę biegłego rewidenta sprawozdań"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 501. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 141,
+      "question": "[§11.III.1.1] Sprawozdanie — wybierz poprawne.",
+      "options": {
+        "A": "Dotyczy wpływu na wspólników",
+        "B": "Zawsze zawiera prywatną opinię doradcy",
+        "C": "Może odwoływać się do załączników planu",
+        "D": "Nie obejmuje ryzyk transakcyjnych"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 501. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 142,
+      "question": "[§11.III.1.2] Kiedy można wyłączyć sprawozdanie?",
+      "options": {
+        "A": "W trybach uproszczonych z art. 516",
+        "B": "Nigdy",
+        "C": "Gdy wszyscy wspólnicy wyrażą zgodę ustawową",
+        "D": "Przy 100% zależności"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: art. 516. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 143,
+      "question": "[§11.III.1.2] Wyłączenia — skutki dla informowania.",
+      "options": {
+        "A": "Zastąpienie przez szczególne wymogi informacyjne",
+        "B": "Brak obowiązku udostępniania dokumentów",
+        "C": "Wciąż obowiązuje udostępnienie planu",
+        "D": "Znosi potrzebę opinii biegłego zawsze"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 516. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 144,
+      "question": "[§11.IV.1.1] Wymogi większości — wybierz poprawne.",
+      "options": {
+        "A": "Kwalifikowane większości wg KSH/statutu",
+        "B": "Zawsze jednomyślność",
+        "C": "Zgromadzenia każdej spółki uczestniczącej",
+        "D": "Możliwe zaostrzenie w statucie"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: art. 506 i nast.. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 145,
+      "question": "[§11.IV.1.1] Quorum i tryb — prawidłowe tezy.",
+      "options": {
+        "A": "Uprzednie udostępnienie dokumentów",
+        "B": "Tryb zdalny dopuszczalny wg przepisów",
+        "C": "Bez udostępnienia uchwały są zawsze ważne",
+        "D": "Uchwała jednej spółki wystarczy poza uproszczonym"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 506 i nast.. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 146,
+      "question": "[§11.IV.1.2] Treść uchwał połączeniowych.",
+      "options": {
+        "A": "Zgoda na plan i zmiany umowy/statutu",
+        "B": "Wskazanie dnia praw do dywidendy",
+        "C": "Delegacja na zarząd do modyfikacji planu po rejestracji",
+        "D": "Postanowienia o emisji udziałów/akcji"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 506, 499 §1 pkt 4. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 147,
+      "question": "[§11.IV.1.2] Skutek uchwał — wybierz prawidłowe.",
+      "options": {
+        "A": "Stanowią podstawę wpisu/wykreślenia",
+        "B": "Zastępują zgodę antymonopolową",
+        "C": "Mogą przyznać szczególne uprawnienia",
+        "D": "Nie wymagają ogłoszeń"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 506, 499 §1 pkt 4. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 148,
+      "question": "[§11.V.1.1] Przesłanki zabezpieczenia roszczeń.",
+      "options": {
+        "A": "Uprawdopodobnienie zagrożenia",
+        "B": "Wniosek w terminie 6 miesięcy",
+        "C": "Brak jakichkolwiek terminów",
+        "D": "Wniosek tylko po rejestracji"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 496. Kidyba 2024, Rozdz. 2 §11 Nb. 509."
+    },
+    {
+      "id": 149,
+      "question": "[§11.V.1.1] Wierzyciel a ciężar dowodu.",
+      "options": {
+        "A": "Musi wykazać zagrożenie zaspokojenia",
+        "B": "Nie musi wskazywać rodzaju zabezpieczenia",
+        "C": "Nie może żądać gwarancji",
+        "D": "Przysługuje mu środek przed wpisem"
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "basis": "KSH: art. 496. Kidyba 2024, Rozdz. 2 §11 Nb. 509."
+    },
+    {
+      "id": 150,
+      "question": "[§11.V.1.2] Rodzaje środków zabezpieczających — wskaż prawidłowe.",
+      "options": {
+        "A": "Gwarancje bankowe",
+        "B": "Zastawy/hipoteki przymusowe ustanawiane z urzędu",
+        "C": "Kaucje pieniężne",
+        "D": "Zabezpieczenia produkowane wyłącznie przez sąd polubowny"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 496. Kidyba 2024, Rozdz. 2 §11 Nb. 509."
+    },
+    {
+      "id": 151,
+      "question": "[§11.V.1.2] Zakres ochrony — wybierz poprawne.",
+      "options": {
+        "A": "Niezależna od wariantu łączenia",
+        "B": "Może dotyczyć tylko części roszczeń",
+        "C": "Wierzyciel ma pierwszeństwo zaspokojenia z majątku właściwej spółki przed wpisem",
+        "D": "Brak wpływu na wpis połączenia"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 496. Kidyba 2024, Rozdz. 2 §11 Nb. 509."
+    },
+    {
+      "id": 152,
+      "question": "[§11.VI.1.1] Sukcesja uniwersalna — co obejmuje?",
+      "options": {
+        "A": "Prawa i obowiązki majątkowe",
+        "B": "Stosunki pracy",
+        "C": "Roszczenia procesowe",
+        "D": "Wygaszenie wszystkich koncesji z mocy prawa"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 494. Kidyba 2024, Rozdz. 2 §11 Nb. 509."
+    },
+    {
+      "id": 153,
+      "question": "[§11.VI.1.1] Sukcesja — wybierz prawidłowe.",
+      "options": {
+        "A": "Wejście w umowy z mocy prawa (z wyjątkami)",
+        "B": "Zasada ciągłości kontraktowej",
+        "C": "Wygaśnięcie licencji zawsze ex lege",
+        "D": "Przejście zabezpieczeń akcesoryjnych"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 494. Kidyba 2024, Rozdz. 2 §11 Nb. 509."
+    },
+    {
+      "id": 154,
+      "question": "[§11.VI.1.2] Skutek z dniem wpisu — wskaż prawidłowe.",
+      "options": {
+        "A": "Wpis spółki przejmującej/nowej",
+        "B": "Wykreślenie przejmowanej",
+        "C": "Odroczenie o 6 miesięcy",
+        "D": "Kontrola formalna sądu rejestrowego"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 493, 497. Kidyba 2024, Rozdz. 2 §11 Nb. 509."
+    },
+    {
+      "id": 155,
+      "question": "[§11.VI.1.2] Wpis — relacje z innymi rejestrami.",
+      "options": {
+        "A": "Może wymagać aktualizacji wpisów sektorowych",
+        "B": "Nie ma wpływu na zezwolenia sektorowe",
+        "C": "Wpis jest konstytutywny",
+        "D": "Wykreślenie następuje z urzędu"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: art. 493, 497. Kidyba 2024, Rozdz. 2 §11 Nb. 509."
+    },
+    {
+      "id": 156,
+      "question": "[§11.VII.1.1] Środki zaskarżenia i terminy.",
+      "options": {
+        "A": "Powództwo o uchylenie i stwierdzenie nieważności",
+        "B": "Terminy zawite",
+        "C": "Każdy wierzyciel ma legitymację jak akcjonariusz",
+        "D": "Po 6 miesiącach brak uchylenia z art. 21 KSH"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 497 §2; przepisy o zaskarżaniu. Kidyba 2024, Rozdz. 2 §11 Nb. 509."
+    },
+    {
+      "id": 157,
+      "question": "[§11.VII.1.1] Legitymacja — wybierz prawidłowe.",
+      "options": {
+        "A": "Akcjonariusz/wspólnik z interesem prawnym",
+        "B": "Członek organu zawsze",
+        "C": "Wierzyciel na zasadach jak akcjonariusz",
+        "D": "Terminy liczone od ogłoszenia"
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "basis": "KSH: art. 497 §2; przepisy o zaskarżaniu. Kidyba 2024, Rozdz. 2 §11 Nb. 509."
+    },
+    {
+      "id": 158,
+      "question": "[§11.VII.1.2] Odpowiedzialność członków organów — wskaż prawidłowe.",
+      "options": {
+        "A": "Możliwa odpowiedzialność odszkodowawcza",
+        "B": "Niezależna od winy",
+        "C": "Likwidatorzy zawsze wyłączeni",
+        "D": "Solidarność jest dopuszczalna"
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "basis": "KSH: art. 526. Kidyba 2024, Rozdz. 2 §11 Nb. 538."
+    },
+    {
+      "id": 159,
+      "question": "[§11.VII.1.2] S.K.A. — odpowiedzialność szczególna.",
+      "options": {
+        "A": "Stosuje się art. 525–526",
+        "B": "Komplementariusz może odpowiadać",
+        "C": "Wyłączone jest stosowanie art. 526",
+        "D": "Akcjonariusz nigdy nie odpowiada"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 526. Kidyba 2024, Rozdz. 2 §11 Nb. 538."
+    },
+    {
+      "id": 160,
+      "question": "[§11.VIII.1.1] Warunki trybu uproszczonego — zaznacz prawidłowe.",
+      "options": {
+        "A": "100% posiadania przez przejmującą",
+        "B": "Połączenie siostrzane — możliwe uproszczenia",
+        "C": "90% zawsze wystarcza",
+        "D": "Brak obowiązków informacyjnych"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 516. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 161,
+      "question": "[§11.VIII.1.1] Wyłączenia obowiązków — prawidłowe tezy.",
+      "options": {
+        "A": "Można wyłączyć biegłego",
+        "B": "Można wyłączyć sprawozdanie zarządu",
+        "C": "Zawsze można pominąć plan",
+        "D": "Zastępcze wymogi informacyjne"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 516. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 162,
+      "question": "[§11.VIII.1.2] Informowanie wspólników w trybie uproszczonym.",
+      "options": {
+        "A": "Udostępnienie dokumentów elektronicznie",
+        "B": "Brak opinii biegłego w określonych przypadkach",
+        "C": "Zawsze wystarczy notka prasowa",
+        "D": "Wciąż obowiązują terminy KSH"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 516, 500 §2^1. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 163,
+      "question": "[§11.VIII.1.2] Zakres dokumentów — wybierz prawidłowe.",
+      "options": {
+        "A": "Plan połączenia",
+        "B": "Załączniki z art. 499 §2",
+        "C": "Opinia doradcy — obligatoryjna",
+        "D": "Sprawozdanie zarządu może być wyłączone"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 516, 500 §2^1. Kidyba 2024, Rozdz. 2 §11 Nb. 514–517."
+    },
+    {
+      "id": 164,
+      "question": "[§11.IX.1.1] Koncentracje — obowiązki.",
+      "options": {
+        "A": "Zgłoszenie zamiaru przy przekroczeniu progów",
+        "B": "Zgoda organu jest potrzebna niezależnie od KSH",
+        "C": "Uchwały połączeniowe zastępują zgodę",
+        "D": "Sankcje za brak zgłoszenia"
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "basis": "KSH: ustawa o ochronie konkurencji i konsumentów. Kidyba 2024, Rozdz. 2 §11 Nb. 509."
+    },
+    {
+      "id": 165,
+      "question": "[§11.IX.1.1] Relacja KSH–antymonopol.",
+      "options": {
+        "A": "Reżimy stosują się równolegle",
+        "B": "KSH ma pierwszeństwo i wyłącza prawo konkurencji",
+        "C": "Kontrola może warunkować wykonanie połączenia",
+        "D": "Zgoda jest warunkiem wpisu w praktyce"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: ustawa o ochronie konkurencji i konsumentów. Kidyba 2024, Rozdz. 2 §11 Nb. 509."
+    },
+    {
+      "id": 166,
+      "question": "[§11.IX.2.1] S.K.A. — modyfikacje przy łączeniu transgranicznym.",
+      "options": {
+        "A": "Stosuje się przepisy o kapitałowych z modyfikacjami",
+        "B": "Art. 522 określa tryb uchwał",
+        "C": "Odpowiedzialność z art. 525–526",
+        "D": "Wyłącza się ochronę wierzycieli"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 522, 525–526. Kidyba 2024, Rozdz. 2 §11 Nb. 538."
+    },
+    {
+      "id": 167,
+      "question": "[§11.IX.2.1] S.K.A. — odpowiedzialność uczestników.",
+      "options": {
+        "A": "Komplementariusz może odpowiadać za szkody",
+        "B": "Akcjonariusz nigdy nie ma roszczeń",
+        "C": "Członkowie organów zwolnieni z odpowiedzialności",
+        "D": "Odpowiedzialność może być solidarna"
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "basis": "KSH: art. 522, 525–526. Kidyba 2024, Rozdz. 2 §11 Nb. 538."
+    },
+    {
+      "id": 168,
+      "question": "[§13.I.1.1] Sukcesja — wskaż prawidłowe.",
+      "options": {
+        "A": "Przejście praw i obowiązków",
+        "B": "Przejście stosunków pracy",
+        "C": "Wygaśnięcie koncesji z mocy prawa zawsze",
+        "D": "Sukcesja procesowa"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 494. Kidyba 2024, Rozdz. 2 §13 Nb. 509."
+    },
+    {
+      "id": 169,
+      "question": "[§13.I.1.1] Sukcesja — umowy i zabezpieczenia.",
+      "options": {
+        "A": "Wejście w umowy z mocy prawa (wyjątki)",
+        "B": "Zabezpieczenia akcesoryjne przechodzą",
+        "C": "Umowy zawsze wygasają",
+        "D": "Licencje zawsze wygasają"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 494. Kidyba 2024, Rozdz. 2 §13 Nb. 509."
+    },
+    {
+      "id": 170,
+      "question": "[§13.I.1.2] Skutek z dniem wpisu — wybierz.",
+      "options": {
+        "A": "Wpis spółki przejmującej/nowej",
+        "B": "Wykreślenie przejmowanej",
+        "C": "Odroczenie ustawowe 6 miesięcy",
+        "D": "Kontrola formalna sądu"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 493, 497. Kidyba 2024, Rozdz. 2 §13 Nb. 509."
+    },
+    {
+      "id": 171,
+      "question": "[§13.I.1.2] Wpis — konsekwencje dokumentacyjne.",
+      "options": {
+        "A": "Aktualizacja rejestrów sektorowych",
+        "B": "Brak wpływu na obowiązki",
+        "C": "Wpis jest konstytutywny",
+        "D": "Wykreślenie z urzędu"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: art. 493, 497. Kidyba 2024, Rozdz. 2 §13 Nb. 509."
+    },
+    {
+      "id": 172,
+      "question": "[§13.II.1.1] Odpowiedzialność — wskaż poprawne.",
+      "options": {
+        "A": "Możliwa odpowiedzialność odszkodowawcza",
+        "B": "Niezależna od winy",
+        "C": "Solidarność dopuszczalna",
+        "D": "Likwidatorzy zawsze wyłączeni"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 526. Kidyba 2024, Rozdz. 2 §13 Nb. 538."
+    },
+    {
+      "id": 173,
+      "question": "[§13.II.1.1] Zakres odpowiedzialności — poprawne.",
+      "options": {
+        "A": "Wobec spółki i wspólników",
+        "B": "Tylko wobec państwa",
+        "C": "Zawsze odpowiedzialność karna",
+        "D": "Wymaga szkody i zawinienia co do zasady"
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "basis": "KSH: art. 526. Kidyba 2024, Rozdz. 2 §13 Nb. 538."
+    },
+    {
+      "id": 174,
+      "question": "[§13.II.1.2] Zaskarżanie — środki i terminy.",
+      "options": {
+        "A": "Uchylenie i nieważność",
+        "B": "Terminy zawite",
+        "C": "Każdy wierzyciel ma legitymację jak akcjonariusz",
+        "D": "Po 6 miesiącach brak uchylenia z art. 21 KSH"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 497 §2; 422–427. Kidyba 2024, Rozdz. 2 §13 Nb. 509."
+    },
+    {
+      "id": 175,
+      "question": "[§13.II.1.2] Legitymacja — wskaż poprawne.",
+      "options": {
+        "A": "Akcjonariusz/wspólnik z interesem prawnym",
+        "B": "Członek organu ex lege",
+        "C": "Prokurent zawsze",
+        "D": "Wierzyciel tylko wyjątkowo"
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "basis": "KSH: art. 497 §2; 422–427. Kidyba 2024, Rozdz. 2 §13 Nb. 509."
+    },
+    {
+      "id": 176,
+      "question": "[§13.III.1.1] Formy utworzenia SE — wybierz.",
+      "options": {
+        "A": "Połączenie S.A.",
+        "B": "Holdingowa SE",
+        "C": "Zależna SE",
+        "D": "Przekształcenie S.A. w SE"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: KSH: S.A. odpowiednio; rozporządzenie 2157/2001. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 177,
+      "question": "[§13.III.1.1] Konsekwencje dla akcjonariuszy przy mergerze.",
+      "options": {
+        "A": "Akcje SE dla akcjonariuszy przejmowanej",
+        "B": "Brak wymiany akcji",
+        "C": "Wymagana uchwała walnych",
+        "D": "Plan i zatwierdzenie"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: KSH: S.A. odpowiednio; rozporządzenie 2157/2001. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 178,
+      "question": "[§13.III.1.2] Systemy organów — wybierz.",
+      "options": {
+        "A": "Dualistyczny dopuszczalny",
+        "B": "Monistyczny dopuszczalny",
+        "C": "Tylko dualistyczny w Polsce",
+        "D": "Wybór w statucie"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: ustawa o SE; KSH S.A. odpowiednio. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 179,
+      "question": "[§13.III.1.2] Monistyczny — kompetencje.",
+      "options": {
+        "A": "Rada administrująca reprezentuje spółkę",
+        "B": "Walne traci kompetencje",
+        "C": "Możliwy dyrektor generalny",
+        "D": "Zasady reprezentacji w statucie"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: ustawa o SE; KSH S.A. odpowiednio. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 180,
+      "question": "[§13.IV.1.1] Zmiana siedziby — elementy procedury.",
+      "options": {
+        "A": "Plan i raport",
+        "B": "Ochrona interesariuszy",
+        "C": "Likwidacja w państwie wyjścia jest wymagana",
+        "D": "Wpis w państwie docelowym poprzedza wykreślenie"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: ustawa o SE. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 181,
+      "question": "[§13.IV.1.1] Siedziba — zasady ogólne.",
+      "options": {
+        "A": "Musi być w UE",
+        "B": "Co do zasady wraz z zarządem głównym",
+        "C": "Zmiana powoduje rozwiązanie",
+        "D": "Możliwa zmiana bez likwidacji"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: ustawa o SE. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 182,
+      "question": "[§13.IV.1.2] Partycpacja — negocjacje i fallback.",
+      "options": {
+        "A": "Wymagana procedura informowania i konsultacji",
+        "B": "Zawsze brak udziału w organach",
+        "C": "Model zależy od porozumienia/fallback",
+        "D": "Brak procedury nigdy nie blokuje rejestracji"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: ustawa o uczestnictwie pracowników w SE. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 183,
+      "question": "[§13.IV.1.2] Udział pracowników — poprawne tezy.",
+      "options": {
+        "A": "Możliwy udział w radzie nadzorczej",
+        "B": "Wyłącznie informowanie bez konsultacji",
+        "C": "Zakaz uczestnictwa w systemie monistycznym",
+        "D": "Treść porozumienia wiąże SE"
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "basis": "KSH: ustawa o uczestnictwie pracowników w SE. Kidyba 2024, Rozdz. 2 §13 (SE)."
+    },
+    {
+      "id": 184,
+      "question": "[§14 — Spółdzielnia.I.1.1] Cel spółdzielni — wybierz poprawne.",
+      "options": {
+        "A": "Dobrowolne zrzeszenie o zmiennym składzie",
+        "B": "Maksymalizacja zysku jak w S.A.",
+        "C": "Działalność dla realizacji celów członków",
+        "D": "Brak celu zarobkowego sensu stricto"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: — (Prawo spółdzielcze); KSH przy spółkach zależnych. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 185,
+      "question": "[§14 — Spółdzielnia.I.1.1] Działalność gospodarcza w spółdzielni.",
+      "options": {
+        "A": "Dopuszczalna służąca celom członków",
+        "B": "Zawsze zakazana",
+        "C": "Możliwe tworzenie spółek zależnych objętych KSH",
+        "D": "Wyłącznie nieodpłatna działalność"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: — (Prawo spółdzielcze); KSH przy spółkach zależnych. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 186,
+      "question": "[§14 — Spółdzielnia.I.1.2] Warunki założenia spółdzielni.",
+      "options": {
+        "A": "≥10 osób fiz. albo ≥3 osoby prawne",
+        "B": "Statut w formie aktu notarialnego",
+        "C": "Wpis do KRS",
+        "D": "Założyciel musi być S.A."
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: KRS; Prawo spółdzielcze. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 187,
+      "question": "[§14 — Spółdzielnia.I.1.2] Rejestracja — poprawne tezy.",
+      "options": {
+        "A": "Zgłoszenie do KRS",
+        "B": "Ujawnienie organów",
+        "C": "Brak potrzeby statutu",
+        "D": "Możliwy wpis do rejestru przedsiębiorców"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: KRS; Prawo spółdzielcze. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 188,
+      "question": "[§14 — Spółdzielnia.II.1.1] Organy obligatoryjne — wskaż.",
+      "options": {
+        "A": "Walne zgromadzenie",
+        "B": "Rada nadzorcza (co do zasady)",
+        "C": "Zarząd",
+        "D": "Komisja rewizyjna zawsze obowiązkowa"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: Prawo spółdzielcze. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 189,
+      "question": "[§14 — Spółdzielnia.II.1.1] Kompetencje organów — wybierz.",
+      "options": {
+        "A": "Walne uchwala statut",
+        "B": "Rada sprawuje stały nadzór",
+        "C": "Zarząd reprezentuje",
+        "D": "Rada zastępuje walne we wszystkim"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: Prawo spółdzielcze. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 190,
+      "question": "[§14 — Spółdzielnia.II.1.2] Członkostwo — poprawne.",
+      "options": {
+        "A": "Uchwała o przyjęciu",
+        "B": "Automatycznie z chwilą złożenia wniosku",
+        "C": "Możliwa obowiązkowa liczba udziałów",
+        "D": "Rozliczenie przy wystąpieniu wg statutu"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: Prawo spółdzielcze. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 191,
+      "question": "[§14 — Spółdzielnia.II.1.2] Udziały — poprawne.",
+      "options": {
+        "A": "Nie są akcjami na okaziciela",
+        "B": "Zbywalność wg statutu",
+        "C": "Kapitał udziałowy jest zmienny",
+        "D": "Zawsze wymagana dematerializacja"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: Prawo spółdzielcze. Kidyba 2024, Rozdz. 2 §14 (Spółdzielnia)."
+    },
+    {
+      "id": 192,
+      "question": "[§15 — Przedsiębiorstwo państwowe.I.1.1] Status — wskaż prawidłowe.",
+      "options": {
+        "A": "Państwowa osoba prawna",
+        "B": "Majątek Skarbu Państwa oddany do zarządu",
+        "C": "Jednostka bez osobowości",
+        "D": "Brak wpisu do KRS"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: ustawa o przedsiębiorstwach państwowych; KRS. Kidyba 2024, Rozdz. 2 §15 (PP)."
+    },
+    {
+      "id": 193,
+      "question": "[§15 — Przedsiębiorstwo państwowe.I.1.1] Majątek i odpowiedzialność państwa.",
+      "options": {
+        "A": "PP odpowiada całym majątkiem",
+        "B": "Skarb odpowiada zawsze solidarnie bez ograniczeń",
+        "C": "Odpowiedzialność Skarbu wynika z przepisów szczególnych",
+        "D": "Dyrektor nie ponosi żadnej odpowiedzialności"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: ustawa o przedsiębiorstwach państwowych; KRS. Kidyba 2024, Rozdz. 2 §15 (PP)."
+    },
+    {
+      "id": 194,
+      "question": "[§15 — Przedsiębiorstwo państwowe.I.1.2] Organy PP — wybierz poprawne.",
+      "options": {
+        "A": "Dyrektor",
+        "B": "Rada pracownicza (model historyczny)",
+        "C": "Walne zgromadzenie jak w S.A.",
+        "D": "Rada nadzorcza obligatoryjna zawsze"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: ustawa o przedsiębiorstwach państwowych. Kidyba 2024, Rozdz. 2 §15 (PP)."
+    },
+    {
+      "id": 195,
+      "question": "[§15 — Przedsiębiorstwo państwowe.I.1.2] Nadzór i kontrola — wskaż.",
+      "options": {
+        "A": "Organ założycielski sprawuje nadzór",
+        "B": "NIK/Kontrole państwowe",
+        "C": "KSH organy stosuje się wprost",
+        "D": "Brak obowiązków sprawozdawczych"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: ustawa o przedsiębiorstwach państwowych. Kidyba 2024, Rozdz. 2 §15 (PP)."
+    },
+    {
+      "id": 196,
+      "question": "[§15 — Przedsiębiorstwo państwowe.II.1.1] Komercjalizacja — skutki korporacyjne.",
+      "options": {
+        "A": "Po przekształceniu stosuje się KSH",
+        "B": "Zawsze przetarg publiczny",
+        "C": "Możliwe łączenie i likwidacja",
+        "D": "Przekształcenie tworzy spółkę Skarbu Państwa"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: ustawy o komercjalizacji; KSH po przekształceniu. Kidyba 2024, Rozdz. 2 §15 (PP)."
+    },
+    {
+      "id": 197,
+      "question": "[§15 — Przedsiębiorstwo państwowe.II.1.1] Udziały Skarbu Państwa w spółce przekształconej.",
+      "options": {
+        "A": "Skarb może objąć 100% akcji/udziałów",
+        "B": "Zawsze 51% minimum",
+        "C": "Możliwe późniejsze zbycie",
+        "D": "Nigdy nie podlega prywatyzacji"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: ustawy o komercjalizacji; KSH po przekształceniu. Kidyba 2024, Rozdz. 2 §15 (PP)."
+    },
+    {
+      "id": 198,
+      "question": "[§16.I.1.1] Dopuszczalność — wskaż poprawne.",
+      "options": {
+        "A": "Osobowe↔kapitałowe (z wyjątkami)",
+        "B": "Transgraniczne w ramach prawa UE",
+        "C": "Spółka cywilna nigdy w jawną",
+        "D": "Kapitałowa nigdy w osobową"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 551 §1, §11. Kidyba 2024, Rozdz. 2 §16 Nb. 564."
+    },
+    {
+      "id": 199,
+      "question": "[§16.I.1.1] Wyłączenia — poprawne.",
+      "options": {
+        "A": "Wybrane formy mogą mieć ograniczenia",
+        "B": "Zasady określa KSH i prawo UE",
+        "C": "Dowolność bez ograniczeń",
+        "D": "Tylko w sp. z o.o."
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 551 §1, §11. Kidyba 2024, Rozdz. 2 §16 Nb. 564."
+    },
+    {
+      "id": 200,
+      "question": "[§16.I.1.2] Plan — elementy.",
+      "options": {
+        "A": "Określenie formy i kapitału spółki przekształconej",
+        "B": "Zasady przyznania udziałów/akcji",
+        "C": "Projekt umowy/statutu i wycena",
+        "D": "Brak elementów informacyjnych"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 556–558. Kidyba 2024, Rozdz. 2 §16 Nb. 564."
+    },
+    {
+      "id": 201,
+      "question": "[§16.I.1.2] Udostępnienie planu.",
+      "options": {
+        "A": "Dostęp elektroniczny dopuszczalny",
+        "B": "Nie udostępnia się wspólnikom",
+        "C": "Terminy wg KSH",
+        "D": "Wystarczy ogłoszenie ustne"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 556–558. Kidyba 2024, Rozdz. 2 §16 Nb. 564."
+    },
+    {
+      "id": 202,
+      "question": "[§16.II.1.1] Biegły — zasady.",
+      "options": {
+        "A": "Wyznacza sąd",
+        "B": "Bada rzetelność planu",
+        "C": "Wyłączenie nigdy niemożliwe",
+        "D": "Zakres obejmuje metody wyceny"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 559–560. Kidyba 2024, Rozdz. 2 §16 Nb. 564."
+    },
+    {
+      "id": 203,
+      "question": "[§16.II.1.1] Biegły — informacja dla wspólników.",
+      "options": {
+        "A": "Opinia udostępniana wspólnikom",
+        "B": "Nie podlega udostępnieniu",
+        "C": "Może zawierać zastrzeżenia",
+        "D": "Zawsze termin 7 dni"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 559–560. Kidyba 2024, Rozdz. 2 §16 Nb. 564."
+    },
+    {
+      "id": 204,
+      "question": "[§16.II.1.2] Uchwała — treść.",
+      "options": {
+        "A": "Zgoda na umowę/statut",
+        "B": "Określenie liczby udziałów/akcji dla wspólników",
+        "C": "Brak wymogu kwalifikowanej większości",
+        "D": "Poprzedzona udostępnieniem planu"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 562–563. Kidyba 2024, Rozdz. 2 §16 Nb. 564."
+    },
+    {
+      "id": 205,
+      "question": "[§16.II.1.2] Uchwała — konsekwencje.",
+      "options": {
+        "A": "Podstawa wpisu spółki przekształconej",
+        "B": "Wykreślenie spółki przekształcanej",
+        "C": "Skutek po 6 miesiącach",
+        "D": "Powstanie nowego bytu bez ciągłości"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 562–563. Kidyba 2024, Rozdz. 2 §16 Nb. 564."
+    },
+    {
+      "id": 206,
+      "question": "[§17.I.1.1] Tryb — wybierz poprawne.",
+      "options": {
+        "A": "Wpis do KRS konstytuuje przemianę",
+        "B": "Wymagana uchwała wspólników",
+        "C": "Nie potrzeba żadnych dokumentów",
+        "D": "Stosuje się odpowiednio przepisy o jawnej"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 26 §5, 551 §3. Kidyba 2024, Rozdz. 2 §17 Nb. 564."
+    },
+    {
+      "id": 207,
+      "question": "[§17.I.1.1] Dokumenty — poprawne.",
+      "options": {
+        "A": "Plan/uchwała przekształceniowa",
+        "B": "Udostępnienie wspólnikom",
+        "C": "Brak planu jest zawsze dopuszczalny",
+        "D": "Wpis do KRS po uchwale"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 26 §5, 551 §3. Kidyba 2024, Rozdz. 2 §17 Nb. 564."
+    },
+    {
+      "id": 208,
+      "question": "[§17.I.1.2] Skutek — wybierz.",
+      "options": {
+        "A": "Sukcesja praw i obowiązków przedsiębiorstwa",
+        "B": "Ciągłość kontraktów",
+        "C": "Powstanie nowego bytu bez kontynuacji",
+        "D": "Odpowiedzialność jak w sp. jawnej"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 26 §5; 553. Kidyba 2024, Rozdz. 2 §17 Nb. 564."
+    },
+    {
+      "id": 209,
+      "question": "[§17.I.1.2] Odpowiedzialność — poprawne.",
+      "options": {
+        "A": "Wspólnicy odpowiadają jak wspólnicy jawni",
+        "B": "Z dniem wpisu wygasa wszelka odpowiedzialność za stare długi",
+        "C": "Zakres wynika z KSH",
+        "D": "Możliwa odpowiednia modyfikacja umowna wobec wierzycieli"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 26 §5; 553. Kidyba 2024, Rozdz. 2 §17 Nb. 564."
+    },
+    {
+      "id": 210,
+      "question": "[§18.I.1.1] Skutek i dzień przekształcenia.",
+      "options": {
+        "A": "Skutek z dniem wpisu spółki do KRS",
+        "B": "Przedsiębiorca staje się jedynym wspólnikiem na moment wpisu",
+        "C": "Skutek po 6 miesiącach",
+        "D": "Brak konieczności dokumentów finansowych"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 584^1–584^6. Kidyba 2024, Rozdz. 2 §18 Nb. 564."
+    },
+    {
+      "id": 211,
+      "question": "[§18.I.1.1] Dokumenty finansowe na dzień przekształcenia.",
+      "options": {
+        "A": "Sprawozdanie finansowe",
+        "B": "Wycena składników majątku",
+        "C": "Plan przekształcenia",
+        "D": "Brak jakichkolwiek dokumentów"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "KSH: art. 584^1–584^6. Kidyba 2024, Rozdz. 2 §18 Nb. 564."
+    },
+    {
+      "id": 212,
+      "question": "[§18.I.1.2] Sukcesja — wskaż poprawne.",
+      "options": {
+        "A": "Spółka wstępuje w prawa i obowiązki",
+        "B": "Licencje zawsze wygasają",
+        "C": "Umowy przechodzą co do zasady z mocy prawa",
+        "D": "Przejście stosunków pracy"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "KSH: art. 584^2–584^5, 584^13. Kidyba 2024, Rozdz. 2 §18 Nb. 564."
+    },
+    {
+      "id": 213,
+      "question": "[§18.I.1.2] Odpowiedzialność — okres i charakter.",
+      "options": {
+        "A": "Solidarna ze spółką za zobowiązania sprzed przekształcenia",
+        "B": "Okres z art. 584^13",
+        "C": "Można umownie wyłączyć wobec wierzycieli bez ich zgody",
+        "D": "Dotyczy wyłącznie zobowiązań publicznoprawnych"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: art. 584^2–584^5, 584^13. Kidyba 2024, Rozdz. 2 §18 Nb. 564."
+    },
+    {
+      "id": 214,
+      "question": "[§19.I.1.1] Przekształcenie — wskaż poprawne.",
+      "options": {
+        "A": "Dopuszczalne wg KSH",
+        "B": "Wspólnicy obejmują udziały/akcje",
+        "C": "Automatycznie wygasa odpowiedzialność za stare długi bez wyjątków",
+        "D": "Plan i uchwały są wymagane"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 571–574. Kidyba 2024, Rozdz. 2 §19 Nb. 564."
+    },
+    {
+      "id": 215,
+      "question": "[§19.I.1.1] Uprawnienia szczególne wspólników.",
+      "options": {
+        "A": "Można przewidzieć w umowie/statucie",
+        "B": "Zawsze zakazane",
+        "C": "Wymaga to zgody wszystkich",
+        "D": "Decyduje uchwała kwalifikowana"
+      },
+      "correct": [
+        "A",
+        "D"
+      ],
+      "basis": "KSH: art. 571–574. Kidyba 2024, Rozdz. 2 §19 Nb. 564."
+    },
+    {
+      "id": 216,
+      "question": "[§19.I.1.2] Kapitałowe → osobowe — wskaż.",
+      "options": {
+        "A": "Możliwe wg art. 575–576",
+        "B": "Wspólnicy mogą wejść w odpowiedzialność osobistą",
+        "C": "Brak obowiązku udostępnienia planu",
+        "D": "Uchwała wymaga kwalifikowanej większości"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 575–580. Kidyba 2024, Rozdz. 2 §19 Nb. 564."
+    },
+    {
+      "id": 217,
+      "question": "[§19.I.1.2] Kapitałowe ↔ kapitałowe — formalności.",
+      "options": {
+        "A": "Plan i udostępnienie",
+        "B": "Biegły może być wymagany",
+        "C": "Nigdy nie bada się planu",
+        "D": "Objęcie udziałów/akcji wg planu"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 575–580. Kidyba 2024, Rozdz. 2 §19 Nb. 564."
+    },
+    {
+      "id": 218,
+      "question": "[§20.I.1.1] Plan transgraniczny — elementy.",
+      "options": {
+        "A": "Skutki dla pracowników i wierzycieli",
+        "B": "Środki ochrony interesariuszy",
+        "C": "Brak jakiejkolwiek roli sądu państwa wyjścia",
+        "D": "Publikacja planu online"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: art. 551 §11; dyrektywa mobilności. Kidyba 2024, Rozdz. 2 §20 Nb. 564."
+    },
+    {
+      "id": 219,
+      "question": "[§20.I.1.1] Ochrona — mechanizmy.",
+      "options": {
+        "A": "Biegły/sąd weryfikuje plan",
+        "B": "Zawsze brak środków ochrony",
+        "C": "Wierzyciele mogą żądać zabezpieczenia",
+        "D": "Kraj docelowy stosuje własne wymogi rejestrowe"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: art. 551 §11; dyrektywa mobilności. Kidyba 2024, Rozdz. 2 §20 Nb. 564."
+    },
+    {
+      "id": 220,
+      "question": "[§20.I.1.2] Rejestracja — sekwencja czynności.",
+      "options": {
+        "A": "Wpis w państwie docelowym przed wykreśleniem",
+        "B": "Zawsze likwidacja w państwie wyjścia",
+        "C": "Wpis docelowy pod kontrolą organu rejestrowego",
+        "D": "Aktualizacja rejestrów po wykreśleniu"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: prawo UE + prawo państwa siedziby. Kidyba 2024, Rozdz. 2 §20 Nb. 564."
+    },
+    {
+      "id": 221,
+      "question": "[§20.I.1.2] Prawo właściwe — zasady.",
+      "options": {
+        "A": "Rozporządzenia/dyrektywy UE + prawo krajowe",
+        "B": "KSH ma zastosowanie odpowiednio",
+        "C": "Wyłącznie prawo państwa docelowego",
+        "D": "Prawo państwa wyjścia bez znaczenia"
+      },
+      "correct": [
+        "A",
+        "B"
+      ],
+      "basis": "KSH: prawo UE + prawo państwa siedziby. Kidyba 2024, Rozdz. 2 §20 Nb. 564."
+    },
+    {
+      "id": 222,
+      "question": "[§21.I.1.1] Rejestracja NFP — poprawne.",
+      "options": {
+        "A": "Wpis do rejestru stowarzyszeń/fundacji",
+        "B": "Przy działalności — rejestr przedsiębiorców",
+        "C": "Wpis przedsiębiorców eliminuje wpis podstawowy",
+        "D": "Ten sam numer KRS identyfikuje podmiot"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: ustawa o KRS. Kidyba 2024, Rozdz. 2 §21 Nb. 714–715."
+    },
+    {
+      "id": 223,
+      "question": "[§21.I.1.1] Działalność NFP — zasady.",
+      "options": {
+        "A": "Dopuszczalna akcesoryjnie do celów statutowych",
+        "B": "Zawsze zakazana",
+        "C": "Może wymagać koncesji/zezwoleń",
+        "D": "Wymaga ujawnienia w KRS"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "KSH: ustawa o KRS. Kidyba 2024, Rozdz. 2 §21 Nb. 714–715."
+    },
+    {
+      "id": 224,
+      "question": "[§21.I.1.2] NFP w spółkach — prawa i obowiązki.",
+      "options": {
+        "A": "Może posiadać udziały/akcje",
+        "B": "Obowiązuje reżim KSH jak innych wspólników",
+        "C": "Nie może zasiadać w organach kapitałowej",
+        "D": "Może tworzyć spółki zależne"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: KSH: z o.o./S.A./PSA. Kidyba 2024, Rozdz. 2 §21 Nb. 714–715."
+    },
+    {
+      "id": 225,
+      "question": "[§21.I.1.2] Corporate governance spółek NFP.",
+      "options": {
+        "A": "Zasady wynikają z KSH",
+        "B": "Statut spółki może przyznać szczególne uprawnienia",
+        "C": "Zawsze zakaz dywidendy dla NFP",
+        "D": "NFP podlega obowiązkom informacyjnym jak inni"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "KSH: KSH: z o.o./S.A./PSA. Kidyba 2024, Rozdz. 2 §21 Nb. 714–715."
+    }
+  ]
+}
