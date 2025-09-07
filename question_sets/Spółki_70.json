@@ -1,0 +1,854 @@
+{
+  "title": "Egzamin z prawa handlowego – Rozdział 2 (obie części) + KSH",
+  "topic": "Po 10 pytań (MSQ) dla: spółka jawna, spółka partnerska, spółka komandytowa, SKA, sp. z o.o., S.A., P.S.A.",
+  "format": "wielokrotnego wyboru (multi-select)",
+  "instructions": "Zaznacz wszystkie prawidłowe odpowiedzi (może być więcej niż jedna). Pytania mają podwyższony poziom trudności i opierają się na rozdziale 2 podręcznika oraz KSH.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Spółka jawna – powstanie i forma umowy (MSQ).",
+      "options": {
+        "A": "Umowa spółki jawnej wymaga formy pisemnej pod rygorem nieważności.",
+        "B": "Spółka jawna powstaje z chwilą wpisu do KRS.",
+        "C": "Wpis spółki jawnej do KRS ma charakter deklaratoryjny.",
+        "D": "Ogłoszenie wpisu w MSiG ma charakter konstytutywny dla powstania spółki."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 23; art. 25 §1."
+    },
+    {
+      "id": 2,
+      "question": "Spółka jawna – reprezentacja wspólników (MSQ).",
+      "options": {
+        "A": "Prawo reprezentowania spółki przysługuje każdemu wspólnikowi.",
+        "B": "Ograniczenie prawa reprezentacji wspólnika jest skuteczne wobec osób trzecich.",
+        "C": "Wspólnik może być pozbawiony prawa reprezentacji umową spółki.",
+        "D": "Wspólnik może być pozbawiony prawa reprezentacji prawomocnym orzeczeniem sądu z ważnych powodów."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "KSH art. 29 §1–3; art. 30 §1."
+    },
+    {
+      "id": 3,
+      "question": "Spółka jawna – prowadzenie spraw i sprzeciw (MSQ).",
+      "options": {
+        "A": "Każdy wspólnik może samodzielnie prowadzić sprawy nieprzekraczające zwykłego zarządu.",
+        "B": "Sprzeciw innego wspólnika wobec czynności zwykłego zarządu powoduje konieczność uchwały wspólników.",
+        "C": "Czynność przekraczająca zwykły zarząd może być dokonana bez zgody pozostałych wspólników, jeżeli jest nagła.",
+        "D": "Umowa spółki nie może wyłączyć wspólnika od prowadzenia spraw."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 39 §1–3; art. 40."
+    },
+    {
+      "id": 4,
+      "question": "Spółka jawna – prokura (MSQ).",
+      "options": {
+        "A": "Ustanowienie prokury wymaga zgody wszystkich wspólników mających prawo prowadzenia spraw spółki.",
+        "B": "Prokurę może odwołać każdy wspólnik mający prawo prowadzenia spraw.",
+        "C": "Ustanowienie prokury następuje w formie aktu notarialnego.",
+        "D": "Ograniczenie prokury w stosunkach zewnętrznych jest bezskuteczne wobec osób trzecich."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 41 §1–2; KC art. 109^4 §1."
+    },
+    {
+      "id": 5,
+      "question": "Spółka jawna – odpowiedzialność wspólników i egzekucja (MSQ).",
+      "options": {
+        "A": "Wspólnicy odpowiadają solidarnie, nieograniczenie i subsydiarnie za zobowiązania spółki.",
+        "B": "Egzekucję z majątku wspólnika można prowadzić dopiero po bezskutecznej egzekucji z majątku spółki.",
+        "C": "Wierzyciel może pozwać wspólnika bez pozywania spółki.",
+        "D": "Odpowiedzialność wspólników może zostać skutecznie ograniczona wobec osób trzecich postanowieniem umowy spółki."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 22 §2; art. 31 §1–3."
+    },
+    {
+      "id": 6,
+      "question": "Spółka jawna – wkłady i udział w zysku/stracie (MSQ).",
+      "options": {
+        "A": "Wkładem do spółki jawnej mogą być rzeczy, prawa, a także świadczenie pracy.",
+        "B": "Jeżeli umowa nie stanowi inaczej, wspólnicy uczestniczą w zyskach i stratach po równo.",
+        "C": "Wspólnika można całkowicie wyłączyć od udziału w zysku, jeżeli wnosi wyłącznie świadczenie pracy.",
+        "D": "Umowa może zwolnić wspólnika od udziału w stratach."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 48 §2; art. 51 §1–3."
+    },
+    {
+      "id": 7,
+      "question": "Spółka jawna – zbycie ogółu praw i obowiązków (MSQ).",
+      "options": {
+        "A": "Zbycie ogółu praw i obowiązków wspólnika jest dopuszczalne.",
+        "B": "Wymaga zgody wszystkich pozostałych wspólników, chyba że umowa stanowi inaczej.",
+        "C": "Zbycie ogółu praw i obowiązków wymaga formy aktu notarialnego.",
+        "D": "Zbycie wywołuje skutek z chwilą zawarcia umowy, niezależnie od wpisu do rejestru."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 10 §1–2."
+    },
+    {
+      "id": 8,
+      "question": "Spółka jawna – zakaz konkurencji (MSQ).",
+      "options": {
+        "A": "Wspólnik powinien powstrzymać się od działalności sprzecznej z interesami spółki.",
+        "B": "Udział w spółce konkurencyjnej jako wspólnik odpowiadający bez ograniczeń wymaga zgody pozostałych wspólników.",
+        "C": "Zakaz konkurencji może zostać zmodyfikowany lub wyłączony w umowie spółki.",
+        "D": "Zakaz konkurencji dotyczy wyłącznie członków zarządu spółek kapitałowych, nie wspólników spółek osobowych."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 56–57."
+    },
+    {
+      "id": 9,
+      "question": "Spółka jawna – firma (nazwa) spółki (MSQ).",
+      "options": {
+        "A": "Firma spółki jawnej powinna zawierać nazwisko co najmniej jednego wspólnika oraz oznaczenie „spółka jawna” lub „sp.j.”.",
+        "B": "W firmie spółki jawnej nie wolno używać pseudonimu wspólnika.",
+        "C": "Dodanie „sp.j.” bez nazwiska wspólnika jest dopuszczalne.",
+        "D": "Zmiana firmy wymaga zmiany umowy spółki."
+      },
+      "correct": ["A", "D"],
+      "basis": "KSH art. 24 §1–2; art. 77 (odpowiednio co do trybu zmian)."
+    },
+    {
+      "id": 10,
+      "question": "Spółka jawna – likwidacja (MSQ).",
+      "options": {
+        "A": "Likwidatorami są co do zasady wszyscy wspólnicy, chyba że umowa lub uchwała stanowi inaczej.",
+        "B": "O otwarciu likwidacji należy ogłosić i wezwać wierzycieli.",
+        "C": "W okresie likwidacji spółka nie może zbywać składników majątku.",
+        "D": "Podział majątku między wspólników następuje po zaspokojeniu lub zabezpieczeniu wierzycieli."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 70 §1; art. 77; art. 82."
+    },
+
+    {
+      "id": 11,
+      "question": "Spółka partnerska – krąg podmiotów uprawnionych (MSQ).",
+      "options": {
+        "A": "Partnerem może być wyłącznie osoba fizyczna uprawniona do wykonywania wolnego zawodu.",
+        "B": "Osoba prawna może być partnerem, jeżeli wykonuje wolny zawód przez swoich pracowników.",
+        "C": "Utworzenie spółki partnerskiej wymaga co najmniej dwóch partnerów.",
+        "D": "Partnerem może być osoba fizyczna nieposiadająca uprawnień zawodowych, jeżeli zobowiąże się do ich uzyskania w ciągu roku."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 86 §1; art. 88 §1."
+    },
+    {
+      "id": 12,
+      "question": "Spółka partnerska – firma spółki (MSQ).",
+      "options": {
+        "A": "Firma powinna zawierać nazwisko co najmniej jednego partnera oraz oznaczenie „spółka partnerska” lub „sp.p.”.",
+        "B": "Dopuszczalne jest użycie określeń „i partner” albo „i partnerzy”.",
+        "C": "Umieszczenie nazwiska osoby niebędącej partnerem jest niedopuszczalne.",
+        "D": "Firma może nie zawierać żadnego nazwiska partnera, jeśli zawiera oznaczenie „sp.p.”."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 90 §1–2."
+    },
+    {
+      "id": 13,
+      "question": "Spółka partnerska – odpowiedzialność partnerów (MSQ).",
+      "options": {
+        "A": "Partner nie odpowiada za zobowiązania powstałe wskutek wykonywania wolnego zawodu przez innego partnera.",
+        "B": "Odpowiedzialność partnera ma charakter subsydiarny wobec majątku spółki.",
+        "C": "Umowa spółki może rozszerzyć odpowiedzialność partnerów na zobowiązania innych partnerów.",
+        "D": "Partner odpowiada za własne czynności zawodowe bez ograniczeń (z zastrzeżeniem przepisów szczególnych)."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 95 §1; art. 89 w zw. z art. 31."
+    },
+    {
+      "id": 14,
+      "question": "Spółka partnerska – ustanowienie zarządu (MSQ).",
+      "options": {
+        "A": "Ustanowienie zarządu jest dopuszczalne, jeżeli przewiduje to umowa spółki.",
+        "B": "Po ustanowieniu zarządu stosuje się odpowiednio przepisy o zarządzie spółki z o.o.",
+        "C": "Ustanowienie zarządu jest obowiązkowe po przekroczeniu 25 partnerów.",
+        "D": "Po ustanowieniu zarządu partnerzy tracą prawo reprezentacji, chyba że umowa stanowi inaczej."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 97 §1–3."
+    },
+    {
+      "id": 15,
+      "question": "Spółka partnerska – prawo reprezentacji partnera (MSQ).",
+      "options": {
+        "A": "Partner co do zasady ma prawo reprezentować spółkę.",
+        "B": "Partner może być pozbawiony prawa reprezentacji orzeczeniem sądu z ważnych powodów.",
+        "C": "Ograniczenie prawa reprezentacji partnera jest skuteczne wobec osób trzecich.",
+        "D": "Umowa może pozbawić partnera prawa reprezentacji."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 96 §2; art. 89 w zw. z art. 29–30."
+    },
+    {
+      "id": 16,
+      "question": "Spółka partnerska – wkłady i świadczenie pracy (MSQ).",
+      "options": {
+        "A": "Wkład do spółki partnerskiej może polegać na świadczeniu pracy na rzecz spółki.",
+        "B": "Wkłady niepieniężne partnerów muszą być zawsze wycenione przez biegłego.",
+        "C": "Partner może być zwolniony od udziału w stratach na mocy umowy.",
+        "D": "Całkowite wyłączenie partnera od udziału w zysku jest dopuszczalne, jeżeli świadczy tylko pracę."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 89 w zw. z art. 48 §2 oraz art. 51 §3."
+    },
+    {
+      "id": 17,
+      "question": "Spółka partnerska – odpowiedzialność za firmowanie (MSQ).",
+      "options": {
+        "A": "Umieszczenie nazwiska partnera w firmie spółki partnerskiej nie zmienia zakresu jego odpowiedzialności ustawowej.",
+        "B": "Odpowiedzialność partnera za czynności innych partnerów powstaje, jeśli jego nazwisko jest w firmie spółki.",
+        "C": "Zasada z art. 104 §4 KSH (dla sp.k.) nie ma zastosowania do spółki partnerskiej.",
+        "D": "Umieszczenie nazwiska osoby niebędącej partnerem jest dopuszczalne, jeśli wyrazi zgodę."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 90; art. 95 §1; art. 104 §4 (odmienny reżim dla sp.k.)."
+    },
+    {
+      "id": 18,
+      "question": "Spółka partnerska – prokura (MSQ).",
+      "options": {
+        "A": "Do ustanowienia prokury stosuje się odpowiednio art. 41 KSH (jak w spółce jawnej).",
+        "B": "Zgoda na ustanowienie prokury powinna pochodzić od wszystkich partnerów uprawnionych do prowadzenia spraw.",
+        "C": "Prokurę może odwołać każdy partner uprawniony do prowadzenia spraw.",
+        "D": "Ustanowienie prokury jest niedopuszczalne w spółce partnerskiej."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 89 w zw. z art. 41 §1–2."
+    },
+    {
+      "id": 19,
+      "question": "Spółka partnerska – rozwiązanie i likwidacja (MSQ).",
+      "options": {
+        "A": "Rozwiązanie może nastąpić m.in. wskutek jednomyślnej uchwały partnerów lub prawomocnego orzeczenia sądu.",
+        "B": "W razie rozwiązania przeprowadza się likwidację, chyba że partnerzy postanowią inaczej.",
+        "C": "Likwidatorami są co do zasady wszyscy partnerzy.",
+        "D": "Ogłoszenie o otwarciu likwidacji nie jest wymagane."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 98; art. 67 §1; art. 70 §1; art. 77."
+    },
+    {
+      "id": 20,
+      "question": "Spółka partnerska – zakaz konkurencji (MSQ).",
+      "options": {
+        "A": "Do partnerów stosuje się odpowiednio przepisy o zakazie konkurencji wspólników spółki jawnej.",
+        "B": "Umowa spółki może wyłączyć zakaz konkurencji.",
+        "C": "Naruszenie zakazu nie rodzi żadnych sankcji ustawowych.",
+        "D": "Zakaz obejmuje m.in. uczestnictwo w spółce konkurencyjnej jako wspólnik odpowiadający bez ograniczeń."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 89 w zw. z art. 56–57."
+    },
+
+    {
+      "id": 21,
+      "question": "Spółka komandytowa – firma i odpowiedzialność komandytariusza (MSQ).",
+      "options": {
+        "A": "Firma spółki komandytowej powinna zawierać nazwisko co najmniej jednego komplementariusza oraz „spółka komandytowa” lub „sp.k.”.",
+        "B": "Umieszczenie nazwiska komandytariusza w firmie nie ma wpływu na zakres jego odpowiedzialności.",
+        "C": "Umieszczenie nazwiska komandytariusza w firmie powoduje jego odpowiedzialność jak komplementariusza.",
+        "D": "W firmie nie wolno zamieszczać nazwisk żadnych wspólników."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 104 §1–4."
+    },
+    {
+      "id": 22,
+      "question": "Spółka komandytowa – reprezentacja (MSQ).",
+      "options": {
+        "A": "Do reprezentowania spółki uprawnieni są komplementariusze.",
+        "B": "Komandytariusz może reprezentować spółkę jedynie jako pełnomocnik lub prokurent.",
+        "C": "Komandytariusz z mocy ustawy reprezentuje spółkę w sprawach zwykłego zarządu.",
+        "D": "Ograniczenia reprezentacji komplementariusza mogą wynikać z umowy spółki."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 117–118."
+    },
+    {
+      "id": 23,
+      "question": "Spółka komandytowa – odpowiedzialność komandytariusza (MSQ).",
+      "options": {
+        "A": "Komandytariusz odpowiada do wysokości sumy komandytowej.",
+        "B": "Wartość wniesionego wkładu zmniejsza zakres odpowiedzialności w granicach sumy komandytowej.",
+        "C": "Świadczenie pracy lub usług jako jedyny wkład nie zmniejsza odpowiedzialności komandytariusza.",
+        "D": "Komandytariusz odpowiada bez ograniczeń, jeżeli nie wniósł wkładu pieniężnego."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 111–112 (zwłaszcza §2)."
+    },
+    {
+      "id": 24,
+      "question": "Spółka komandytowa – prowadzenie spraw (MSQ).",
+      "options": {
+        "A": "Prowadzenie spraw należy do komplementariuszy.",
+        "B": "Komandytariusz jest ustawowo uprawniony do prowadzenia spraw spółki.",
+        "C": "Umowa może przyznać komandytariuszowi uprawnienia kontrolne.",
+        "D": "Komandytariusz ma prawo żądać odpisu sprawozdania finansowego i przeglądać księgi spółki."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "KSH art. 121 §1; art. 120 §1–2."
+    },
+    {
+      "id": 25,
+      "question": "Spółka komandytowa – zmiana sumy komandytowej (MSQ).",
+      "options": {
+        "A": "Obniżenie sumy komandytowej jest skuteczne wobec wierzycieli od chwili wpisu do KRS.",
+        "B": "Obniżenie sumy komandytowej nie wpływa na odpowiedzialność za zobowiązania powstałe przed wpisem obniżenia.",
+        "C": "Podwyższenie sumy komandytowej może nastąpić bez zmiany umowy spółki.",
+        "D": "Zmiana sumy komandytowej wymaga zmiany umowy spółki."
+      },
+      "correct": ["B", "D"],
+      "basis": "KSH art. 111 §1–2."
+    },
+    {
+      "id": 26,
+      "question": "Spółka komandytowa – prokura (MSQ).",
+      "options": {
+        "A": "Ustanowienie prokury wymaga zgody wszystkich komplementariuszy mających prawo prowadzenia spraw.",
+        "B": "Prokurę może odwołać każdy komplementariusz mający prawo prowadzenia spraw.",
+        "C": "Prokura może być łączna.",
+        "D": "Komandytariusz nie może być ustanowiony prokurentem."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 117 w zw. z art. 41 §1–2; KC art. 109^4 §1; art. 109^3 §1."
+    },
+    {
+      "id": 27,
+      "question": "Spółka komandytowa – rozwiązanie (MSQ).",
+      "options": {
+        "A": "Przesłanki rozwiązania obejmują m.in. jednomyślną uchwałę wspólników oraz ogłoszenie upadłości spółki.",
+        "B": "Śmierć komplementariusza zawsze powoduje rozwiązanie spółki bez wyjątku.",
+        "C": "Rozwiązanie może nastąpić także na mocy prawomocnego orzeczenia sądu.",
+        "D": "Wypowiedzenie umowy spółki przez komandytariusza nie jest dopuszczalne."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 58 (stosowany odpowiednio); art. 103 §1."
+    },
+    {
+      "id": 28,
+      "question": "Spółka komandytowa – udział w zysku (MSQ).",
+      "options": {
+        "A": "Jeżeli umowa nie stanowi inaczej, wspólnicy uczestniczą w zysku w częściach równych.",
+        "B": "Komandytariusz może być zwolniony od udziału w stratach na mocy umowy.",
+        "C": "Komandytariuszowi nie przysługuje udział w zysku, jeżeli nie wniósł wkładu pieniężnego.",
+        "D": "Wypłata zysku komandytariuszowi może być uzależniona od spełnienia warunku przewidzianego w umowie."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 51 (stosowany odpowiednio); art. 123 §1."
+    },
+    {
+      "id": 29,
+      "question": "Spółka komandytowa – czynności prawne komandytariusza (MSQ).",
+      "options": {
+        "A": "Komandytariusz może działać jako pełnomocnik spółki.",
+        "B": "Dokonanie przez komandytariusza czynności bez umocowania nie rodzi żadnych skutków.",
+        "C": "Komandytariusz dokonujący czynności w imieniu spółki bez umocowania odpowiada wobec osób trzecich jak komplementariusz.",
+        "D": "Komandytariusz może zostać ustanowiony prokurentem."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "KSH art. 118 §2–3."
+    },
+    {
+      "id": 30,
+      "question": "Spółka komandytowa – wkład komandytariusza (MSQ).",
+      "options": {
+        "A": "Wkład komandytariusza może przybrać postać świadczenia pracy lub usług.",
+        "B": "Wkład w postaci pracy lub usług nie pomniejsza odpowiedzialności w granicach sumy komandytowej.",
+        "C": "Wkład niepieniężny komandytariusza musi być zawsze zbadany przez biegłego rewidenta.",
+        "D": "Wkład komandytariusza może przewyższać sumę komandytową."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 112 §2; art. 48 §2 (stosownie)."
+    },
+
+    {
+      "id": 31,
+      "question": "Spółka komandytowo-akcyjna – elementy konstrukcyjne (MSQ).",
+      "options": {
+        "A": "Wymaga co najmniej jednego komplementariusza i jednego akcjonariusza.",
+        "B": "Minimalny kapitał zakładowy wynosi 50 000 zł.",
+        "C": "Akcjonariusz odpowiada za zobowiązania spółki jak komplementariusz.",
+        "D": "Statut SKA sporządza się w formie aktu notarialnego."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 125; art. 126 §2; art. 131; art. 145 §1."
+    },
+    {
+      "id": 32,
+      "question": "SKA – prowadzenie spraw i reprezentacja (MSQ).",
+      "options": {
+        "A": "Prowadzenie spraw i reprezentacja należą do komplementariuszy.",
+        "B": "Akcjonariusz nie jest uprawniony do prowadzenia spraw ani reprezentacji, chyba że jest także komplementariuszem.",
+        "C": "Walne zgromadzenie reprezentuje spółkę.",
+        "D": "Akcjonariusz może zawsze samodzielnie reprezentować spółkę jako akcjonariusz."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 137; art. 140."
+    },
+    {
+      "id": 33,
+      "question": "SKA – rada nadzorcza (MSQ).",
+      "options": {
+        "A": "Rada nadzorcza jest obligatoryjna, jeżeli liczba akcjonariuszy przekracza 25.",
+        "B": "Rada nadzorcza zawsze jest organem obowiązkowym.",
+        "C": "Rada nadzorcza może zawiesić w czynnościach komplementariusza.",
+        "D": "Rada nadzorcza nie może wykonywać stałego nadzoru nad działalnością spółki."
+      },
+      "correct": ["A"],
+      "basis": "KSH art. 142 §1."
+    },
+    {
+      "id": 34,
+      "question": "SKA – czynności wymagające zgody komplementariuszy i uchwały WZ (MSQ).",
+      "options": {
+        "A": "Rozporządzenie przedsiębiorstwem spółki.",
+        "B": "Oddanie przedsiębiorstwa do czasowego korzystania.",
+        "C": "Zbycie nieruchomości zawsze wymaga wyłącznie zgody komplementariuszy.",
+        "D": "Zastawienie przedsiębiorstwa."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 146 §1–2."
+    },
+    {
+      "id": 35,
+      "question": "SKA – dematerializacja akcji i rejestr (MSQ).",
+      "options": {
+        "A": "Akcje SKA nie mają formy dokumentów – podlegają dematerializacji.",
+        "B": "Zbycie akcji jest skuteczne z chwilą wpisu nabywcy do rejestru akcjonariuszy lub odpowiedniego zapisu w depozycie.",
+        "C": "Dematerializacja dotyczy wyłącznie spółek publicznych.",
+        "D": "Prowadzenie rejestru akcjonariuszy nie jest wymagane."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 328^1–328^6 w zw. z art. 126 §1 pkt 2."
+    },
+    {
+      "id": 36,
+      "question": "SKA – prawa majątkowe akcjonariusza (MSQ).",
+      "options": {
+        "A": "Akcjonariusz uczestniczy w zysku na zasadach określonych w statucie.",
+        "B": "Akcjonariuszowi przysługuje prawo poboru nowych akcji, chyba że WZ go pozbawi.",
+        "C": "Akcjonariusz nie ma prawa do dywidendy.",
+        "D": "Uchwała o podziale zysku nie wymaga udziału komplementariuszy."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 126 §1 pkt 2 w zw. z art. 347, art. 433."
+    },
+    {
+      "id": 37,
+      "question": "SKA – odpowiedzialność wspólników (MSQ).",
+      "options": {
+        "A": "Komplementariusz odpowiada za zobowiązania spółki bez ograniczeń.",
+        "B": "Akcjonariusz co do zasady nie odpowiada za zobowiązania spółki.",
+        "C": "Akcjonariusz odpowiada jak komplementariusz, jeżeli jego nazwisko jest w firmie spółki.",
+        "D": "Umowa może rozszerzyć odpowiedzialność akcjonariusza za długi spółki wobec osób trzecich."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 126 §1 pkt 2."
+    },
+    {
+      "id": 38,
+      "question": "SKA – statut i jego zmiany (MSQ).",
+      "options": {
+        "A": "Zmiana statutu wymaga uchwały WZ oraz zgody wszystkich komplementariuszy.",
+        "B": "Zmiana statutu wymaga wyłącznie uchwały WZ większością 2/3 głosów.",
+        "C": "Statut wymaga aktu notarialnego.",
+        "D": "Zgoda komplementariuszy nie jest potrzebna, jeżeli zmiana statutu ich nie dotyczy."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 145 §1; art. 146 §5."
+    },
+    {
+      "id": 39,
+      "question": "SKA – zwołanie walnego zgromadzenia (MSQ).",
+      "options": {
+        "A": "WZ zwołuje zarząd komplementariuszy lub upoważniony komplementariusz zgodnie ze statutem.",
+        "B": "WZ może zwołać rada nadzorcza, jeśli jest ustanowiona.",
+        "C": "Akcjonariusze posiadający co najmniej 5% kapitału mogą żądać zwołania WZ.",
+        "D": "WZ w SKA nie podlega przepisom o S.A."
+      },
+      "correct": ["B", "C"],
+      "basis": "KSH art. 126 §1 pkt 2 w zw. z art. 399–400."
+    },
+    {
+      "id": 40,
+      "question": "SKA – rozwiązanie i likwidacja (MSQ).",
+      "options": {
+        "A": "Przyczyny rozwiązania obejmują m.in. uchwałę WZ i brak komplementariuszy.",
+        "B": "Likwidatorami są co do zasady komplementariusze uprawnieni do reprezentacji.",
+        "C": "Do likwidacji stosuje się odpowiednio przepisy o S.A.",
+        "D": "Rozwiązanie nigdy nie może nastąpić na mocy orzeczenia sądu."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 125 §3; art. 150 §1–2; art. 151 (w zw. z przepisami o S.A.)."
+    },
+
+    {
+      "id": 41,
+      "question": "Spółka z o.o. – sprawy zastrzeżone do zgromadzenia wspólników (MSQ).",
+      "options": {
+        "A": "Zbycie i wydzierżawienie przedsiębiorstwa lub jego zorganizowanej części.",
+        "B": "Ustanowienie dopłat, jeżeli umowa przewiduje taką możliwość.",
+        "C": "Zawarcie umowy z członkiem zarządu.",
+        "D": "Rozpatrzenie i zatwierdzenie sprawozdań oraz udzielenie absolutorium."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 228 pkt 3; art. 177 §1; art. 231 §2 pkt 1–3."
+    },
+    {
+      "id": 42,
+      "question": "Spółka z o.o. – tryby podejmowania uchwał (MSQ).",
+      "options": {
+        "A": "Uchwały mogą być powzięte bez formalnego zwołania, jeśli cały kapitał jest reprezentowany i nikt nie sprzeciwia się odbyciu zgromadzenia.",
+        "B": "Dopuszczalne jest oddawanie głosu na piśmie, jeśli umowa tak stanowi.",
+        "C": "Udział z wykorzystaniem środków komunikacji elektronicznej jest co do zasady dopuszczalny, chyba że umowa to wyłączy.",
+        "D": "Uchwał nie można podjąć poza zgromadzeniem w żadnym wypadku."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 240; art. 227 §2; art. 234^1 §1."
+    },
+    {
+      "id": 43,
+      "question": "Spółka z o.o. – nabywanie własnych udziałów (MSQ).",
+      "options": {
+        "A": "Co do zasady zakazane, chyba że zachodzą wypadki przewidziane w ustawie.",
+        "B": "Dopuszczalne m.in. w celu umorzenia udziałów.",
+        "C": "Dopuszczalne bez ograniczeń, jeśli wspólnicy tak uchwalą.",
+        "D": "Dopuszczalne, gdy następuje to nieodpłatnie od wspólnika."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 200 §1–2; art. 199."
+    },
+    {
+      "id": 44,
+      "question": "Spółka z o.o. – prawo indywidualnej kontroli (MSQ).",
+      "options": {
+        "A": "Każdy wspólnik może przeglądać księgi i dokumenty spółki oraz żądać wyjaśnień od zarządu.",
+        "B": "Odmowę zarządu można zaskarżyć do sądu rejestrowego.",
+        "C": "Prawo to jest niezbywalne i nie może być wyłączone w umowie spółki.",
+        "D": "Prawo to może być ograniczone w umowie spółki."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 212 §1–5."
+    },
+    {
+      "id": 45,
+      "question": "Spółka z o.o. – kapitał zakładowy i wkłady (MSQ).",
+      "options": {
+        "A": "Minimalny kapitał zakładowy wynosi 5 000 zł.",
+        "B": "Wkładem niepieniężnym nie może być świadczenie pracy lub usług.",
+        "C": "Przed rejestracją kapitał powinien być pokryty w całości.",
+        "D": "Wartość nominalna udziału nie może być niższa niż 50 zł."
+      },
+      "correct": ["A", "B", "C", "D"],
+      "basis": "KSH art. 154 §1–2; art. 14 §1; art. 163 §1 pkt 2."
+    },
+    {
+      "id": 46,
+      "question": "Spółka z o.o. – dopłaty (MSQ).",
+      "options": {
+        "A": "Dopłaty są dopuszczalne tylko, jeżeli umowa spółki tak stanowi.",
+        "B": "Wysokość i terminy dopłat określa uchwała wspólników.",
+        "C": "Dopłaty mogą być zwrócone, jeśli nie są wymagane i spełniono przesłanki ustawowe.",
+        "D": "Dopłaty są zawsze bezzwrotne."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 177–179."
+    },
+    {
+      "id": 47,
+      "question": "Spółka z o.o. – odpowiedzialność członków zarządu (MSQ).",
+      "options": {
+        "A": "W razie bezskutecznej egzekucji wobec spółki członkowie zarządu odpowiadają solidarnie za jej zobowiązania.",
+        "B": "Członek zarządu może się uwolnić, jeżeli wykaże, że we właściwym czasie złożono wniosek o upadłość albo wszczęto postępowanie restrukturyzacyjne.",
+        "C": "Odpowiedzialność ma charakter subsydiarny wobec odpowiedzialności spółki.",
+        "D": "Odpowiedzialność nie dotyczy zobowiązań podatkowych."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 299 §1–2."
+    },
+    {
+      "id": 48,
+      "question": "Spółka z o.o. – umorzenie udziałów (MSQ).",
+      "options": {
+        "A": "Wymaga podstawy w umowie spółki.",
+        "B": "Może być dobrowolne albo przymusowe.",
+        "C": "Może nastąpić bez obniżenia kapitału – z czystego zysku.",
+        "D": "Zawsze wymaga zgody sądu rejestrowego."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 199 §1–7."
+    },
+    {
+      "id": 49,
+      "question": "Spółka z o.o. – zmiana umowy spółki (MSQ).",
+      "options": {
+        "A": "Wymaga uchwały wspólników w formie aktu notarialnego.",
+        "B": "Staje się skuteczna z chwilą powzięcia uchwały.",
+        "C": "Wymaga wpisu do rejestru dla skuteczności.",
+        "D": "Nie może dotyczyć podwyższenia kapitału zakładowego."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 255 §1; art. 255 §3."
+    },
+    {
+      "id": 50,
+      "question": "Spółka z o.o. – zaliczka na poczet dywidendy (MSQ).",
+      "options": {
+        "A": "Możliwa, jeżeli spółka ma wystarczające środki i spełniono warunki ustawowe.",
+        "B": "Wymaga uchwały zarządu i zgody rady nadzorczej, jeżeli jest ustanowiona.",
+        "C": "Może przekroczyć połowę zysku osiągniętego od końca poprzedniego roku obrotowego.",
+        "D": "Jest dopuszczalna tylko w spółce publicznej."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 194 §1–2."
+    },
+
+    {
+      "id": 51,
+      "question": "Spółka akcyjna – minimalny kapitał i obejmowanie akcji (MSQ).",
+      "options": {
+        "A": "Minimalny kapitał zakładowy wynosi 100 000 zł.",
+        "B": "Akcje nie mogą być obejmowane poniżej wartości nominalnej.",
+        "C": "Dopuszczalne jest objęcie akcji za świadczenie pracy.",
+        "D": "Kapitał zakładowy może być pokryty w 25% przed rejestracją."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 308 §1; art. 309 §1."
+    },
+    {
+      "id": 52,
+      "question": "S.A. – wkłady niepieniężne i badanie (MSQ).",
+      "options": {
+        "A": "Wkłady niepieniężne co do zasady wymagają zbadania przez biegłego.",
+        "B": "Przed rejestracją należy wnieść co najmniej 1/4 wartości nominalnej akcji pieniężnych oraz całe agio.",
+        "C": "Wkładem niepieniężnym może być świadczenie pracy lub usług.",
+        "D": "Wkłady niepieniężne muszą być wniesione w całości najpóźniej do dnia rejestracji."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 311; art. 309 §3; art. 14 §1."
+    },
+    {
+      "id": 53,
+      "question": "S.A. – reprezentacja przy zarządzie wieloosobowym (MSQ).",
+      "options": {
+        "A": "Jeżeli statut nie stanowi inaczej, spółkę reprezentuje dwóch członków zarządu albo jeden członek łącznie z prokurentem.",
+        "B": "Każdy członek zarządu może zawsze samodzielnie reprezentować spółkę.",
+        "C": "Statut może modyfikować zasady reprezentacji.",
+        "D": "Rada nadzorcza współreprezentuje spółkę z zarządem."
+      },
+      "correct": ["A", "C"],
+      "basis": "KSH art. 373 §1."
+    },
+    {
+      "id": 54,
+      "question": "S.A. – uprawnienia rady nadzorczej (MSQ).",
+      "options": {
+        "A": "Sprawuje stały nadzór nad działalnością spółki we wszystkich dziedzinach.",
+        "B": "Może wydawać zarządowi wiążące polecenia w zakresie prowadzenia spraw spółki.",
+        "C": "Może zawieszać w czynnościach członków zarządu.",
+        "D": "W umowie z członkiem zarządu spółkę reprezentuje rada nadzorcza."
+      },
+      "correct": ["A", "C", "D"],
+      "basis": "KSH art. 382 §1; art. 383 §1; art. 379 §1."
+    },
+    {
+      "id": 55,
+      "question": "S.A. – prawo poboru (MSQ).",
+      "options": {
+        "A": "Akcjonariuszom przysługuje ustawowe prawo poboru nowych akcji.",
+        "B": "Pozbawienie prawa poboru może nastąpić uchwałą WZ większością 4/5 głosów po przedstawieniu uzasadnienia.",
+        "C": "Pozbawienie prawa poboru może nastąpić uchwałą rady nadzorczej.",
+        "D": "Prawo poboru nie dotyczy emisji skierowanej wyłącznie do dotychczasowych akcjonariuszy."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 433 §1–2, §5."
+    },
+    {
+      "id": 56,
+      "question": "S.A. – nabywanie akcji własnych (MSQ).",
+      "options": {
+        "A": "Co do zasady zakazane, z wyjątkami ustawowymi.",
+        "B": "Łączna wartość nominalna akcji własnych nie może przekraczać 20% kapitału zakładowego.",
+        "C": "Nabycie akcji własnych jest dopuszczalne wyłącznie w celu umorzenia.",
+        "D": "WZ może upoważnić zarząd do nabywania akcji własnych."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 362 §1–2; art. 362 §4."
+    },
+    {
+      "id": 57,
+      "question": "S.A. – zmiana statutu (MSQ).",
+      "options": {
+        "A": "Wymaga uchwały WZ większością 2/3 głosów, o ile statut nie przewiduje surowszych wymogów.",
+        "B": "Zmiana statutu staje się skuteczna dopiero z chwilą wpisu do rejestru.",
+        "C": "Zmiana statutu może nastąpić uchwałą rady nadzorczej.",
+        "D": "Zmiana statutu nie wymaga aktu notarialnego."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 415 §1; art. 430 §1–2."
+    },
+    {
+      "id": 58,
+      "question": "S.A. – dematerializacja akcji (MSQ).",
+      "options": {
+        "A": "Spółka nie wydaje dokumentów akcji.",
+        "B": "Prawa z akcji wynikają z wpisu w rejestrze akcjonariuszy lub zapisu w depozycie.",
+        "C": "Zbycie akcji jest skuteczne niezależnie od wpisu do rejestru.",
+        "D": "Rejestr akcjonariuszy nie jest wymagany w spółkach niepublicznych."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 328^1–328^6."
+    },
+    {
+      "id": 59,
+      "question": "S.A. – przymusowy wykup (squeeze-out) w spółce niepublicznej (MSQ).",
+      "options": {
+        "A": "Akcjonariusze większościowi posiadający łącznie co najmniej 95% kapitału mogą żądać wykupu akcji pozostałych akcjonariuszy.",
+        "B": "Wymagana jest uchwała WZ.",
+        "C": "Wykup może przeprowadzić wyłącznie jeden akcjonariusz – nie jest dopuszczalny wykup łącznie przez kilku.",
+        "D": "Przymusowy wykup dotyczy tylko spółek publicznych."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 418 §1–2."
+    },
+    {
+      "id": 60,
+      "question": "S.A. – kapitał docelowy (MSQ).",
+      "options": {
+        "A": "Statut może upoważnić zarząd do podwyższenia kapitału w granicach kapitału docelowego.",
+        "B": "Upoważnienie może być udzielone na okres nie dłuższy niż 3 lata.",
+        "C": "Do podwyższenia w ramach kapitału docelowego wymagana jest każdorazowo zgoda sądu rejestrowego.",
+        "D": "Kapitał docelowy może przekraczać dwukrotność dotychczasowego kapitału zakładowego bez ograniczeń ustawowych."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 444 §1."
+    },
+
+    {
+      "id": 61,
+      "question": "P.S.A. – kapitał i wkłady (MSQ).",
+      "options": {
+        "A": "Kapitał akcyjny wynosi co najmniej 1 zł.",
+        "B": "Akcje P.S.A. nie mają wartości nominalnej.",
+        "C": "Akcje mogą być obejmowane w zamian za świadczenie pracy lub usług.",
+        "D": "Zakazane jest obejmowanie akcji za wkłady niepieniężne."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 300^2 §1–3; art. 300^1 §2."
+    },
+    {
+      "id": 62,
+      "question": "P.S.A. – wypłaty na rzecz akcjonariuszy (MSQ).",
+      "options": {
+        "A": "Dopuszczalne są wypłaty nie tylko w formie dywidendy, o ile spełniony jest test wypłacalności.",
+        "B": "Zarząd składa oświadczenie o zdolności do zaspokojenia wymagalnych zobowiązań w terminie 6 miesięcy od dnia wypłaty.",
+        "C": "Wypłata jest niedopuszczalna, jeżeli spowodowałaby, że majątek netto spadnie poniżej wysokości kapitału akcyjnego.",
+        "D": "Wypłaty są dopuszczalne wyłącznie po zatwierdzeniu sprawozdania finansowego za rok bieżący."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 300^15 §1–3."
+    },
+    {
+      "id": 63,
+      "question": "P.S.A. – system organów (MSQ).",
+      "options": {
+        "A": "Statut może przewidzieć system dualistyczny lub monistyczny.",
+        "B": "W systemie monistycznym funkcjonuje rada dyrektorów.",
+        "C": "Rada nadzorcza jest obowiązkowa w każdym modelu.",
+        "D": "Nie można ustanowić rady dyrektorów."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 300^26; art. 300^73 §1."
+    },
+    {
+      "id": 64,
+      "question": "P.S.A. – rejestr akcjonariuszy i zbycie akcji (MSQ).",
+      "options": {
+        "A": "Rejestr akcjonariuszy prowadzi uprawniony podmiot (lub notariusz).",
+        "B": "Zbycie akcji jest skuteczne z chwilą wpisu do rejestru akcjonariuszy.",
+        "C": "P.S.A. wydaje dokumenty akcji na żądanie akcjonariuszy.",
+        "D": "Rejestr akcjonariuszy jest jawny dla każdego."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 300^38–300^39."
+    },
+    {
+      "id": 65,
+      "question": "P.S.A. – powstanie i statut (MSQ).",
+      "options": {
+        "A": "Statut P.S.A. wymaga formy aktu notarialnego, chyba że użyto wzorca elektronicznego.",
+        "B": "P.S.A. powstaje z chwilą wpisu do KRS.",
+        "C": "Kapitał akcyjny musi być pokryty w całości przed rejestracją.",
+        "D": "Akcje P.S.A. są zawsze uprzywilejowane co do głosu."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 300^4 §2; art. 300^5; art. 300^2 §1."
+    },
+    {
+      "id": 66,
+      "question": "P.S.A. – rada dyrektorów (MSQ).",
+      "options": {
+        "A": "Rada dyrektorów łączy funkcje zarządcze i nadzorcze.",
+        "B": "Rada dyrektorów może działać w składzie jednoosobowym.",
+        "C": "Dyrektorzy mogą być podzieleni na wykonawczych i niewykonawczych.",
+        "D": "Rada dyrektorów nie może udzielić prokury."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 300^73 §1–2; art. 300^76."
+    },
+    {
+      "id": 67,
+      "question": "P.S.A. – podwyższenie kapitału akcyjnego (MSQ).",
+      "options": {
+        "A": "Podwyższenie następuje przez wpis do rejestru wysokości kapitału po realnym zasileniu majątku spółki.",
+        "B": "Nie wymaga zmiany statutu, jeżeli statut nie określa wysokości kapitału akcyjnego.",
+        "C": "Dopuszczalne jest warunkowe objęcie akcji za wkłady w postaci pracy.",
+        "D": "Wysokość kapitału akcyjnego jest sztywna i może być zmieniona tylko przez zmianę statutu."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 300^2 §4–5; art. 300^3."
+    },
+    {
+      "id": 68,
+      "question": "P.S.A. – odpowiedzialność za zobowiązania (MSQ).",
+      "options": {
+        "A": "Akcjonariusze co do zasady nie odpowiadają za zobowiązania spółki.",
+        "B": "Członkowie rady dyrektorów mogą ponosić odpowiedzialność odszkodowawczą wobec spółki na zasadach podobnych do odpowiedzialności członków zarządu w S.A.",
+        "C": "Akcjonariusz odpowiada osobiście za długi spółki do wysokości wniesionych wkładów.",
+        "D": "Dyrektor niewykonawczy nie ponosi żadnej odpowiedzialności ustawowej."
+      },
+      "correct": ["A", "B"],
+      "basis": "KSH art. 300^125; art. 300^75; art. 300^79."
+    },
+    {
+      "id": 69,
+      "question": "P.S.A. – rozwiązanie i przekształcenie (MSQ).",
+      "options": {
+        "A": "P.S.A. może być przekształcona w inną spółkę handlową.",
+        "B": "Rozwiązanie może nastąpić m.in. wskutek uchwały akcjonariuszy.",
+        "C": "Do likwidacji stosuje się odpowiednio przepisy o S.A. z modyfikacjami P.S.A.",
+        "D": "Przekształcenie w S.A. jest niedopuszczalne."
+      },
+      "correct": ["A", "B", "C"],
+      "basis": "KSH art. 300^131; art. 300^132; art. 459 i nast. w zw. z przepisami o P.S.A."
+    },
+    {
+      "id": 70,
+      "question": "P.S.A. – posiedzenia organów i forma uchwał (MSQ).",
+      "options": {
+        "A": "Uchwały mogą być podejmowane przy wykorzystaniu środków komunikacji elektronicznej, jeżeli statut nie stanowi inaczej.",
+        "B": "Statut może przewidywać pisemny tryb podejmowania uchwał przez akcjonariuszy.",
+        "C": "Zgromadzenie akcjonariuszy nie może odbywać się zdalnie.",
+        "D": "Dyrektorzy mogą uczestniczyć w posiedzeniach rady dyrektorów na odległość."
+      },
+      "correct": ["A", "B", "D"],
+      "basis": "KSH art. 300^58; art. 300^59; art. 300^76 §3."
+    }
+  ]
+}
