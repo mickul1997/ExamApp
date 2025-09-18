@@ -1,0 +1,1208 @@
+{
+  "title": "Egzamin z postępowania cywilnego — Rozdziały I–XVI",
+  "topic": "Kodeks postępowania cywilnego oraz \"Postępowanie cywilne w zarysie\" (rozdziały I–XVI)",
+  "format": "jednokrotnego wyboru (single-select)",
+  "instructions": "Zaznacz jedną prawidłową odpowiedź.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Sprawami cywilnymi w rozumieniu Kodeksu postępowania cywilnego są:",
+      "options": {
+        "A": "tylko sprawy wynikające z relacji cywilnoprawnych między osobami fizycznymi lub prawnymi",
+        "B": "sprawy z zakresu prawa cywilnego, rodzinnego i opiekuńczego, prawa pracy i ubezpieczeń społecznych, a także inne sprawy, do których stosuje się przepisy KPC",
+        "C": "wszystkie sprawy rozpoznawane przez sądy powszechne, w tym karne i administracyjne",
+        "D": "wyłącznie sprawy o prawa majątkowe o wartości ponad 75 tysięcy złotych"
+      },
+      "correct": "B",
+      "basis": "art. 1 KPC; Broniewicz/Marciniak/Kunicki, rozdz. I §1."
+    },
+    {
+      "id": 2,
+      "question": "Niedopuszczalność drogi sądowej w postępowaniu cywilnym może być:",
+      "options": {
+        "A": "bezwzględna albo względna",
+        "B": "formalna albo materialnoprawna",
+        "C": "częściowa albo całkowita",
+        "D": "wstępna albo następcza"
+      },
+      "correct": "A",
+      "basis": "art. 199 §1 pkt 1 KPC; Broniewicz i in., rozdz. I §8."
+    },
+    {
+      "id": 3,
+      "question": "Zapis na sąd polubowny (umowa arbitrażowa) w sprawie podlegającej KPC skutkuje tym, że:",
+      "options": {
+        "A": "droga sądowa jest bezwzględnie niedopuszczalna i sąd z urzędu odrzuci pozew",
+        "B": "sąd powszechny odrzuci pozew na zarzut pozwanego wskazującego na istnienie ważnego zapisu na sąd polubowny",
+        "C": "sąd zawiesi postępowanie do czasu wydania wyroku przez właściwy sąd polubowny",
+        "D": "zapis ten nie wywiera wpływu na postępowanie przed sądem państwowym"
+      },
+      "correct": "B",
+      "basis": "art. 1165 §1 KPC; Broniewicz i in., rozdz. I §8."
+    },
+    {
+      "id": 4,
+      "question": "Jeżeli sprawa nie należy do drogi sądowej w rozumieniu art. 2 KPC, to sąd powinien:",
+      "options": {
+        "A": "wydać wyrok oddalający powództwo jako bezzasadne",
+        "B": "wydać postanowienie o odrzuceniu pozwu",
+        "C": "przekazać sprawę do rozpoznania właściwemu organowi administracji publicznej",
+        "D": "umorzyć postępowanie cywilne"
+      },
+      "correct": "B",
+      "basis": "art. 199 §1 pkt 1 KPC; Broniewicz i in., rozdz. I §7–8."
+    },
+    {
+      "id": 5,
+      "question": "Prawomocny wyrok skazujący wydany w postępowaniu karnym w związku z określonym zdarzeniem:",
+      "options": {
+        "A": "wiąże sąd cywilny co do tego, że zdarzenie to stanowiło przestępstwo i że oskarżony je popełnił",
+        "B": "nie ma wpływu na ocenę sprawy przez sąd cywilny (zasada niezależności postępowań)",
+        "C": "stanowi jedynie dokument prywatny, który sąd cywilny ocenia według własnego uznania",
+        "D": "uniemożliwia wniesienie pozwu cywilnego o naprawienie szkody z tego zdarzenia"
+      },
+      "correct": "A",
+      "basis": "art. 11 KPC; Broniewicz i in., rozdz. II §11."
+    },
+    {
+      "id": 6,
+      "question": "Jeżeli przepis szczególny wymaga najpierw przeprowadzenia postępowania przed innym organem (np. komisją pojednawczą w sprawie pracowniczej) przed skierowaniem sprawy do sądu cywilnego, to wniesiony bezpośrednio pozew do sądu:",
+      "options": {
+        "A": "podlega odrzuceniu przez sąd z urzędu jako przedwczesny",
+        "B": "powinien zostać przekazany przez sąd właściwemu organowi celem przeprowadzenia wymaganego postępowania",
+        "C": "wywołuje zawisłość sporu, ale sąd zawiesi postępowanie do czasu zakończenia tego postępowania przed innym organem",
+        "D": "zostanie przez sąd potraktowany jako środek zaskarżenia orzeczenia tego innego organu"
+      },
+      "correct": "B",
+      "basis": "art. 177 §1 pkt 1 KPC; Broniewicz i in., rozdz. I §9."
+    },
+    {
+      "id": 7,
+      "question": "Jurysdykcja krajowa w rozumieniu KPC oznacza:",
+      "options": {
+        "A": "właściwość (kompetencję) sądów danego państwa do rozpoznania danej sprawy cywilnej z elementem obcym",
+        "B": "właściwość miejscową sądu w granicach obszaru kraju",
+        "C": "właściwość danego sądu w strukturze krajowej",
+        "D": "kompetencję organów administracji państwowej do rozstrzygania cywilnych spraw obywateli przebywających za granicą"
+      },
+      "correct": "A",
+      "basis": "art. 1096 KPC; Broniewicz i in., rozdz. III §13."
+    },
+    {
+      "id": 8,
+      "question": "Jurysdykcja krajowa sądów polskich w sprawie cywilnej z elementem zagranicznym zachodzi m.in. wtedy, gdy:",
+      "options": {
+        "A": "pozwany ma miejsce zamieszkania lub siedzibę w Rzeczypospolitej Polskiej",
+        "B": "powód posiada obywatelstwo polskie, niezależnie od okoliczności sprawy",
+        "C": "umowa będąca źródłem sporu została zawarta na terytorium RP, nawet jeśli strony i wykonanie są za granicą",
+        "D": "przedmiot sporu stanowi nieruchomość położona za granicą, ale powód mieszka w Polsce"
+      },
+      "correct": "A",
+      "basis": "art. 1103 KPC; Broniewicz i in., rozdz. III §13."
+    },
+    {
+      "id": 9,
+      "question": "Jurysdykcja wyłączna sądów polskich (według przepisów KPC) dotyczy m.in. spraw:",
+      "options": {
+        "A": "o prawa rzeczowe na nieruchomości położonej na terytorium Rzeczypospolitej Polskiej",
+        "B": "o rozwód dwojga obywateli polskich mieszkających za granicą",
+        "C": "o własność nieruchomości położonej za granicą, jeśli powód jest obywatelem polskim",
+        "D": "z zakresu prawa pracy, gdy pracownik jest obywatelem polskim a praca wykonywana była za granicą"
+      },
+      "correct": "A",
+      "basis": "art. 1107 KPC; Broniewicz i in., rozdz. III §13."
+    },
+    {
+      "id": 10,
+      "question": "Umowa stron wyłączająca jurysdykcję sądów polskich na rzecz sądu obcego (tzw. umowa prorogacyjna) nie wyłącza jurysdykcji sądów polskich, jeżeli:",
+      "options": {
+        "A": "przewiduje, że tylko jedna ze stron może wnieść powództwo przed sądy państwa obcego",
+        "B": "dotyczy sporu o charakterze majątkowym (roszczenia pieniężnego)",
+        "C": "została zawarta po wszczęciu postępowania przed sądem polskim",
+        "D": "została zawarta w zwykłej formie ustnej"
+      },
+      "correct": "A",
+      "basis": "art. 1105 §3 KPC; Broniewicz i in., rozdz. III §13."
+    },
+    {
+      "id": 11,
+      "question": "Immunitet sądowy w postępowaniu cywilnym oznacza, że:",
+      "options": {
+        "A": "pewne podmioty (np. obce państwo) nie podlegają jurysdykcji sądów polskich bez swojej zgody",
+        "B": "obywatele polscy nie mogą być pozywani przed sądy państw obcych",
+        "C": "sędziowie nie mogą być pozwani w sprawach cywilnych z czynów związanych z orzekaniem",
+        "D": "osoba korzystająca z immunitetu nie ponosi odpowiedzialności cywilnej za żadne działania"
+      },
+      "correct": "A",
+      "basis": "art. 1111 KPC; Broniewicz i in., rozdz. III §14."
+    },
+    {
+      "id": 12,
+      "question": "Która z poniższych NIE jest zasadą postępowania cywilnego?",
+      "options": {
+        "A": "zasada kontradyktoryjności (sporności)",
+        "B": "zasada formalizmu procesowego",
+        "C": "zasada prawdy materialnej (obiektywnej)",
+        "D": "zasada domniemania niewinności"
+      },
+      "correct": "D",
+      "basis": "art. 3 KPC; Broniewicz i in., rozdz. IV §15–16."
+    },
+    {
+      "id": 13,
+      "question": "Zasada dyspozycyjności w postępowaniu cywilnym oznacza, że:",
+      "options": {
+        "A": "rozpoczęcie i zakres postępowania zależą od woli stron (sąd rozpoznaje sprawę w granicach zakreślonych przez żądania stron)",
+        "B": "sąd cywilny może wszcząć postępowanie z urzędu, jeśli wymaga tego interes społeczny",
+        "C": "sąd nie jest związany żądaniem pozwu i może orzec ponad to żądanie, jeśli wymaga tego dobro wymiaru sprawiedliwości",
+        "D": "sąd ma obowiązek dążyć do ustalenia prawdy materialnej niezależnie od stanowisk stron"
+      },
+      "correct": "A",
+      "basis": "art. 321 §1 KPC; Broniewicz i in., rozdz. IV §17."
+    },
+    {
+      "id": 14,
+      "question": "Zasada prawdy materialnej (obiektywnej) w postępowaniu cywilnym oznacza, że:",
+      "options": {
+        "A": "rozstrzygnięcie sądu powinno opierać się na rzeczywistym stanie faktycznym ustalonym w postępowaniu dowodowym",
+        "B": "sąd jest związany twierdzeniami i przyznaniami stron, nawet jeśli uzna je za niezgodne z prawdą",
+        "C": "strony postępowania składają zeznania pod przysięgą mówienia prawdy",
+        "D": "sąd może wszcząć postępowanie z urzędu w celu ustalenia prawdy obiektywnej"
+      },
+      "correct": "A",
+      "basis": "art. 3 KPC; Broniewicz i in., rozdz. IV §16."
+    },
+    {
+      "id": 15,
+      "question": "Z zasady kontradyktoryjności (sporności) postępowania cywilnego wynika, że:",
+      "options": {
+        "A": "gromadzenie i przedstawianie dowodów spoczywa przede wszystkim na stronach, a rola sądu w tym zakresie jest ograniczona",
+        "B": "sąd z urzędu powinien przeprowadzić wszelkie dowody niezbędne do wyjaśnienia sprawy",
+        "C": "rozprawa odbywa się niejawnie, aby strony mogły swobodnie przedstawiać argumenty",
+        "D": "pozwany ma obowiązek zaprzeczyć wszystkim twierdzeniom powoda, w przeciwnym razie zostaną one uznane za przyznane"
+      },
+      "correct": "A",
+      "basis": "art. 232 KPC; Broniewicz i in., rozdz. IV §18."
+    },
+    {
+      "id": 16,
+      "question": "Zasada równości stron w postępowaniu cywilnym oznacza, że:",
+      "options": {
+        "A": "każda ze stron ma takie same prawa procesowe, w szczególności prawo do wypowiedzenia się i przedstawienia dowodów",
+        "B": "sąd powinien faworyzować stronę słabszą ekonomicznie, np. przez zwolnienie jej z obowiązków dowodowych",
+        "C": "powód z racji wytoczenia powództwa ma silniejszą pozycję procesową niż pozwany",
+        "D": "pozwany ma prawo weta wobec czynności procesowych podejmowanych przez powoda"
+      },
+      "correct": "A",
+      "basis": "art. 32 KPC; Broniewicz i in., rozdz. V §20."
+    },
+    {
+      "id": 17,
+      "question": "Prokurator w postępowaniu cywilnym może:",
+      "options": {
+        "A": "wytaczać powództwa oraz wstępować do już toczących się postępowań w celu ochrony praworządności lub praw obywateli",
+        "B": "jedynie przyłączyć się do toczącej się sprawy, ale nie wolno mu samodzielnie zainicjować postępowania",
+        "C": "wydawać sądowi wiążące polecenia co do kierunku rozstrzygnięcia, jeśli wymaga tego interes publiczny",
+        "D": "reprezentować dowolną osobę fizyczną bez jej zgody, jeśli uzna to za zasadne"
+      },
+      "correct": "A",
+      "basis": "art. 55 §1 KPC; Broniewicz i in., rozdz. V §26."
+    },
+    {
+      "id": 18,
+      "question": "Kto NIE należy do podmiotów uprawnionych do udziału w postępowaniu cywilnym na prawach podobnych do prokuratora?",
+      "options": {
+        "A": "Rzecznik Praw Obywatelskich",
+        "B": "Rzecznik Praw Dziecka",
+        "C": "Organizacja pozarządowa w sprawie dotyczącej ochrony praw konsumentów (za zgodą konsumenta)",
+        "D": "Wójt (burmistrz, prezydent miasta) w każdej sprawie cywilnej dotyczącej mieszkańca gminy"
+      },
+      "correct": "D",
+      "basis": "art. 8(1) KPC; Broniewicz i in., rozdz. V §26–28."
+    },
+    {
+      "id": 19,
+      "question": "Który element NIE jest wymagany w każdym piśmie procesowym składanym w sprawie cywilnej?",
+      "options": {
+        "A": "oznaczenie sądu, sygnatury akt (jeśli została nadana), stron oraz rodzaju pisma",
+        "B": "dokładne określenie żądania lub oświadczenia, które pismo zawiera, wraz z przytoczeniem faktów na uzasadnienie",
+        "C": "własnoręczny podpis strony albo jej należycie umocowanego pełnomocnika",
+        "D": "numer dowodu osobistego lub PESEL strony wnoszącej pismo"
+      },
+      "correct": "D",
+      "basis": "art. 126 §1 KPC; Broniewicz i in., rozdz. VI §30."
+    },
+    {
+      "id": 20,
+      "question": "Jeżeli adresat (strona) odmówi przyjęcia pisma sądowego doręczanego jej w trybie KPC, to:",
+      "options": {
+        "A": "pismo uznaje się za doręczone w dniu odmowy przyjęcia",
+        "B": "doręczający pozostawi pismo w skrzynce pocztowej adresata i po 7 dniach będzie ono uznane za doręczone",
+        "C": "sąd zarządzi ponowne doręczenie przez komornika lub policję",
+        "D": "postępowanie ulega zawieszeniu z powodu niemożności doręczenia pisma"
+      },
+      "correct": "A",
+      "basis": "art. 139 §1 KPC; Broniewicz i in., rozdz. VI §31."
+    },
+    {
+      "id": 21,
+      "question": "Jeśli doręczyciel nie zastanie adresata i po dwukrotnym awizowaniu przesyłka sądowa nie zostanie odebrana w terminie, to zgodnie z KPC:",
+      "options": {
+        "A": "pismo uważa się za doręczone w ostatnim dniu upływu terminu do odbioru przesyłki z poczty",
+        "B": "sąd musi zarządzić inny sposób doręczenia (np. przez komornika), gdyż nie doszło do skutecznego doręczenia",
+        "C": "doręczyciel ma obowiązek podjąć trzecią próbę doręczenia po kolejnych 7 dniach",
+        "D": "sąd nakaże Policji ustalenie miejsca pobytu adresata i osobiste doręczenie mu pisma"
+      },
+      "correct": "A",
+      "basis": "art. 139 §1–2 KPC; Broniewicz i in., rozdz. VI §31."
+    },
+    {
+      "id": 22,
+      "question": "Terminy ustawowe w postępowaniu cywilnym (określone w ustawie):",
+      "options": {
+        "A": "nie podlegają skróceniu ani przedłużeniu przez sąd",
+        "B": "mogą być w razie potrzeby przedłużone lub skrócone postanowieniem sądu",
+        "C": "po ich upływie czynność procesowa strony nadal może być skutecznie dokonana (nie powodują prekluzji)",
+        "D": "są liczone tylko w dniach roboczych (nie obejmują sobót i niedziel)"
+      },
+      "correct": "A",
+      "basis": "art. 164 i 166 KPC; Broniewicz i in., rozdz. VI §33."
+    },
+    {
+      "id": 23,
+      "question": "Jeżeli termin dokonania określonej czynności procesowej upływa w dzień ustawowo wolny od pracy (np. niedzielę lub święto):",
+      "options": {
+        "A": "czynność można skutecznie wykonać w najbliższym następnym dniu roboczym",
+        "B": "termin ulega skróceniu do poprzedzającego dnia roboczego",
+        "C": "czynność powinna zostać dokonana najpóźniej w poprzedni piątek",
+        "D": "taka sytuacja nie wpływa na bieg terminu – upływa on w dniu wolnym"
+      },
+      "correct": "A",
+      "basis": "art. 115 KC w zw. z art. 165 §2 KPC."
+    },
+    {
+      "id": 24,
+      "question": "Przywrócenie uchybionego terminu procesowego jest dopuszczalne tylko wówczas, gdy:",
+      "options": {
+        "A": "strona uprawdopodobni, że uchybienie nastąpiło bez jej winy",
+        "B": "strona poda ważny powód uchybienia, nawet jeśli była częściowo winna jego uchybieniu",
+        "C": "wniosek o przywrócenie zostanie złożony w ciągu roku od upływu uchybionego terminu",
+        "D": "chodzi o termin przedawnienia roszczenia majątkowego w prawie materialnym"
+      },
+      "correct": "A",
+      "basis": "art. 168 §1 KPC; Broniewicz i in., rozdz. VI §34."
+    },
+    {
+      "id": 25,
+      "question": "Do kosztów procesu strony (art. 98 KPC) zalicza się m.in.:",
+      "options": {
+        "A": "wszelkie niezbędne wydatki strony związane z jej udziałem w sprawie, w tym opłaty sądowe, koszty dowodów oraz wynagrodzenie pełnomocnika według norm przepisanych",
+        "B": "jedynie uiszczoną opłatę sądową od pozwu (wpis) – pozostałe wydatki nie stanowią kosztów procesu",
+        "C": "wyłącznie koszty ustanowienia pełnomocnika z wyboru poniesione przez stronę",
+        "D": "nałożone na stronę grzywny oraz koszty postępowania egzekucyjnego"
+      },
+      "correct": "A",
+      "basis": "art. 98 §1–3 KPC; Broniewicz i in., rozdz. VII §35."
+    },
+    {
+      "id": 26,
+      "question": "Zasada odpowiedzialności za wynik sprawy w zakresie kosztów procesu (art. 98 KPC) oznacza, że:",
+      "options": {
+        "A": "strona przegrywająca sprawę powinna zwrócić przeciwnikowi na jego żądanie wszystkie celowe koszty procesu",
+        "B": "każda ze stron ponosi zawsze swoje koszty bez względu na wynik sprawy",
+        "C": "koszty procesu pokrywa ostatecznie Skarb Państwa, jeżeli strona przegrywająca jest niewypłacalna",
+        "D": "koszty postępowania są między strony dzielone po połowie niezależnie od wyniku"
+      },
+      "correct": "A",
+      "basis": "art. 98 §1 KPC; Broniewicz i in., rozdz. VII §36."
+    },
+    {
+      "id": 27,
+      "question": "Czy sąd może odstąpić od obciążenia strony przegrywającej obowiązkiem zwrotu kosztów procesu na rzecz wygrywającego?",
+      "options": {
+        "A": "Tak – w wypadkach szczególnie uzasadnionych sąd może nie obciążać strony przegrywającej całością kosztów (art. 102 KPC)",
+        "B": "Nie – zasada odpowiedzialności za wynik jest bezwzględna i nie zna wyjątków",
+        "C": "Tak – ale tylko gdy strona przegrywająca jest niewypłacalna, wówczas koszty ponosi wygrywający",
+        "D": "Tak – zawsze gdy powództwo zostanie oddalone jako oczywiście bezzasadne, sąd nie obciąży powoda kosztami"
+      },
+      "correct": "A",
+      "basis": "art. 102 KPC; Broniewicz i in., rozdz. VII §36."
+    },
+    {
+      "id": 28,
+      "question": "Zgodnie z KPC powód może zostać zobowiązany do złożenia kaucji na zabezpieczenie kosztów procesu (tzw. kaucji aktorycznej) w przypadku, gdy:",
+      "options": {
+        "A": "jest obywatelem (lub ma siedzibę) w państwie niebędącym członkiem UE ani niewiązanym odpowiednią umową z Polską",
+        "B": "jego roszczenie przekracza kwotę 100 tysięcy złotych",
+        "C": "nie uiścił opłaty od pozwu w pełnej wysokości",
+        "D": "pozwany uprawdopodobni, że powód przegra sprawę"
+      },
+      "correct": "A",
+      "basis": "art. 111(1) KPC; Broniewicz i in., rozdz. VII §37."
+    },
+    {
+      "id": 29,
+      "question": "Kto może uzyskać od sądu zwolnienie od kosztów sądowych w procesie cywilnym?",
+      "options": {
+        "A": "Osoba, która wykaże, że nie jest w stanie ponieść kosztów (w całości lub części) bez uszczerbku utrzymania koniecznego dla siebie i rodziny",
+        "B": "Każda strona, ale tylko raz w roku kalendarzowym, na własny wniosek",
+        "C": "Tylko powodowie dochodzący roszczeń o wartości mniejszej niż 10 000 zł",
+        "D": "Organizacja pozarządowa reprezentująca interes społeczny – z mocy prawa, bez potrzeby składania wniosku"
+      },
+      "correct": "A",
+      "basis": "art. 102 ust. 1 u.k.s.c.; Broniewicz i in., rozdz. VIII §38."
+    },
+    {
+      "id": 30,
+      "question": "Jakie skutki niesie za sobą prawomocne zwolnienie strony od kosztów sądowych?",
+      "options": {
+        "A": "Strona nie musi uiszczać opłat sądowych ani ponosić wydatków sądowych, natomiast w razie przegranej wciąż może zostać zobowiązana do zwrotu kosztów procesu przeciwnika (np. wynagrodzenia jego pełnomocnika).",
+        "B": "Strona jest zwolniona ze wszystkich kosztów związanych z procesem, w tym także z obowiązku zwrotu kosztów przeciwnikowi w razie przegranej.",
+        "C": "Strona zyskuje jednocześnie z urzędu prawo do pomocy adwokata lub radcy prawnego na koszt Skarbu Państwa, bez odrębnego wniosku.",
+        "D": "Strona po zakończeniu sprawy musi zwrócić Skarbowi Państwa wyłożone za nią koszty tylko jeśli przegra proces."
+      },
+      "correct": "A",
+      "basis": "art. 122 i 124 u.k.s.c.; Broniewicz i in., rozdz. VIII §38."
+    },
+    {
+      "id": 31,
+      "question": "Który podmiot NIE posiada zdolności sądowej (zdolności występowania jako strona w procesie)?",
+      "options": {
+        "A": "Spółka cywilna (nieposiadająca osobowości prawnej ani zdolności prawnej)",
+        "B": "Skarb Państwa",
+        "C": "Stowarzyszenie zarejestrowane (posiadające osobowość prawną)",
+        "D": "Gmina (jednostka samorządu terytorialnego)"
+      },
+      "correct": "A",
+      "basis": "art. 64 §1 KPC; Broniewicz i in., rozdz. XI §53."
+    },
+    {
+      "id": 32,
+      "question": "Kto z poniższych NIE ma zdolności procesowej (zdolności do samodzielnego podejmowania czynności w postępowaniu)?",
+      "options": {
+        "A": "Osoba fizyczna mająca 16 lat, w sprawie niemającej charakteru drobnej sprawy życia codziennego",
+        "B": "Pełnoletnia osoba fizyczna, nieubezwłasnowolniona",
+        "C": "Osoba prawna (działa przez swoje organy ustanowione w przepisach)",
+        "D": "Przedsiębiorca będący osobą fizyczną (prowadzący jednoosobową działalność gospodarczą)"
+      },
+      "correct": "A",
+      "basis": "art. 65 KPC; Broniewicz i in., rozdz. XI §53."
+    },
+    {
+      "id": 33,
+      "question": "Brak tzw. legitymacji procesowej (czynnej lub biernej) – czyli sytuacja, gdy powód dochodzi roszczenia, które mu nie przysługuje albo przeciw niewłaściwej osobie – skutkuje:",
+      "options": {
+        "A": "oddaleniem powództwa wyrokiem (jako bezzasadnego co do meritum)",
+        "B": "odrzuceniem pozwu postanowieniem (jako niedopuszczalnego)",
+        "C": "umorzeniem postępowania z uwagi na bezprzedmiotowość sprawy",
+        "D": "wezwanie powoda do wskazania właściwej strony pod rygorem zawieszenia postępowania"
+      },
+      "correct": "A",
+      "basis": "art. 187 §1 pkt 2 KPC; Broniewicz i in., rozdz. XI §56."
+    },
+    {
+      "id": 34,
+      "question": "Niezbędne (konieczne) współuczestnictwo procesowe po stronie powodowej lub pozwanej zachodzi wówczas, gdy:",
+      "options": {
+        "A": "ze względu na łączący strony stosunek prawny wyrok musi objąć wspólnie wszystkie te osoby (bez ich łącznego udziału sprawa nie może zostać prawidłowo rozstrzygnięta)",
+        "B": "kilka osób łącznie postanowi wytoczyć powództwo lub zostać pozwanymi dla wygody postępowania",
+        "C": "sąd z urzędu połączy dwie lub więcej spraw przeciwko różnym pozwanym do łącznego rozpoznania",
+        "D": "do postępowania wstępuje prokurator i zawiadamia o nim inne osoby, które mogą mieć interes w sprawie"
+      },
+      "correct": "A",
+      "basis": "art. 72 §2 KPC; Broniewicz i in., rozdz. XI §57."
+    },
+    {
+      "id": 35,
+      "question": "Interwencję uboczną w postępowaniu cywilnym może zgłosić:",
+      "options": {
+        "A": "osoba trzecia, która ma interes prawny w tym, aby sprawa została rozstrzygnięta na korzyść jednej ze stron",
+        "B": "wyłącznie prokurator lub inny uprawniony organ w interesie publicznym",
+        "C": "krewny strony (w linii prostej lub rodzeństwo) nawet bez interesu prawnego, jeśli chce ją wesprzeć",
+        "D": "osoba trzecia tylko za zgodą obu głównych stron procesu"
+      },
+      "correct": "A",
+      "basis": "art. 76 i 79 KPC; Broniewicz i in., rozdz. XI §59."
+    },
+    {
+      "id": 36,
+      "question": "Sąd ustanowi kuratora dla strony w postępowaniu cywilnym m.in. w przypadku, gdy:",
+      "options": {
+        "A": "miejsce pobytu pozwanego nie jest znane i nie można mu doręczyć wezwania",
+        "B": "pozwany jest osobą prawną w likwidacji",
+        "C": "powód jest osobą małoletnią, której rodzice żyją",
+        "D": "świadek w sprawie uchyla się od stawiennictwa na wezwanie sądu"
+      },
+      "correct": "A",
+      "basis": "art. 144 §1 KPC; Broniewicz i in., rozdz. XI §64."
+    },
+    {
+      "id": 37,
+      "question": "Kto NIE może być pełnomocnikiem procesowym strony w postępowaniu cywilnym?",
+      "options": {
+        "A": "adwokat lub radca prawny strony",
+        "B": "współuczestnik sporu występujący po tej samej stronie co reprezentowany",
+        "C": "ojciec pełnoletniej strony, działający za jej zgodą",
+        "D": "osoba nieposiadająca zdolności do czynności prawnych"
+      },
+      "correct": "D",
+      "basis": "art. 87 §1 KPC; Broniewicz i in., rozdz. XI §65."
+    },
+    {
+      "id": 38,
+      "question": "Czy powód może dochodzić w jednym pozwie jednocześnie kilku roszczeń przeciwko temu samemu pozwanemu?",
+      "options": {
+        "A": "Tak, jeżeli sąd jest rzeczowo i miejscowo właściwy dla wszystkich tych roszczeń (powód może kumulować roszczenia)",
+        "B": "Nie, kodeks wymaga, by od każdego roszczenia wnosić odrębny pozew",
+        "C": "Tylko wtedy, gdy roszczenia wynikają z tej samej umowy lub zdarzenia prawnego",
+        "D": "Tak, ale wyłącznie gdy wartość każdego z roszczeń nie przekracza 20 000 zł"
+      },
+      "correct": "A",
+      "basis": "art. 191 KPC; Broniewicz i in., rozdz. XII §69–70."
+    },
+    {
+      "id": 39,
+      "question": "Czy powód może dochodzić w pozwie jedynie części przysługującego mu roszczenia (dzieląc je na części)?",
+      "options": {
+        "A": "Tak – dochodzenie części roszczenia jest dopuszczalne i nie zamyka drogi do dochodzenia pozostałej części w odrębnym postępowaniu",
+        "B": "Nie – powód ma obowiązek dochodzić od razu całości roszczenia, w przeciwnym razie sąd odrzuci pozew",
+        "C": "Tak, ale prawomocny wyrok rozstrzygający o części roszczenia obejmie powagą rzeczy osądzonej również pozostałą część (uniemożliwi jej dochodzenie)",
+        "D": "Tak, jednak sąd zawiesi postępowanie co do niewytoczonej części roszczenia"
+      },
+      "correct": "A",
+      "basis": "art. 321 §1 KPC; Broniewicz i in., rozdz. XII §71."
+    },
+    {
+      "id": 40,
+      "question": "Pozew wzajemny (powództwo wzajemne) według KPC może wnieść pozwany:",
+      "options": {
+        "A": "najpóźniej przy pierwszej odpowiedzi na pozew (najdalej na pierwszej rozprawie), jeśli jego roszczenie pozostaje w związku z roszczeniem powoda lub nadaje się do potrącenia",
+        "B": "w każdym czasie trwania sprawy, aż do zamknięcia rozprawy w drugiej instancji, bez ograniczeń co do przedmiotu",
+        "C": "wyłącznie za uprzednią zgodą powoda wyrażoną na piśmie",
+        "D": "także przeciwko osobie trzeciej niebędącej dotąd stroną, jeżeli jej interes jest związany ze sprawą"
+      },
+      "correct": "A",
+      "basis": "art. 204 §1 KPC; Broniewicz i in., rozdz. XII §72."
+    },
+    {
+      "id": 41,
+      "question": "Skutkiem doręczenia pozwanemu odpisu pozwu w postępowaniu cywilnym jest:",
+      "options": {
+        "A": "powstanie zawisłości sporu między stronami przed tym sądem (sprawa staje się w toku)",
+        "B": "utrwalenie właściwości miejscowej i rzeczowej sądu według okoliczności z chwili doręczenia",
+        "C": "powstanie po stronie pozwanego prawa do obrony",
+        "D": "rozpoczęcie biegu terminu do wniesienia apelacji"
+      },
+      "correct": "A",
+      "basis": "art. 192 pkt 1 KPC; Broniewicz i in., rozdz. XII §75."
+    },
+    {
+      "id": 42,
+      "question": "Powód wytoczył przeciw pozwanemu ponownie tę samą sprawę o to samo roszczenie, podczas gdy przed innym sądem toczy się już postępowanie między tymi stronami o ten przedmiot. W takiej sytuacji:",
+      "options": {
+        "A": "drugi pozew podlega odrzuceniu z powodu zawisłości sporu (sprawa już się toczy)",
+        "B": "obie sprawy zostaną połączone do wspólnego rozpoznania i rozstrzygnięcia",
+        "C": "sąd zawiesi drugie postępowanie do czasu prawomocnego zakończenia pierwszego",
+        "D": "drugie postępowanie jest dopuszczalne – powód może dochodzić równolegle tego samego roszczenia przed dwoma sądami"
+      },
+      "correct": "A",
+      "basis": "art. 199 §1 pkt 2 KPC; Broniewicz i in., rozdz. XII §72."
+    },
+    {
+      "id": 43,
+      "question": "Po doręczeniu pozwu pozwanemu cofnięcie pozwu przez powoda:",
+      "options": {
+        "A": "jest dopuszczalne za zgodą pozwanego, chyba że powód równocześnie zrzeka się roszczenia",
+        "B": "nie wymaga zgody pozwanego i zawsze powoduje umorzenie postępowania",
+        "C": "jest niedopuszczalne – powód po wytoczeniu powództwa nie może go cofnąć",
+        "D": "skutkuje oddaleniem powództwa wyrokiem"
+      },
+      "correct": "A",
+      "basis": "art. 203 §2 KPC; Broniewicz i in., rozdz. XII §78."
+    },
+    {
+      "id": 44,
+      "question": "Czy powód może zmienić żądanie pozwu lub jego podstawę faktyczną w toku procesu?",
+      "options": {
+        "A": "Tak, jeżeli nowym żądaniem sąd byłby nadal właściwy i istnieje związek między dotychczasowym a nowym żądaniem (ewentualnie za zgodą pozwanego, jeśli wymagana)",
+        "B": "Nie, powództwo od chwili wniesienia jest niezmienne do końca postępowania",
+        "C": "Tak, ale tylko przed rozpoczęciem pierwszej rozprawy – później zmiana powództwa jest niedopuszczalna",
+        "D": "Tak, w każdym czasie i zakresie, nawet jeżeli zmienione żądanie nie ma nic wspólnego z pierwotnym roszczeniem"
+      },
+      "correct": "A",
+      "basis": "art. 193 §1 KPC; Broniewicz i in., rozdz. XII §72."
+    },
+    {
+      "id": 45,
+      "question": "Posiedzenie przygotowawcze w postępowaniu cywilnym służy:",
+      "options": {
+        "A": "ułożeniu wraz ze stronami planu rozprawy (harmonogramu czynności dowodowych) oraz podjęciu próby ugodowego zakończenia sporu",
+        "B": "przeprowadzeniu mediacji sądowej przez sędziego między stronami",
+        "C": "przesłuchaniu świadków i stron przed właściwą rozprawą, aby skrócić postępowanie dowodowe",
+        "D": "losowemu przydzieleniu sprawy innemu sędziemu celem zapewnienia bezstronności"
+      },
+      "correct": "A",
+      "basis": "art. 205(4) §1 KPC; Broniewicz i in., rozdz. XIII §80."
+    },
+    {
+      "id": 46,
+      "question": "Kierując strony do mediacji, sąd wyznacza czas jej trwania na okres nie dłuższy niż:",
+      "options": {
+        "A": "jednego miesiąca",
+        "B": "dwóch miesięcy",
+        "C": "trzech miesięcy",
+        "D": "sześciu miesięcy"
+      },
+      "correct": "C",
+      "basis": "art. 183(8) §1 KPC; Broniewicz i in., rozdz. XIII §80."
+    },
+    {
+      "id": 47,
+      "question": "W razie zawarcia przez strony ugody sądowej w toku procesu cywilnego:",
+      "options": {
+        "A": "sąd wydaje postanowienie o umorzeniu postępowania",
+        "B": "sąd wydaje wyrok zgodny z treścią ugody",
+        "C": "pozew uważa się za cofnięty za zgodą pozwanego",
+        "D": "sąd pozostawia sprawę bez rozpoznania"
+      },
+      "correct": "A",
+      "basis": "art. 355 §1 KPC; Broniewicz i in., rozdz. XIII §82."
+    },
+    {
+      "id": 48,
+      "question": "W postępowaniu cywilnym dowodu nie wymagają:",
+      "options": {
+        "A": "fakty powszechnie znane oraz fakty przyznane przez stronę przeciwną",
+        "B": "żadne okoliczności – każda musi być udowodniona dowodem dopuszczonym przez sąd",
+        "C": "twierdzenia powoda, jeżeli pozwany pozostaje bierny i nie zaprzecza im",
+        "D": "fakty stwierdzone w jakimkolwiek dokumencie urzędowym"
+      },
+      "correct": "A",
+      "basis": "art. 228 i 229 KPC; Broniewicz i in., rozdz. XIV §83."
+    },
+    {
+      "id": 49,
+      "question": "Zgodnie z KPC dokument urzędowy sporządzony przez uprawniony organ stanowi:",
+      "options": {
+        "A": "dowód tego, co zostało w nim urzędowo poświadczone",
+        "B": "najsilniejszy środek dowodowy, którego prawdziwości nie można obalić przeciwdowodem",
+        "C": "dowód wiążący sąd tylko w postępowaniu karnym, lecz nie w cywilnym",
+        "D": "dowód równoważny prawomocnemu wyrokowi sądowemu"
+      },
+      "correct": "A",
+      "basis": "art. 244 §1 KPC; Broniewicz i in., rozdz. XIV §86."
+    },
+    {
+      "id": 50,
+      "question": "Kto NIE może być świadkiem w postępowaniu cywilnym?",
+      "options": {
+        "A": "Osoba, która nie jest zdolna spostrzegać lub komunikować swych spostrzeżeń",
+        "B": "Strona procesu (powód albo pozwany)",
+        "C": "Małżonek strony pozwanej",
+        "D": "Rodzic małoletniego powoda"
+      },
+      "correct": "A",
+      "basis": "art. 259 KPC; Broniewicz i in., rozdz. XIV §86."
+    },
+    {
+      "id": 51,
+      "question": "Na kim spoczywa ciężar udowodnienia faktów istotnych dla rozstrzygnięcia sprawy w procesie cywilnym?",
+      "options": {
+        "A": "Na stronie, która z danego faktu wywodzi skutki prawne (dowodzi ten, kto twierdzi określony fakt na poparcie swego żądania lub obrony)",
+        "B": "Zawsze na powodzie, gdyż to on inicjuje postępowanie i powinien udowodnić swoje roszczenie",
+        "C": "Na pozwanym, jeśli powód twierdzi, że dany fakt miał miejsce (pozwany musi obalić twierdzenia powoda)",
+        "D": "Na sądzie, który w razie potrzeby powinien z urzędu zebrać materiał dowodowy do wyjaśnienia sprawy"
+      },
+      "correct": "A",
+      "basis": "art. 6 KC; Broniewicz i in., rozdz. XIV §85."
+    },
+    {
+      "id": 52,
+      "question": "Czy sąd w procesie cywilnym może dopuścić dowód z urzędu (niewskazany przez żadną ze stron)?",
+      "options": {
+        "A": "Tak – wyjątkowo, gdy uzna to za niezbędne do wyjaśnienia istotnych okoliczności sprawy",
+        "B": "Nie – obowiązuje zasada kontradyktoryjności, wedle której dowody mogą zgłaszać jedynie strony",
+        "C": "Tak – ma taki obowiązek w każdej sprawie dla realizacji zasady prawdy materialnej",
+        "D": "Tak – ale tylko za zgodą obu stron wyrażoną na piśmie"
+      },
+      "correct": "A",
+      "basis": "art. 232 zd. 2 KPC; Broniewicz i in., rozdz. XIV §85."
+    },
+    {
+      "id": 53,
+      "question": "Które z poniższych rozstrzygnięć zapada w formie wyroku (orzeczenia merytorycznego), a nie postanowienia?",
+      "options": {
+        "A": "oddalenie powództwa",
+        "B": "odrzucenie pozwu",
+        "C": "umorzenie postępowania",
+        "D": "zwrot pozwu"
+      },
+      "correct": "A",
+      "basis": "art. 316 §1 KPC; Broniewicz i in., rozdz. XV §92–94."
+    },
+    {
+      "id": 54,
+      "question": "Które orzeczenie sądu ma charakter konstytutywny (kształtuje nowy stan prawny)?",
+      "options": {
+        "A": "Wyrok orzekający rozwód między małżonkami",
+        "B": "Wyrok zasądzający zapłatę określonej sumy pieniędzy",
+        "C": "Wyrok ustalający istnienie lub nieistnienie stosunku prawnego (np. ustalający własność)",
+        "D": "Wyrok częściowy w toku sprawy"
+      },
+      "correct": "A",
+      "basis": "art. 316 §1 KPC; Broniewicz i in., rozdz. XV §94–96."
+    },
+    {
+      "id": 55,
+      "question": "Prawomocne rozstrzygnięcie sądu cywilnego uzyskuje powagę rzeczy osądzonej, co oznacza że:",
+      "options": {
+        "A": "nie można ponownie wytoczyć między tymi samymi stronami sprawy o to samo roszczenie (spór został prawomocnie rozstrzygnięty)",
+        "B": "ustalenia faktyczne i prawne wyroku wiążą w każdej innej sprawie sąd i inne organy państwowe",
+        "C": "wyrok taki staje się natychmiast wykonalny z mocy prawa",
+        "D": "można go uchylić lub zmienić tylko w drodze apelacji"
+      },
+      "correct": "A",
+      "basis": "art. 366 KPC; Broniewicz i in., rozdz. XV §104–105."
+    },
+    {
+      "id": 56,
+      "question": "Który wyrok jest z mocy prawa natychmiast wykonalny (podlega wykonaniu mimo braku prawomocności)?",
+      "options": {
+        "A": "Wyrok zasądzający alimenty okresowe (co do rat płatnych po wydaniu wyroku)",
+        "B": "Wyrok zasądzający jednorazowe odszkodowanie za szkodę na osobie",
+        "C": "Wyrok oddalający powództwo o zapłatę",
+        "D": "Żaden – wyrok staje się wykonalny dopiero po uprawomocnieniu się"
+      },
+      "correct": "A",
+      "basis": "art. 333 §1 pkt 1 KPC; Broniewicz i in., rozdz. XV §98."
+    },
+    {
+      "id": 57,
+      "question": "Wyrok zaoczny przeciw pozwanemu może zostać wydany, gdy:",
+      "options": {
+        "A": "pozwany nie stawił się na posiedzenie wyznaczone na rozprawę i nie złożył pisemnej odpowiedzi na pozew, mimo prawidłowego wezwania",
+        "B": "pozwany stawił się, ale odmówił udziału w postępowaniu",
+        "C": "powód nie stawił się na rozprawę, a pozwany wniósł o rozpoznanie sprawy",
+        "D": "jeszcze przed doręczeniem pozwu sąd chce wydać rozstrzygnięcie z uwagi na oczywistą zasadność powództwa"
+      },
+      "correct": "A",
+      "basis": "art. 339 §1 KPC; Broniewicz i in., rozdz. XV §98."
+    },
+    {
+      "id": 58,
+      "question": "Kto może wnieść sprzeciw od wyroku zaocznego?",
+      "options": {
+        "A": "Pozwany, przeciwko któremu wydano wyrok zaoczny",
+        "B": "Powód, jeżeli wyrok zaoczny jest dla niego niekorzystny",
+        "C": "Każdy uczestnik postępowania (np. interwenient uboczny) niezadowolony z treści wyroku",
+        "D": "Prokurator, jeżeli brał udział w postępowaniu"
+      },
+      "correct": "A",
+      "basis": "art. 344 §1 KPC; Broniewicz i in., rozdz. XV §98."
+    },
+    {
+      "id": 59,
+      "question": "W jakim terminie strona powinna wnieść apelację od wyroku sądu pierwszej instancji?",
+      "options": {
+        "A": "W terminie 14 dni od doręczenia stronie wyroku z pisemnym uzasadnieniem (jeżeli zażądała uzasadnienia)",
+        "B": "W terminie 7 dni od ogłoszenia wyroku na rozprawie",
+        "C": "W terminie 30 dni od ogłoszenia lub doręczenia wyroku, niezależnie od uzasadnienia",
+        "D": "W terminie 2 miesięcy od dnia wydania wyroku"
+      },
+      "correct": "A",
+      "basis": "art. 369 §1 KPC; Broniewicz i in., rozdz. XVI §107."
+    },
+    {
+      "id": 60,
+      "question": "W jakim terminie wnosi się zażalenie na postanowienie sądu (jeżeli ustawa nie stanowi inaczej)?",
+      "options": {
+        "A": "W terminie tygodnia od doręczenia postanowienia (lub ogłoszenia, gdy doręczenie nie jest wymagane)",
+        "B": "W terminie dwóch tygodni od ogłoszenia postanowienia na posiedzeniu jawnym",
+        "C": "W terminie 14 dni od doręczenia uzasadnienia postanowienia",
+        "D": "W terminie miesiąca od dnia wydania postanowienia"
+      },
+      "correct": "A",
+      "basis": "art. 394 §2 KPC; Broniewicz i in., rozdz. XVI §108."
+    },
+    {
+      "id": 61,
+      "question": "Podstawą skargi kasacyjnej do Sądu Najwyższego NIE mogą być zarzuty dotyczące:",
+      "options": {
+        "A": "ustalenia faktów lub oceny dowodów przeprowadzonej przez sąd drugiej instancji",
+        "B": "naruszenia prawa materialnego",
+        "C": "naruszenia przepisów postępowania, jeżeli uchybienie mogło mieć wpływ na wynik sprawy",
+        "D": "niewłaściwości miejscowej sądu pierwszej instancji"
+      },
+      "correct": "A",
+      "basis": "art. 398^3 §3 KPC; Broniewicz i in., rozdz. XVI §109."
+    },
+    {
+      "id": 62,
+      "question": "W której z poniższych spraw przysługuje skarga kasacyjna do Sądu Najwyższego?",
+      "options": {
+        "A": "w sprawie o rozwód, separację i alimenty prawomocnie zakończonej w II instancji",
+        "B": "w sprawie o zapłatę 500 000 zł, prawomocnie rozstrzygniętej przez sąd apelacyjny",
+        "C": "w sprawie o zapłatę 30 000 zł, prawomocnie rozstrzygniętej przez sąd drugiej instancji",
+        "D": "w sprawie z zakresu prawa pracy o przywrócenie do pracy, w której wartość przedmiotu sporu wynosi 5 000 zł"
+      },
+      "correct": "B",
+      "basis": "art. 398^2 §1–2 KPC; Broniewicz i in., rozdz. XVI §109."
+    },
+    {
+      "id": 63,
+      "question": "Skarga kasacyjna powinna być sporządzona przez adwokata lub radcę prawnego (tzw. przymus profesjonalny), chyba że:",
+      "options": {
+        "A": "strona skarżąca sama jest sędzią, adwokatem, radcą prawnym albo notariuszem lub profesorem czy doktorem habilitowanym nauk prawnych",
+        "B": "wartość przedmiotu sporu nie przekracza 50 000 zł",
+        "C": "sprawa dotyczy prawa pracy lub ubezpieczeń społecznych",
+        "D": "strona jest konsumentem w sporze z przedsiębiorcą"
+      },
+      "correct": "A",
+      "basis": "art. 871 i 871^1 KPC; Broniewicz i in., rozdz. XVI §109."
+    },
+    {
+      "id": 64,
+      "question": "Kto może wnieść skargę nadzwyczajną od prawomocnego orzeczenia sądu powszechnego?",
+      "options": {
+        "A": "Prokurator Generalny, Rzecznik Praw Obywatelskich lub inny uprawniony z mocy ustawy organ (w zakresie swojej właściwości)",
+        "B": "Każda ze stron postępowania, o ile wyczerpała przysługujące jej zwykłe środki odwoławcze",
+        "C": "Sąd Najwyższy z urzędu, jeżeli dostrzeże rażące naruszenie prawa",
+        "D": "Minister Sprawiedliwości w każdej sprawie cywilnej"
+      },
+      "correct": "A",
+      "basis": "art. 89 ustawy o SN; Broniewicz i in., rozdz. XVI §113."
+    },
+    {
+      "id": 65,
+      "question": "Która z poniższych okoliczności NIE stanowi ustawowej podstawy wznowienia prawomocnie zakończonego postępowania cywilnego?",
+      "options": {
+        "A": "Błędna wykładnia prawa materialnego przez sąd, która doprowadziła do niesłusznego wyroku",
+        "B": "Wykrycie po uprawomocnieniu się wyroku istotnego dokumentu, który istniał w czasie procesu, ale nie był znany sądowi",
+        "C": "Uczestniczenie w składzie orzekającym sędziego podlegającego wyłączeniu z mocy ustawy (np. krewnego strony)",
+        "D": "Uzyskanie wyroku za pomocą przestępstwa (np. przekupstwa sędziego lub strony)"
+      },
+      "correct": "A",
+      "basis": "art. 401–404 KPC; Broniewicz i in., rozdz. XVI §110."
+    },
+    {
+      "id": 66,
+      "question": "Jeżeli w toku postępowania cywilnego ujawni się, że toczy się postępowanie karne dotyczące zagadnienia wstępnego (przesądzającego o wyniku sprawy cywilnej), to sąd cywilny:",
+      "options": {
+        "A": "może zawiesić postępowanie do czasu prawomocnego ukończenia postępowania karnego",
+        "B": "obowiązkowo zawiesza postępowanie do czasu zakończenia sprawy karnej",
+        "C": "musi przekazać sprawę do rozpoznania sądowi karnemu",
+        "D": "prowadzi nadal postępowanie bez względu na wynik sprawy karnej (postępowania są całkowicie niezależne)"
+      },
+      "correct": "A",
+      "basis": "art. 177 §1 pkt 1 KPC; Broniewicz i in., rozdz. II §12."
+    },
+    {
+      "id": 67,
+      "question": "Jeżeli sprawa nie należała do jurysdykcji krajowej sądów polskich (brak jurysdykcji), to sąd:",
+      "options": {
+        "A": "odrzuci pozew",
+        "B": "oddali powództwo",
+        "C": "przekaże sprawę właściwemu sądowi za granicą, jeżeli jest znany",
+        "D": "rozpozna sprawę merytorycznie, stosując prawo obce"
+      },
+      "correct": "A",
+      "basis": "art. 1099 KPC; Broniewicz i in., rozdz. III §13."
+    },
+    {
+      "id": 68,
+      "question": "Zasada koncentracji materiału procesowego oznacza, że:",
+      "options": {
+        "A": "strony powinny powołać wszystkie twierdzenia i dowody we właściwym czasie, a spóźnione przedstawienie dowodów może skutkować ich pominięciem przez sąd",
+        "B": "sąd ma obowiązek dopuścić każdy dowód zgłoszony przez stronę na jakimkolwiek etapie postępowania",
+        "C": "rozprawa odbywa się wyłącznie na jednym posiedzeniu, na którym sąd rozpoznaje wszystkie dowody",
+        "D": "po rozpoczęciu rozprawy strony nie mogą już przedstawiać żadnych nowych twierdzeń i dowodów"
+      },
+      "correct": "A",
+      "basis": "art. 207 §6, 217 §2 KPC; Broniewicz i in., rozdz. IV §18."
+    },
+    {
+      "id": 69,
+      "question": "Jeżeli okaże się, że strona nie ma zdolności procesowej ani odpowiedniego przedstawiciela ustawowego (np. małoletni powód bez reprezentanta):",
+      "options": {
+        "A": "sąd wezwie do uzupełnienia tego braku (ustanowienia przedstawiciela), a w międzyczasie zawiesi postępowanie",
+        "B": "sąd prowadzi nadal postępowanie, traktując stronę jakby była zdolna do czynności",
+        "C": "powództwo ulega odrzuceniu z mocy prawa",
+        "D": "sąd ustanowi pełnomocnika procesowego z urzędu, aby reprezentował taką stronę w postępowaniu"
+      },
+      "correct": "A",
+      "basis": "art. 174 §1 pkt 2 KPC; Broniewicz i in., rozdz. XI §53."
+    },
+    {
+      "id": 70,
+      "question": "Wskaż sytuację, w której sędzia jest z mocy ustawy wyłączony od orzekania w danej sprawie cywilnej:",
+      "options": {
+        "A": "gdy jest małżonkiem albo krewnym strony procesu",
+        "B": "gdy przed wszczęciem sprawy publicznie wypowiadał się co do jej wyniku",
+        "C": "gdy prywatnie zna się i utrzymuje koleżeńskie relacje z pełnomocnikiem strony",
+        "D": "gdy poweźmie wewnętrzne przekonanie o zasadności żądań jednej ze stron przed zakończeniem postępowania dowodowego"
+      },
+      "correct": "A",
+      "basis": "art. 48 §1 pkt 1 KPC; Broniewicz i in., rozdz. XI §52."
+    },
+    {
+      "id": 71,
+      "question": "Jeżeli postępowanie mediacyjne nie zakończy się zawarciem ugody:",
+      "options": {
+        "A": "sprawa wraca na właściwy tok postępowania przed sądem i jest rozpoznawana przez sąd",
+        "B": "postępowanie sądowe ulega umorzeniu z braku porozumienia stron",
+        "C": "mediator może wydać stronom wiążące rekomendacje co do rozstrzygnięcia sporu",
+        "D": "strony nie mogą już dochodzić tego roszczenia przed sądem"
+      },
+      "correct": "A",
+      "basis": "art. 183^15 §2 KPC; Broniewicz i in., rozdz. XIII §82."
+    },
+    {
+      "id": 72,
+      "question": "Dowód z przesłuchania stron w procesie cywilnym:",
+      "options": {
+        "A": "jest dopuszczalny, jeśli po wyczerpaniu innych środków dowodowych pozostaną niewyjaśnione istotne okoliczności sprawy",
+        "B": "może zastąpić dowód z zeznań świadków według wyboru strony",
+        "C": "przeprowadzany jest wyłącznie w formie pisemnych oświadczeń stron złożonych do akt",
+        "D": "nie jest w ogóle przewidziany w aktualnym Kodeksie postępowania cywilnego"
+      },
+      "correct": "A",
+      "basis": "art. 299 KPC; Broniewicz i in., rozdz. XIV §90."
+    },
+    {
+      "id": 73,
+      "question": "Stwierdzone omyłki pisarskie lub rachunkowe w treści wydanego wyroku sąd może poprawić poprzez:",
+      "options": {
+        "A": "wydanie postanowienia o sprostowaniu wyroku",
+        "B": "wydanie wyroku uzupełniającego",
+        "C": "samodzielną zmianę wyroku co do istoty sprawy w trybie autokontroli",
+        "D": "nie ma możliwości sprostowania wyroku – konieczna jest apelacja"
+      },
+      "correct": "A",
+      "basis": "art. 350 §1 KPC; Broniewicz i in., rozdz. XV §100."
+    },
+    {
+      "id": 74,
+      "question": "Jeżeli sąd w wydanym wyroku nie rozstrzygnął o części żądania pozwu:",
+      "options": {
+        "A": "strona może w terminie dwóch tygodni od doręczenia wyroku zgłosić wniosek o uzupełnienie wyroku w tym zakresie",
+        "B": "oznacza to, że w tym zakresie powództwo zostało oddalone milcząco",
+        "C": "strona może podnieść ten brak dopiero w apelacji od wyroku",
+        "D": "sąd nie może już uzupełnić wyroku – konieczne jest wytoczenie odrębnego powództwa"
+      },
+      "correct": "A",
+      "basis": "art. 351 §1 KPC; Broniewicz i in., rozdz. XV §100."
+    },
+    {
+      "id": 75,
+      "question": "Na postanowienie sądu I instancji, którym kończy on postępowanie w sprawie (np. postanowienie o umorzeniu postępowania), służy:",
+      "options": {
+        "A": "zażalenie do sądu drugiej instancji",
+        "B": "apelacja jak od wyroku",
+        "C": "skarga kasacyjna bezpośrednio do Sądu Najwyższego",
+        "D": "żaden środek zaskarżenia – jest to orzeczenie niezaskarżalne"
+      },
+      "correct": "A",
+      "basis": "art. 394 §1 pkt 1 KPC; Broniewicz i in., rozdz. XVI §108."
+    },
+    {
+      "id": 76,
+      "question": "Jeżeli okaże się, że okoliczności na podstawie których stronie przyznano zwolnienie od kosztów sądowych nie istniały (np. strona podała nieprawdę co do swego majątku), wówczas:",
+      "options": {
+        "A": "sąd cofnie zwolnienie od kosztów i może skazać stronę na grzywnę do 1000 zł",
+        "B": "zwolnienie nie może być cofnięte, bo postanowienie o zwolnieniu jest prawomocne",
+        "C": "sąd może ukarać stronę grzywną do 1000 zł, ale zwolnienie utrzymuje w mocy",
+        "D": "sprawa ulega z urzędu przekazaniu prokuratorowi, a w międzyczasie proces się toczy dalej"
+      },
+      "correct": "A",
+      "basis": "art. 120 u.k.s.c.; Broniewicz i in., rozdz. VIII §38."
+    },
+    {
+      "id": 77,
+      "question": "Powód wytoczył przeciw pozwanemu ponownie tę samą sprawę o to samo roszczenie, podczas gdy przed innym sądem toczy się już postępowanie między tymi stronami o ten przedmiot. W takiej sytuacji:",
+      "options": {
+        "A": "drugi pozew podlega odrzuceniu z powodu zawisłości sporu (sprawa już się toczy)",
+        "B": "obie sprawy zostaną połączone do wspólnego rozpoznania i rozstrzygnięcia",
+        "C": "sąd zawiesi drugie postępowanie do czasu prawomocnego zakończenia pierwszego",
+        "D": "drugie postępowanie jest dopuszczalne – powód może dochodzić równolegle tego samego roszczenia przed dwoma sądami"
+      },
+      "correct": "A",
+      "basis": "art. 199 §1 pkt 2 KPC; Broniewicz i in., rozdz. XII §72."
+    },
+    {
+      "id": 78,
+      "question": "Jeżeli postępowanie w sprawie cywilnej toczy się przewlekle, strona może wnieść skargę na naruszenie prawa strony do rozpoznania sprawy w rozsądnym terminie do:",
+      "options": {
+        "A": "sądu przełożonego (np. do sądu apelacyjnego, jeżeli sprawa toczy się w sądzie okręgowym jako I instancji)",
+        "B": "Europejskiego Trybunału Praw Człowieka w Strasburgu",
+        "C": "Ministra Sprawiedliwości",
+        "D": "Sądu Najwyższego"
+      },
+      "correct": "A",
+      "basis": "ustawa o skardze na przewlekłość, art. 3; Broniewicz i in., rozdz. XVI §113."
+    },
+    {
+      "id": 79,
+      "question": "Podstawowe rodzaje postępowania cywilnego przewidziane w KPC to:",
+      "options": {
+        "A": "postępowanie procesowe (sporne) oraz postępowanie nieprocesowe",
+        "B": "postępowanie zwyczajne oraz postępowanie uproszczone",
+        "C": "postępowanie pierwszoinstancyjne i drugoinstancyjne",
+        "D": "postępowanie kontradyktoryjne i postępowanie inkwizycyjne"
+      },
+      "correct": "A",
+      "basis": "art. 13 §1 KPC; Broniewicz i in., Wstęp (rodzaje postępowań)."
+    },
+    {
+      "id": 80,
+      "question": "W jakich trybach postępowania cywilnego sąd może wydać nakaz zapłaty przeciw pozwanemu?",
+      "options": {
+        "A": "W postępowaniu nakazowym albo w postępowaniu upominawczym (po spełnieniu ustawowych przesłanek)",
+        "B": "Wyłącznie w elektronicznym postępowaniu upominawczym (EPU)",
+        "C": "Jedynie po przeprowadzeniu rozprawy i postępowania dowodowego w zwykłym procesie",
+        "D": "W każdym przypadku na wniosek powoda, niezależnie od charakteru sprawy"
+      },
+      "correct": "A",
+      "basis": "art. 484^1 i 498 KPC; Broniewicz i in., rozdz. XVI §107."
+    },
+    {
+      "id": 81,
+      "question": "Ugoda zawarta przed mediatorem poza sądem nabiera mocy tytułu wykonawczego (może być podstawą egzekucji) po:",
+      "options": {
+        "A": "zatwierdzeniu jej przez sąd i zaopatrzeniu w klauzulę wykonalności",
+        "B": "podpisaniu jej przez strony i mediatora – z mocy prawa jest tytułem wykonawczym",
+        "C": "złożeniu jej przez mediatora do akt sprawy – staje się wówczas wykonalna",
+        "D": "upływie 7 dni od jej zawarcia, o ile żadna ze stron nie odstąpi od ugody"
+      },
+      "correct": "A",
+      "basis": "art. 183^15 §1 KPC; Broniewicz i in., rozdz. XIII §82."
+    },
+    {
+      "id": 82,
+      "question": "Skarga kasacyjna podlega tzw. przedsądowi w Sądzie Najwyższym, co oznacza że:",
+      "options": {
+        "A": "Sąd Najwyższy może odmówić przyjęcia skargi do rozpoznania, jeśli nie spełnia ustawowych kryteriów (np. nie dotyczy istotnego zagadnienia prawnego)",
+        "B": "Sąd Najwyższy zawsze rozpoznaje skargę kasacyjną merytorycznie co do wszystkich zarzutów",
+        "C": "skargę kasacyjną rozpoznaje wstępnie ława przysięgłych przy Sądzie Najwyższym",
+        "D": "przed wniesieniem skargi kasacyjnej konieczne jest uzyskanie zgody sądu drugiej instancji"
+      },
+      "correct": "A",
+      "basis": "art. 398^9 §1 KPC; Broniewicz i in., rozdz. XVI §109."
+    },
+    {
+      "id": 83,
+      "question": "Apelacja od wyroku sądu I instancji różni się od skargi kasacyjnej m.in. tym, że:",
+      "options": {
+        "A": "apelacja umożliwia ponowne rozpoznanie sprawy co do faktów i prawa przez sąd II instancji, podczas gdy skarga kasacyjna ogranicza się do kontroli prawidłowości wyroku pod względem prawnym",
+        "B": "apelację rozpoznaje Sąd Najwyższy, a skargę kasacyjną – sąd odwoławczy",
+        "C": "apelację sporządza zawsze profesjonalny pełnomocnik, a skargę kasacyjną może sporządzić samodzielnie strona",
+        "D": "apelacja nie podlega żadnym rygorom formalnym, w przeciwieństwie do skargi kasacyjnej"
+      },
+      "correct": "A",
+      "basis": "art. 378 i 398^3 KPC; Broniewicz i in., rozdz. XVI §107, 109."
+    },
+    {
+      "id": 84,
+      "question": "Na które z poniższych postanowień sądu I instancji przysługuje zażalenie do innego składu tego samego sądu (tzw. zażalenie poziome)?",
+      "options": {
+        "A": "Postanowienie o odmowie zwolnienia strony od kosztów sądowych",
+        "B": "Postanowienie o umorzeniu postępowania",
+        "C": "Postanowienie sądu II instancji o odrzuceniu apelacji jako spóźnionej",
+        "D": "Postanowienie o udzieleniu zabezpieczenia roszczenia"
+      },
+      "correct": "A",
+      "basis": "art. 394^2 KPC; Broniewicz i in., rozdz. XVI §108."
+    },
+    {
+      "id": 85,
+      "question": "Skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia (art. 424¹ k.p.c.) może wnieść:",
+      "options": {
+        "A": "strona, która poniosła szkodę przez wydanie prawomocnego orzeczenia, jeżeli wyczerpała przysługujące jej zwykłe środki odwoławcze",
+        "B": "Prokurator Generalny lub Rzecznik Praw Obywatelskich – na zasadach analogicznych jak skargę nadzwyczajną",
+        "C": "każda osoba, która wykaże interes prawny w wyeliminowaniu wadliwego orzeczenia",
+        "D": "tylko Minister Sprawiedliwości, jeżeli stwierdzi oczywiste naruszenie prawa przez prawomocne orzeczenie"
+      },
+      "correct": "A",
+      "basis": "art. 424^1 §1 KPC; Broniewicz i in., rozdz. XVI §111."
+    },
+    {
+      "id": 86,
+      "question": "Postępowanie rozpoznawcze różni się od postępowania wykonawczego (egzekucyjnego) tym, że:",
+      "options": {
+        "A": "postępowanie rozpoznawcze zmierza do ustalenia istnienia albo nieistnienia dochodzonego prawa (uzyskania orzeczenia rozstrzygającego spór), a postępowanie egzekucyjne służy przymusowemu wykonaniu takiego orzeczenia",
+        "B": "postępowanie rozpoznawcze jest kontradyktoryjne, a egzekucyjne ma charakter inkwizycyjny",
+        "C": "postępowanie rozpoznawcze odbywa się przed sądami, a egzekucyjne przed komornikami – organami nienależącymi do sądownictwa",
+        "D": "postępowanie rozpoznawcze toczy się w I instancji, a wykonawcze – w II instancji"
+      },
+      "correct": "A",
+      "basis": "art. 2 §1 KPC; Broniewicz i in., Wstęp (podział postępowań)."
+    },
+    {
+      "id": 87,
+      "question": "Czy strona, która w sposób oczywisty nadużywa przysługujących jej praw procesowych (np. składa oczywiście bezzasadne wnioski wyłącznie dla przewlekania postępowania) może ponieść sankcje?",
+      "options": {
+        "A": "Tak – sąd może skazać stronę na grzywnę (do 5000 zł) za oczywiste nadużycie praw procesowych",
+        "B": "Nie – każda czynność strony, nawet zmierzająca do przewłoki, jest prawnie dozwolona",
+        "C": "Tak – sąd może na żądanie drugiej strony ograniczyć takiej stronie prawo do składania pism procesowych",
+        "D": "Tak – jednak jedynie poprzez zawiadomienie prokuratury o możliwości popełnienia przestępstwa"
+      },
+      "correct": "A",
+      "basis": "art. 41^2 KPC; Broniewicz i in., rozdz. VI §33."
+    },
+    {
+      "id": 88,
+      "question": "W przypadku częściowego uwzględnienia powództwa (gdy każda ze stron częściowo wygrała i częściowo przegrała sprawę), kwestia wzajemnych kosztów procesu jest rozstrzygana w ten sposób, że:",
+      "options": {
+        "A": "sąd może stosunkowo rozdzielić koszty między strony albo wzajemnie je znosi (każda strona ponosi swoje koszty)",
+        "B": "każda ze stron zawsze ponosi wyłącznie swoje własne koszty, niezależnie od proporcji wygranej",
+        "C": "strona powodowa, jako inicjująca spór, zostaje obciążona całością kosztów niezależnie od wyniku częściowego",
+        "D": "strona pozwana musi zwrócić powodowi proporcjonalną część kosztów, ale powód nie zwraca nic pozwanemu"
+      },
+      "correct": "A",
+      "basis": "art. 100 KPC; Broniewicz i in., rozdz. VII §36."
+    },
+    {
+      "id": 89,
+      "question": "Zarzut przedawnienia roszczenia w procesie cywilnym:",
+      "options": {
+        "A": "musi być podniesiony przez pozwanego – sąd co do zasady nie uwzględnia przedawnienia z urzędu (z wyjątkiem określonych przypadków, np. w relacjach z konsumentem)",
+        "B": "jest brany pod uwagę przez sąd z urzędu zawsze, gdy wynika to z materiału sprawy",
+        "C": "nie może zostać uwzględniony, jeśli upłynęło mniej niż 6 miesięcy od upływu terminu przedawnienia",
+        "D": "może być podniesiony skutecznie przez osobę trzecią przystępującą do sprawy po stronie pozwanego"
+      },
+      "correct": "A",
+      "basis": "art. 117 §2 KC; Broniewicz i in., rozdz. XII §69."
+    },
+    {
+      "id": 90,
+      "question": "Pełnomocnictwo procesowe ogólne udzielone adwokatowi lub radcy prawnemu obejmuje z mocy ustawy umocowanie do:",
+      "options": {
+        "A": "wszystkich czynności procesowych w sprawie, w tym np. wniesienia pozwu wzajemnego, środków zaskarżenia, wniosków o zabezpieczenie oraz odbioru należnych stronie kosztów procesu",
+        "B": "tylko czynności wyraźnie w nim wymienionych – innych pełnomocnik nie może podejmować",
+        "C": "prowadzenia sprawy w I instancji; do wniesienia apelacji konieczne jest odrębne pełnomocnictwo",
+        "D": "reprezentowania strony wyłącznie na rozprawach – do dokonywania pisemnych czynności procesowych (np. składania pism) wymagane jest oddzielne upoważnienie"
+      },
+      "correct": "A",
+      "basis": "art. 91 KPC; Broniewicz i in., rozdz. XI §65."
+    },
+    {
+      "id": 91,
+      "question": "Zakaz orzekania ponad żądanie strony (czyli zakaz zasądzania czegoś, czego powód nie żądał, lub w większym rozmiarze niż żądany) wynika z zasady:",
+      "options": {
+        "A": "dyspozycyjności",
+        "B": "prawdy materialnej",
+        "C": "ekonomii procesowej",
+        "D": "kontradyktoryjności"
+      },
+      "correct": "A",
+      "basis": "art. 321 §1 KPC; Broniewicz i in., rozdz. IV §17."
+    },
+    {
+      "id": 92,
+      "question": "Zasada jawności postępowania cywilnego oznacza, że:",
+      "options": {
+        "A": "rozprawy co do zasady odbywają się publicznie (każdy może być obecny na sali rozpraw, chyba że zachodzą ustawowe podstawy wyłączenia jawności)",
+        "B": "wszystkie pisma procesowe i akta sprawy są dostępne dla każdego obywatela",
+        "C": "wyroki sądowe wraz z uzasadnieniami publikowane są zawsze do wiadomości publicznej",
+        "D": "media mają prawo utrwalać przebieg każdego posiedzenia sądowego"
+      },
+      "correct": "A",
+      "basis": "art. 9 i 153 KPC; Broniewicz i in., rozdz. IV §19."
+    },
+    {
+      "id": 93,
+      "question": "Na czym polega zasada bezpośredniości w postępowaniu cywilnym?",
+      "options": {
+        "A": "Sprawę powinien rozpoznać i rozstrzygnąć ten sam skład sędziowski, który bezpośrednio przeprowadził postępowanie dowodowe (wysłuchał świadków, oględzin itp.)",
+        "B": "Strony mogą kontaktować się z sądem wyłącznie bezpośrednio, a nie przez pełnomocników",
+        "C": "Sąd powinien opierać się tylko na dowodach bezpośrednich, a nie poszlakach czy dowodach pośrednich",
+        "D": "W sprawie cywilnej dopuszczalne są wyłącznie dowody przedstawione bezpośrednio przez strony, nie zaś zdobyte przez organy ścigania"
+      },
+      "correct": "A",
+      "basis": "art. 235 §1 KPC; Broniewicz i in., rozdz. IV §19."
+    },
+    {
+      "id": 94,
+      "question": "Czy sąd cywilny może rozpoznawać niektóre sprawy na posiedzeniu niejawnym (bez udziału stron)?",
+      "options": {
+        "A": "Tak – w przypadkach wskazanych w ustawie, np. przy rozpoznawaniu niektórych wniosków formalnych lub wydawaniu zarządzeń, sąd może orzekać na posiedzeniu niejawnym",
+        "B": "Nie – wszystkie posiedzenia muszą być jawne z udziałem stron i publiczności",
+        "C": "Tak – zawsze, gdy przewodniczący uzna, że udział stron nie jest konieczny dla rozstrzygnięcia",
+        "D": "Tak – ale tylko wtedy, gdy obie strony wyrażą na to zgodę na piśmie"
+      },
+      "correct": "A",
+      "basis": "art. 148^1 KPC; Broniewicz i in., rozdz. VI §32."
+    },
+    {
+      "id": 95,
+      "question": "Czym charakteryzuje się postępowanie nieprocesowe w odróżnieniu od postępowania procesowego?",
+      "options": {
+        "A": "Brakiem klasycznych stron (powoda i pozwanego) – uczestnicy postępowania nieprocesowego nie występują przeciw sobie, a rozstrzygnięcie zapada w formie postanowienia zamiast wyroku",
+        "B": "Tym, że zawsze uczestniczy w nim tylko jedna strona – wnioskodawca, i nie ma drugiej strony postępowania",
+        "C": "Brakiem możliwości zaskarżenia orzeczenia – w nieprocesie nie przysługuje apelacja, tylko ewentualnie skarga kasacyjna",
+        "D": "Tym, że posiedzenia odbywają się niejawnie, chyba że sąd postanowi inaczej"
+      },
+      "correct": "A",
+      "basis": "art. 13 §2 KPC; Broniewicz i in., rozdz. X §115."
+    },
+    {
+      "id": 96,
+      "question": "W jakich sytuacjach sąd wyda postanowienie o umorzeniu postępowania?",
+      "options": {
+        "A": "Gdy wydanie merytorycznego wyroku stało się zbędne lub niedopuszczalne – np. powód skutecznie cofnął pozew albo strony zawarły ugodę",
+        "B": "Gdy powództwo okazało się bezzasadne i podlega oddaleniu",
+        "C": "Gdy pozew zawiera braki formalne, których powód nie usunął",
+        "D": "Po prawomocnym zakończeniu postępowania apelacyjnego"
+      },
+      "correct": "A",
+      "basis": "art. 355 §1 KPC; Broniewicz i in., rozdz. XV §82."
+    },
+    {
+      "id": 97,
+      "question": "W jakim terminie strona może wnieść skargę o wznowienie postępowania cywilnego?",
+      "options": {
+        "A": "Co do zasady w terminie trzech miesięcy od dnia, w którym dowiedziała się o podstawie wznowienia (jednak nie później niż 5 lat od uprawomocnienia się orzeczenia, z pewnymi wyjątkami)",
+        "B": "W każdym czasie, gdy ujawni się podstawa wznowienia – termin jest nieograniczony",
+        "C": "W terminie 7 dni od dnia, w którym stało się prawomocne zaskarżone orzeczenie",
+        "D": "Nie wcześniej niż po upływie 5 lat od prawomocnego zakończenia postępowania"
+      },
+      "correct": "A",
+      "basis": "art. 407 §1 i 408 KPC; Broniewicz i in., rozdz. XVI §110."
+    },
+    {
+      "id": 98,
+      "question": "W jakim terminie należy wnieść skargę kasacyjną od prawomocnego wyroku sądu drugiej instancji?",
+      "options": {
+        "A": "W terminie dwumiesięcznym od doręczenia stronie orzeczenia z uzasadnieniem",
+        "B": "W terminie 14 dni od ogłoszenia wyroku sądu drugiej instancji",
+        "C": "W terminie miesiąca od uprawomocnienia się wyroku",
+        "D": "W terminie 6 miesięcy od dnia wydania orzeczenia sądu odwoławczego"
+      },
+      "correct": "A",
+      "basis": "art. 398^5 §1 KPC; Broniewicz i in., rozdz. XVI §109."
+    },
+    {
+      "id": 99,
+      "question": "Czy w postępowaniu cywilnym w Polsce orzekają ławy przysięgłych?",
+      "options": {
+        "A": "Nie – polska procedura cywilna nie przewiduje udziału ławy przysięgłych",
+        "B": "Tak – w sprawach o ochronę dóbr osobistych (zniesławienie) orzeka ława przysięgłych",
+        "C": "Tak – w sprawach o szczególnie dużej wartości przedmiotu sporu (powyżej 1 miliona złotych)",
+        "D": "Tak – ale wyłącznie w postępowaniu apelacyjnym, jako organ odwoławczy"
+      },
+      "correct": "A",
+      "basis": "Konstytucja RP art. 182; Broniewicz i in., rozdz. XI §50."
+    },
+    {
+      "id": 100,
+      "question": "Czy wniesienie pozwu do sądu ma wpływ na bieg terminu przedawnienia dochodzonego roszczenia?",
+      "options": {
+        "A": "Tak – zgodnie z kodeksem cywilnym wniesienie pozwu przerywa bieg terminu przedawnienia",
+        "B": "Tak – powoduje zawieszenie biegu przedawnienia na czas trwania procesu",
+        "C": "Nie – przedawnienie biegnie nadal, dopóki nie zapadnie prawomocny wyrok",
+        "D": "Nie – przedawnienie w prawie cywilnym nie ma związku z wniesieniem sprawy do sądu"
+      },
+      "correct": "A",
+      "basis": "art. 123 §1 pkt 1 KC; Broniewicz i in., rozdz. XII §69."
+    }
+  ]
+}
