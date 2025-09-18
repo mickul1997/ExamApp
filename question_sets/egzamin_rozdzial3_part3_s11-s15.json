@@ -1,0 +1,1194 @@
+{
+  "title": "Egzamin z prawa handlowego — Rozdział 3: Umowy handlowe (Kidyba, 26. wyd.) — §11 §12 §13 §14 §15",
+  "topic": "Rozdział 3 §1–§15: Część ogólna i umowy nazwane",
+  "format": "wielokrotnego wyboru (multi-select)",
+  "instructions": "Zaznacz wszystkie prawidłowe odpowiedzi (może być więcej niż jedna).",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[§11] Istota ubezpieczenia — poprawne.",
+      "options": {
+        "A": "Umowa losowa ze składką",
+        "B": "Zawsze ubezpieczenie majątkowe",
+        "C": "Ochrona w razie zajścia wypadku",
+        "D": "Świadczenie ubezpieczyciela zależne od umowy"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 I–III. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 2,
+      "question": "[§11] Obowiązki informacyjne ubezpieczającego — wybierz prawidłowe.",
+      "options": {
+        "A": "Obowiązek ujawnienia okoliczności istotnych",
+        "B": "Brak sankcji za naruszenie",
+        "C": "Skutkiem może być odmowa wypłaty/zmiana warunków",
+        "D": "Aktualizacja danych w trakcie trwania umowy"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 III–IV. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 3,
+      "question": "[§11] Nadubezpieczenie i niedoubezpieczenie — poprawne.",
+      "options": {
+        "A": "Nadubezpieczenie może skutkować redukcją świadczenia",
+        "B": "Niedoubezpieczenie — proporcjonalność",
+        "C": "Zawsze wypłata pełnej sumy ubezpieczenia",
+        "D": "Dotyczy ubezpieczeń majątkowych"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 4,
+      "question": "[§11] Cesja praw z polisy — wskaż prawidłowe.",
+      "options": {
+        "A": "Możliwa cesja wierzytelności z umowy ubezpieczenia",
+        "B": "Zawsze zakazana",
+        "C": "Wymaga zawiadomienia ubezpieczyciela",
+        "D": "Zabezpieczenia (cesja na zabezpieczenie) są praktykowane"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 IV–VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 5,
+      "question": "[§11] OWU — poprawne.",
+      "options": {
+        "A": "OWU kształtują prawa i obowiązki",
+        "B": "Nie mogą naruszać ustawy",
+        "C": "Wątpliwości tłumaczy się na korzyść ubezpieczającego",
+        "D": "Nigdy nie stanowią części umowy"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 IV. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 6,
+      "question": "[§11] Wypłata świadczenia — przesłanki.",
+      "options": {
+        "A": "Zajście wypadku objętego ochroną",
+        "B": "Brak wyłączeń odpowiedzialności",
+        "C": "Spełnienie wymogów dowodowych",
+        "D": "Terminy wypłaty określa ustawa i umowa"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 IV–VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 7,
+      "question": "[§11] Regres ubezpieczeniowy — wybierz prawidłowe.",
+      "options": {
+        "A": "Ubezpieczyciel wstępuje w prawa ubezpieczonego do sprawcy szkody (subrogacja)",
+        "B": "Nigdy nie przysługuje",
+        "C": "Może być wyłączony wobec osób bliskich w określonych wypadkach",
+        "D": "Dotyczy ubezpieczeń majątkowych"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 8,
+      "question": "[§11] Ubezpieczenia osobowe vs majątkowe — poprawne.",
+      "options": {
+        "A": "Osobowe: świadczenia związane z osobą (życie, NNW)",
+        "B": "Majątkowe: szkoda w majątku",
+        "C": "Zakaz kumulacji świadczeń w osobowych",
+        "D": "Różne zasady dowodowe i wypłaty"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 I–III. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 9,
+      "question": "[§11] Wypowiedzenie umowy — wskaż prawidłowe.",
+      "options": {
+        "A": "Możliwe wg ustawy/OWU",
+        "B": "Zawsze dowolne w każdym czasie bez skutków",
+        "C": "Skutki finansowe wg proporcji",
+        "D": "Wymogi formy i terminu"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 IV–VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 10,
+      "question": "[§11] Udział własny i franszyzy — poprawne.",
+      "options": {
+        "A": "Zmniejszają wypłacane świadczenie",
+        "B": "Zawsze niedopuszczalne",
+        "C": "Powinny wynikać jasno z OWU",
+        "D": "Nie dotyczą osobowych"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 IV–VIII. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 11,
+      "question": "[§11] Zatajenie ryzyka — wybierz prawidłowe.",
+      "options": {
+        "A": "Może skutkować odmową wypłaty",
+        "B": "Nie ma wpływu na odpowiedzialność",
+        "C": "Ubezpieczyciel może żądać dodatkowej składki",
+        "D": "Dotyczy istotnych okoliczności"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 III–IV. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 12,
+      "question": "[§11] Kanały zawarcia — wskaż prawidłowe.",
+      "options": {
+        "A": "Tradycyjnie i elektronicznie",
+        "B": "OWU doręcza się w trwały sposób",
+        "C": "Brak doręczenia OWU nie ma znaczenia",
+        "D": "Zgoda na przetwarzanie danych jest wymagana w granicach RODO"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 IV. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 13,
+      "question": "[§11] Dodatkowe zagadnienie (1) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 14,
+      "question": "[§11] Dodatkowe zagadnienie (2) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 15,
+      "question": "[§11] Dodatkowe zagadnienie (3) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §11 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 16,
+      "question": "[§12] Istota składu — poprawne.",
+      "options": {
+        "A": "Przechowanie rzeczy w składzie za wynagrodzeniem",
+        "B": "Zawsze nieodpłatne",
+        "C": "Wydanie na pokwitowanie/dokument składowy",
+        "D": "Składowy odpowiada jak profesjonalista"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 I–III. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 17,
+      "question": "[§12] Dokument składowy — wybierz prawidłowe.",
+      "options": {
+        "A": "Może dokumentować przyjęcie i warunki składu",
+        "B": "Nie ma znaczenia dowodowego",
+        "C": "Może być zbywalny (wariant ustawowy)",
+        "D": "Zawsze w formie aktu notarialnego"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 18,
+      "question": "[§12] Odpowiedzialność składowego — poprawne.",
+      "options": {
+        "A": "Za utratę/uszkodzenie rzeczy z winy",
+        "B": "Zawsze odpowiedzialność absolutna",
+        "C": "Zabezpieczenia i sposób przechowania mają znaczenie",
+        "D": "Prawo zastawu na rzecz składowego możliwe"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 19,
+      "question": "[§12] Wydanie rzeczy — wskaż prawidłowe.",
+      "options": {
+        "A": "Wydanie posiadaczowi dokumentu składowego/uprawnionemu",
+        "B": "Składowy może odmówić bez podstawy",
+        "C": "Zwrot po rozliczeniu należności",
+        "D": "Protokół wydania ułatwia dowód"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 20,
+      "question": "[§12] Mieszanie rzeczy jednorodzajowych — poprawne.",
+      "options": {
+        "A": "Dopuszczalne w granicach umowy/przepisów",
+        "B": "Nigdy niedopuszczalne",
+        "C": "Wydanie w ilości i jakości umówionej",
+        "D": "Odpowiedzialność za identyfikowalność"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 21,
+      "question": "[§12] Koszty składu — wybierz prawidłowe.",
+      "options": {
+        "A": "Wynagrodzenie i zwrot wydatków składowego",
+        "B": "Kary za opóźnienie odbioru możliwe",
+        "C": "Brak prawa do zaliczek",
+        "D": "Opłaty mogą wynikać z cennika"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 22,
+      "question": "[§12] Zabezpieczenia i ubezpieczenia — poprawne.",
+      "options": {
+        "A": "Ubezpieczenie magazynu/ładunku możliwe",
+        "B": "Nigdy niedopuszczalne",
+        "C": "Koszt może obciążać dającego na skład",
+        "D": "Brak ubezpieczenia nie rodzi odpowiedzialności nigdy"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 23,
+      "question": "[§12] Szkody i zgłoszenia — wskaż prawidłowe.",
+      "options": {
+        "A": "Zgłoszenie szkody niezwłocznie",
+        "B": "Brak protokołu szkody eliminuje roszczenia zawsze",
+        "C": "Dowody: dokument składowy, protokół, monitoring",
+        "D": "Terminy reklamacyjne mają znaczenie"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 24,
+      "question": "[§12] Zakończenie składu — poprawne.",
+      "options": {
+        "A": "Odbiór rzeczy i rozliczenie należności",
+        "B": "Możliwe naliczenie kosztów magazynowania dalszego",
+        "C": "Brak obowiązku wydania bez zapłaty",
+        "D": "Składowy nie ma prawa zatrzymania"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 25,
+      "question": "[§12] Odpowiedzialność za osoby trzecie — wybierz prawidłowe.",
+      "options": {
+        "A": "Składowy odpowiada za podwykonawców",
+        "B": "Brak takiej odpowiedzialności",
+        "C": "Outsourcing części czynności możliwy",
+        "D": "Umowa może modyfikować odpowiedzialność w granicach prawa"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 26,
+      "question": "[§12] Dowody elektroniczne i e-magazyn — poprawne.",
+      "options": {
+        "A": "E-potwierdzenia przyjęcia i wydania są dopuszczalne",
+        "B": "Wyłącznie papierowe dokumenty mają moc",
+        "C": "System WMS może być źródłem dowodowym",
+        "D": "E-podpisy wzmacniają dowodowość"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 27,
+      "question": "[§12] Ryzyko siły wyższej — wskaż prawidłowe.",
+      "options": {
+        "A": "Może ograniczać odpowiedzialność składowego",
+        "B": "Zawsze pełna odpowiedzialność",
+        "C": "Dowód należy do składowego",
+        "D": "Umowa może wprowadzać procedury awaryjne"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 28,
+      "question": "[§12] Dodatkowe zagadnienie (1) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 29,
+      "question": "[§12] Dodatkowe zagadnienie (2) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 30,
+      "question": "[§12] Dodatkowe zagadnienie (3) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §12 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 31,
+      "question": "[§13] Istota franchisingu — poprawne.",
+      "options": {
+        "A": "Udostępnienie know-how i oznaczeń",
+        "B": "Umowa nazwana w KC",
+        "C": "Franczyzobiorca działa we własnym imieniu",
+        "D": "Opłata wstępna i bieżąca typowe"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 I–III. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 32,
+      "question": "[§13] Know-how i tajemnica — wybierz prawidłowe.",
+      "options": {
+        "A": "Obowiązek poufności",
+        "B": "Dowolne ujawnienie po zawarciu",
+        "C": "Naruszenie może rodzić karę umowną",
+        "D": "Know-how podlega ochronie umownej"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 III–VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 33,
+      "question": "[§13] Kontrola i standardy sieci — poprawne.",
+      "options": {
+        "A": "Franczyzodawca może kontrolować standardy",
+        "B": "Brak prawa kontroli",
+        "C": "Podręcznik operacyjny bywa częścią wzorca",
+        "D": "Naruszenia mogą prowadzić do wypowiedzenia"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 III–VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 34,
+      "question": "[§13] Terytorium i wyłączność — wskaż prawidłowe.",
+      "options": {
+        "A": "Możliwe przyznanie wyłączności terytorialnej",
+        "B": "Zawsze zakazane",
+        "C": "Naruszenie wyłączności rodzi roszczenia",
+        "D": "Wyłączność determinuje obowiązki marketingowe"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 III–VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 35,
+      "question": "[§13] Opłaty — poprawne.",
+      "options": {
+        "A": "Wstępna, bieżąca (royalties), marketingowa",
+        "B": "Zawsze tylko jedna opłata stała",
+        "C": "Rozliczenia wg umowy",
+        "D": "Brak prawa do audytu sprzedaży"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 36,
+      "question": "[§13] IP i licencje — wybierz prawidłowe.",
+      "options": {
+        "A": "Licencje na znaki towarowe i utwory",
+        "B": "Zawsze przeniesienie własności znaków",
+        "C": "Zakres użycia określa umowa",
+        "D": "Po wygaśnięciu zakaz dalszego używania"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 III–VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 37,
+      "question": "[§13] Szkolenia i wsparcie — poprawne.",
+      "options": {
+        "A": "Zwyczajowo zapewniane przez franczyzodawcę",
+        "B": "Nigdy nie są elementem",
+        "C": "Mogą być odpłatne",
+        "D": "Brak szkoleń nigdy nie stanowi naruszenia"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 38,
+      "question": "[§13] Zakaz konkurencji — wskaż prawidłowe.",
+      "options": {
+        "A": "W trakcie umowy dopuszczalny",
+        "B": "Po ustaniu — możliwy w rozsądnych granicach",
+        "C": "Zawsze bezterminowy",
+        "D": "Naruszenie może skutkować karą"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 39,
+      "question": "[§13] Rozwiązanie umowy — poprawne.",
+      "options": {
+        "A": "Za ważne naruszenia standardów",
+        "B": "Zawsze dowolnie w każdym czasie",
+        "C": "Okres wypowiedzenia wg umowy",
+        "D": "Obowiązki po rozwiązaniu: debranding, zwrot materiałów"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 40,
+      "question": "[§13] Odpowiedzialność za jakość — wybierz prawidłowe.",
+      "options": {
+        "A": "Franczyzobiorca odpowiada wobec klientów własnych",
+        "B": "Franczyzodawca zawsze odpowiada za jakość świadczeń biorcy",
+        "C": "Kontrola standardów ogranicza ryzyko marki",
+        "D": "Reżim konsumencki dotyczy relacji biorca–klient"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 III–VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 41,
+      "question": "[§13] Marketing centralny — poprawne.",
+      "options": {
+        "A": "Składki marketingowe dopuszczalne",
+        "B": "Zawsze dowolnie ustalane jednostronnie",
+        "C": "Raportowanie wykorzystania środków bywa przewidziane",
+        "D": "Brak informacji nigdy nieistotny"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 42,
+      "question": "[§13] Cesja umowy franczyzy — wskaż prawidłowe.",
+      "options": {
+        "A": "Często wymaga zgody franczyzodawcy",
+        "B": "Zawsze swobodna",
+        "C": "Warunki kwalifikacyjne dla następcy możliwe",
+        "D": "Odmowa bez uzasadnienia zawsze nieskuteczna"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 VIII. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 43,
+      "question": "[§13] Dodatkowe zagadnienie (1) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 44,
+      "question": "[§13] Dodatkowe zagadnienie (2) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 45,
+      "question": "[§13] Dodatkowe zagadnienie (3) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §13 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373; art. 210; art. 379."
+    },
+    {
+      "id": 46,
+      "question": "[§14] Istota faktoringu — poprawne.",
+      "options": {
+        "A": "Nabywanie wierzytelności + usługi dodatkowe",
+        "B": "Zawsze tajny",
+        "C": "Może być pełny/niepełny/mieszany",
+        "D": "Finansowanie przez zaliczkę pod wierzytelność"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 I–III. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 47,
+      "question": "[§14] Powiadomienie dłużnika — wybierz prawidłowe.",
+      "options": {
+        "A": "W faktoringu jawnym dłużnik zawiadomiony o cesji",
+        "B": "W tajnym — brak zawiadomienia",
+        "C": "Brak zawiadomienia czyni cesję nieważną",
+        "D": "Instrukcja płatnicza może być zmieniona"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 48,
+      "question": "[§14] Ryzyko niewypłacalności — poprawne.",
+      "options": {
+        "A": "W pełnym przejmuje je faktor",
+        "B": "W niepełnym pozostaje u faktoranta",
+        "C": "Możliwe limity kredytowe na dłużników",
+        "D": "Zawsze w całości u faktoranta"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 III–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 49,
+      "question": "[§14] Usługi dodatkowe — wskaż prawidłowe.",
+      "options": {
+        "A": "Inkaso, monitorowanie płatności, windykacja miękka",
+        "B": "Ryzyko kursowe zawsze przejmuje faktor",
+        "C": "Zarządzanie należnościami",
+        "D": "Ubezpieczenie należności bywa elementem"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 50,
+      "question": "[§14] Odpowiedzialność z tytułu niewykonania umowy podstawowej — poprawne.",
+      "options": {
+        "A": "Dłużnik może podnosić zarzuty wobec faktora jak wobec zbywcy",
+        "B": "Nie ma takiej możliwości",
+        "C": "Zastrzeżenia co do jakości towaru mogą wpływać na wymagalność",
+        "D": "Faktor zawsze wolny od zarzutów"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 51,
+      "question": "[§14] Regres i dyskonto — wybierz prawidłowe.",
+      "options": {
+        "A": "W niepełnym możliwy regres do faktoranta",
+        "B": "Dyskonto wyraża koszt finansowania",
+        "C": "Zawsze brak regresu",
+        "D": "Opłaty mogą być mieszane (prowizja+dyskonto)"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 III–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 52,
+      "question": "[§14] Ograniczenia cesji — poprawne.",
+      "options": {
+        "A": "Zakaz cesji w umowie podstawowej może ograniczać faktoring",
+        "B": "Zawsze bezskuteczny w B2B",
+        "C": "Możliwe obejścia przez cesję powierniczą, ale ryzykowne",
+        "D": "Klauzule assignment-ban analizuje się wg prawa właściwego"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 53,
+      "question": "[§14] Weryfikacja wierzytelności — wskaż prawidłowe.",
+      "options": {
+        "A": "Due diligence portfela należności",
+        "B": "Brak weryfikacji bez znaczenia",
+        "C": "Reprezentacje i gwarancje faktoranta",
+        "D": "Wyłączenia wierzytelności spornych"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 54,
+      "question": "[§14] Faktoring odwrotny (od dostawców) — poprawne.",
+      "options": {
+        "A": "Finansowanie płatności na rzecz dostawców faktoranta",
+        "B": "Tożsamy z klasycznym faktoringiem nabywców",
+        "C": "Można łączyć z długimi terminami płatności",
+        "D": "Dłużnikiem jest faktorant wobec faktora"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 55,
+      "question": "[§14] Relacje z ubezpieczeniem należności — wybierz prawidłowe.",
+      "options": {
+        "A": "Cesja odszkodowania z polisy na faktora możliwa",
+        "B": "Ubezpieczenie nie współdziała z faktoringiem",
+        "C": "Polisa może stanowić zabezpieczenie",
+        "D": "Zawsze pełne pokrycie bez udziału własnego"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 56,
+      "question": "[§14] Ewidencja i księgowość — poprawne.",
+      "options": {
+        "A": "Rozliczenie dyskonta jako koszt finansowy",
+        "B": "Zawsze ujmuje się poza bilansem",
+        "C": "Ujęcie zależy od ryzyka i przejścia korzyści",
+        "D": "Wpływ na wskaźniki rotacji należności"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 VIII–IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 57,
+      "question": "[§14] Prawo właściwe i jurysdykcja — wskaż prawidłowe.",
+      "options": {
+        "A": "Możliwe klauzule wyboru prawa i sądu",
+        "B": "Nigdy niedopuszczalne",
+        "C": "Międzynarodowy charakter umów częsty",
+        "D": "W Polsce zawsze tylko prawo polskie"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 IX. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 58,
+      "question": "[§14] Dodatkowe zagadnienie (1) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 59,
+      "question": "[§14] Dodatkowe zagadnienie (2) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 60,
+      "question": "[§14] Dodatkowe zagadnienie (3) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §14 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 61,
+      "question": "[§15] Istota forfaitingu — poprawne.",
+      "options": {
+        "A": "Nabycie wierzytelności eksportowych bez regresu",
+        "B": "Zwykle długoterminowe",
+        "C": "Zabezpieczenie wekslem/avaliem lub gwarancją bankową",
+        "D": "Zawsze z regresem"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 I–II–III. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 62,
+      "question": "[§15] Ryzyka w forfaitingu — wybierz prawidłowe.",
+      "options": {
+        "A": "Ryzyko polityczne i kursowe często przejmowane przez forfaitera (za wynagrodzeniem)",
+        "B": "Zawsze bez wynagrodzenia",
+        "C": "Ocena ryzyka kraju i dłużnika kluczowa",
+        "D": "Ryzyko produkcyjne zawsze na forfaiterze"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 III–X. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 63,
+      "question": "[§15] Instrumenty — wskaż prawidłowe.",
+      "options": {
+        "A": "Weksel własny/trasowany z avalem",
+        "B": "Gwarancje bankowe/standby LC",
+        "C": "Czek gotówkowy",
+        "D": "Zabezpieczenia muszą być zbywalne i płynne"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 II–III. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 64,
+      "question": "[§15] Cena forfaitingu — poprawne.",
+      "options": {
+        "A": "Dyskonto + prowizje",
+        "B": "Zawsze stałe i niezmienne",
+        "C": "Zależne od ryzyka/terminu/waluty",
+        "D": "Brak kosztów dodatkowych"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 X. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 65,
+      "question": "[§15] Relacja do faktoringu — wybierz prawidłowe.",
+      "options": {
+        "A": "Forfaiting dotyczy zwykle jednej dużej wierzytelności/serii weksli",
+        "B": "Faktoring — rotacyjny portfel krótkoterminowy",
+        "C": "Oba mogą być bez regresu",
+        "D": "To tożsame instytucje"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 I–III–X. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 66,
+      "question": "[§15] Prawo właściwe i jurysdykcja — poprawne.",
+      "options": {
+        "A": "Klauzule wyboru prawa i sądu powszechne",
+        "B": "Nigdy niedopuszczalne",
+        "C": "Często arbitraż handlowy",
+        "D": "Zawsze prawo państwa dłużnika"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 X. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 67,
+      "question": "[§15] Due diligence wierzytelności — wskaż prawidłowe.",
+      "options": {
+        "A": "Weryfikacja dokumentów, dostawy, gwarancji",
+        "B": "Brak DD nie ma wpływu",
+        "C": "Analiza zgodności z sankcjami/AML",
+        "D": "Ocena możliwości zbycia instrumentu"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 III–X. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 68,
+      "question": "[§15] Weksel i aval — poprawne.",
+      "options": {
+        "A": "Aval bankowy zwiększa płynność papieru",
+        "B": "Weksel in blanco z umową wekslową bywa używany",
+        "C": "Aval nie zwiększa atrakcyjności",
+        "D": "Wymogi formalne weksla są kluczowe"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 II–III. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 69,
+      "question": "[§15] Wyłączenia ryzyk — wybierz prawidłowe.",
+      "options": {
+        "A": "Forfaiter wyłącza odpowiedzialność za spory z umowy podstawowej",
+        "B": "Nabywa „czyste” wierzytelności abstrakcyjne",
+        "C": "Zawsze odpowiada za wady towaru",
+        "D": "Klauzule bezregresowe są istotą"
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 III–X. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 70,
+      "question": "[§15] Dokumenty w forfaitingu — poprawne.",
+      "options": {
+        "A": "Weksel/gwarancja + dokumenty handlowe (faktury, konosament)",
+        "B": "Brak dokumentów nie szkodzi",
+        "C": "Często wymagana potwierdzona dostawa",
+        "D": "Zgodność dokumentów warunkiem wykupu"
+      },
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 II–III–X. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 71,
+      "question": "[§15] Rynek i uczestnicy — wskaż prawidłowe.",
+      "options": {
+        "A": "Banki/instytucje finansowe jako forfaiterzy",
+        "B": "Eksporter jako zbywca",
+        "C": "Importer/bank importera jako dłużnik",
+        "D": "Zawsze pośrednictwo spedytora"
+      },
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 I–III. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 72,
+      "question": "[§15] Zakończenie transakcji — wybierz prawidłowe.",
+      "options": {
+        "A": "Wykup wierzytelności przez forfaitera z dyskontem",
+        "B": "Zwrot wierzytelności do eksportera przy braku płatności zawsze",
+        "C": "Egzekwowanie od dłużnika/awalistów",
+        "D": "Brak roszczeń forfaitera do kogokolwiek"
+      },
+      "correct": [
+        "A",
+        "C"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 X. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 73,
+      "question": "[§15] Dodatkowe zagadnienie (1) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 74,
+      "question": "[§15] Dodatkowe zagadnienie (2) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    },
+    {
+      "id": 75,
+      "question": "[§15] Dodatkowe zagadnienie (3) — doprecyzowanie praktyczne.",
+      "options": {
+        "A": "Postanowienia umowne mogą modyfikować odpowiedzialność w granicach ius cogens.",
+        "B": "W relacjach B2B dopuszczalne są klauzule modyfikujące terminy i procedury dowodowe.",
+        "C": "Zawsze dopuszczalne jest całkowite wyłączenie odpowiedzialności za rażące niedbalstwo.",
+        "D": "Strony mogą przewidzieć kary umowne w granicach prawa."
+      },
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "basis": "Kidyba 2024, Rozdz. 3 §15 Uzupełnienie — praktyka kontraktowa. KSH: art. 17; art. 205; art. 373."
+    }
+  ]
+}
