@@ -1,0 +1,1035 @@
+{
+"title": "Prawo handlowe – pytania z rozdziału 1 podręcznika A. Kidyby",
+"topic": "Prawo handlowe",
+"format": "MCQ (A–D), typ jednokrotnego wyboru",
+"instructions": "Pytania jednokrotnego wyboru odnoszące się do treści rozdziału 1 podręcznika A. Kidyby, 26. wydanie, 2024.",
+"questions": [
+{
+"id": 1,
+"question": "Prawo handlowe reguluje przede wszystkim:",
+"options": {
+"A": "stosunki cywilnoprawne między podmiotami random",
+"B": "stosunki majątkowe w obrocie powszechnym",
+"C": "stosunki majątkowe w obrocie profesjonalnym",
+"D": "praktykę piśmiennictwa akademickiego"
+},
+"type": "single",
+"correct": "C",
+"basis": "Rozdz. 1 § 1 I, s. 3"
+},
+{
+"id": 2,
+"question": "Prawo handlowe zalicza się do gałęzi prawa:",
+"options": {
+"A": "prawa publicznego",
+"B": "prawa cywilnego (majątkowego)",
+"C": "prawa administracyjnego",
+"D": "prawa rodzinnego"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 1 I, s. 3"
+},
+{
+"id": 3,
+"question": "Od prawa handlowego należy wyraźnie odróżnić:",
+"options": {
+"A": "prawo cywilne",
+"B": "prawo gospodarcze publiczne",
+"C": "prawo karne gospodarcze",
+"D": "prawo rodzinne"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 1 I, s. 4"
+},
+{
+"id": 4,
+"question": "Mimo tendencji wzmacniania zasady jedności prawa cywilnego, prawo handlowe:",
+"options": {
+"A": "należy wyodrębnić jako samodzielną gałąź prawa",
+"B": "zostało całkowicie zintegrowane z kodeksem cywilnym",
+"C": "reguluje wyłącznie stosunki prawa publicznego",
+"D": "nie różni się niczym od prawa karnego"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 1 I, s. 3"
+},
+{
+"id": 5,
+"question": "Normy prawa handlowego regulują przede wszystkim:",
+"options": {
+"A": "stosunki administracyjne między urzędami",
+"B": "organizację przedsiębiorców i czynności handlowe między nimi",
+"C": "wyłącznie spory podatkowe",
+"D": "działalność rządu"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 1 I, s. 3"
+},
+{
+"id": 6,
+"question": "Prawo handlowe charakteryzuje się przede wszystkim:",
+"options": {
+"A": "wolnością od wszelkich regulacji administracyjnych",
+"B": "szybkim tempem obrotu i wyższymi wymaganiami wobec przedsiębiorców",
+"C": "obowiązkiem sprawozdawczości do organów administracji",
+"D": "regulacją wyłącznie umów konsumenckich"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 1 I, s. 3"
+},
+{
+"id": 7,
+"question": "Do najważniejszych ustaw będących źródłami prawa handlowego nie należy:",
+"options": {
+"A": "Kodeks spółek handlowych",
+"B": "Kodeks cywilny",
+"C": "Prawo upadłościowe",
+"D": "Kodeks karny skarbowy"
+},
+"type": "single",
+"correct": "D",
+"basis": "Rozdz. 1 § 1 II, s. 7"
+},
+{
+"id": 8,
+"question": "Czy zwyczaje i doktryna stanowią źródło prawa handlowego?",
+"options": {
+"A": "Tak, oba bezpośrednio zobowiązują przedsiębiorców",
+"B": "Nie, zarówno zwyczaje, jak i doktryna nie są formalnymi źródłami prawa",
+"C": "Tylko zwyczaje są źródłem prawa handlowego",
+"D": "Tylko doktryna jest źródłem prawa handlowego"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 1 II, s. 5"
+},
+{
+"id": 9,
+"question": "Ogólne warunki umów (tzw. prawo umowne) w prawie handlowym są:",
+"options": {
+"A": "uznawane za źródło norm prawa handlowego",
+"B": "całkowicie niedopuszczalne w obrocie",
+"C": "formalnie uregulowane przez Konstytucję",
+"D": "zabronione jako nadużycie przedsiębiorcy"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 1 II, s. 5"
+},
+{
+"id": 10,
+"question": "Postanowienia umów międzynarodowych w polskim prawie handlowym są:",
+"options": {
+"A": "uznawane za źródło norm prawa handlowego",
+"B": "z definicji wyłączone ze stosowania",
+"C": "ważniejsze niż Konstytucja",
+"D": "ważące tylko dla umów konsumenckich"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 1 II, s. 5"
+},
+{
+"id": 11,
+"question": "Zgodnie z art. 2 Kodeksu spółek handlowych, w sprawach nieuregulowanych w tej ustawie stosuje się przepisy:",
+"options": {
+"A": "Kodeksu karnego",
+"B": "Kodeksu cywilnego",
+"C": "Kodeksu karnego skarbowego",
+"D": "Kodeksu rodzinnego i opiekuńczego"
+},
+"type": "single",
+"correct": "B",
+"basis": "Art. 2 KSH"
+},
+{
+"id": 12,
+"question": "Zgodnie z art. 4 Kodeksu spółek handlowych, do spółek osobowych zalicza się:",
+"options": {
+"A": "spółkę jawną i spółkę komandytową",
+"B": "spółkę jawną, spółkę partnerską, spółkę komandytową i komandytowo-akcyjną",
+"C": "spółkę jawną, spółkę z ograniczoną odpowiedzialnością i spółkę akcyjną",
+"D": "spółkę cywilną i spółkę komandytową"
+},
+"type": "single",
+"correct": "B",
+"basis": "Art. 4 KSH"
+},
+{
+"id": 13,
+"question": "Zgodnie z art. 4 Kodeksu spółek handlowych, spółką kapitałową jest:",
+"options": {
+"A": "spółka jawna i spółka partnerska",
+"B": "spółka z ograniczoną odpowiedzialnością, prosta spółka akcyjna i spółka akcyjna",
+"C": "spółka akcyjna i spółka komandytowa",
+"D": "spółka cywilna i spółka jawna"
+},
+"type": "single",
+"correct": "B",
+"basis": "Art. 4 KSH"
+},
+{
+"id": 14,
+"question": "Zgodnie z art. 4 Kodeksu spółek handlowych, spółką jednoosobową jest:",
+"options": {
+"A": "spółka jawna posiadająca jednego wspólnika",
+"B": "każda spółka z ograniczoną odpowiedzialnością",
+"C": "spółka kapitałowa, której wszystkie udziały lub akcje należą do jednego wspólnika lub akcjonariusza",
+"D": "spółka cywilna z jednym wspólnikiem"
+},
+"type": "single",
+"correct": "C",
+"basis": "Art. 4 KSH"
+},
+{
+"id": 15,
+"question": "Która z poniższych spółek nie jest ujęta w katalogu spółek handlowych zgodnie z KSH?",
+"options": {
+"A": "spółka z ograniczoną odpowiedzialnością",
+"B": "spółka cywilna",
+"C": "spółka akcyjna",
+"D": "spółka jawna"
+},
+"type": "single",
+"correct": "B",
+"basis": "Art. 2 KSH"
+},
+{
+"id": 16,
+"question": "Przedsiębiorcą według art. 431 Kodeksu cywilnego jest:",
+"options": {
+"A": "wyłącznie osoba fizyczna",
+"B": "osoba fizyczna, osoba prawna oraz jednostka organizacyjna niemająca osobowości prawnej posiadająca zdolność prawną",
+"C": "wyłącznie osoba prawna",
+"D": "tylko jednostka organizacyjna niemająca osobowości prawnej"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 2 I, s. 4"
+},
+{
+"id": 17,
+"question": "Zorganizowana działalność zarobkowa, wykonywana we własnym imieniu i w sposób ciągły, jest definicją:",
+"options": {
+"A": "działalności gospodarczej",
+"B": "działalności zawodowej",
+"C": "spółki cywilnej",
+"D": "działalności społecznej"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 2 I, s. 4"
+},
+{
+"id": 18,
+"question": "Prawo do podejmowania, wykonywania i zakończenia działalności gospodarczej jest według Prawa przedsiębiorców:",
+"options": {
+"A": "zastrzeżone dla obywateli polskich",
+"B": "wolne dla każdego na równych prawach",
+"C": "tylko dla spółek handlowych",
+"D": "uwarunkowane uzyskaniem licencji"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 2 I, s. 4"
+},
+{
+"id": 19,
+"question": "Do najważniejszych ograniczeń wolności prowadzenia działalności gospodarczej należą:",
+"options": {
+"A": "konieczność posiadania koncesji, zezwolenia lub wpisu do rejestru",
+"B": "wysokie podatki lokalne",
+"C": "posiadanie wykształcenia wyższego",
+"D": "zgoda Rady Ministrów"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 2 I, s. 4"
+},
+{
+"id": 20,
+"question": "Który z poniższych podmiotów nie podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego?",
+"options": {
+"A": "spółka jawna",
+"B": "spółka cywilna",
+"C": "spółka z ograniczoną odpowiedzialnością",
+"D": "spółka akcyjna"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 2 I, s. 4"
+},
+{
+"id": 21,
+"question": "Za konsumenta, zgodnie z art. 221 KC, uważa się:",
+"options": {
+"A": "osobę prawną zawierającą czynność prawną w celach przedsiębiorczych",
+"B": "osobę fizyczną dokonującą czynności prawnej niezwiązanej bezpośrednio z działalnością gospodarczą",
+"C": "każdego przedsiębiorcę",
+"D": "wspólnika spółki jawnej"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 2 V, s. 30"
+},
+{
+"id": 22,
+"question": "Za konsumenta nie można uznać:",
+"options": {
+"A": "osoby fizycznej nabywającej towary na użytek własny",
+"B": "osoby prawnej zawierającej umowę poza działalnością zawodową",
+"C": "osoby fizycznej prowadzącej działalność gospodarczą przy zakupie towarów niezwiązanych z tą działalnością",
+"D": "osoby fizycznej zawierającej umowę o kredyt hipoteczny"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 2 V, s. 30"
+},
+{
+"id": 23,
+"question": "Przedsiębiorcy będący osobami fizycznymi są wpisywani do:",
+"options": {
+"A": "Krajowego Rejestru Sądowego",
+"B": "Centralnej Ewidencji i Informacji o Działalności Gospodarczej",
+"C": "Rejestru przedsiębiorców działających przy Urzędzie Skarbowym",
+"D": "bezpośrednio do rejestru spółek handlowych"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 2 I, s. 5"
+},
+{
+"id": 24,
+"question": "Każdy przedsiębiorca zgodnie z art. 432 Kodeksu cywilnego działa pod:",
+"options": {
+"A": "zespołem badawczym",
+"B": "firmą (nazwą przedsiębiorcy)",
+"C": "sklepem internetowym",
+"D": "zewnętrzną siedzibą administracji publicznej"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 4 II, s. 70"
+},
+{
+"id": 25,
+"question": "Firma przedsiębiorcy jest uważana za dobro osobiste:",
+"options": {
+"A": "tak",
+"B": "nie",
+"C": "tylko gdy przedsiębiorca jest osobą fizyczną",
+"D": "tylko gdy posiada odpowiednie zezwolenie"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 4 I, s. 68"
+},
+{
+"id": 26,
+"question": "Czy tajemnica przedsiębiorstwa jest wymieniona jako dobro osobiste przedsiębiorcy?",
+"options": {
+"A": "tak",
+"B": "nie, to wyłącznie własność przemysłowa",
+"C": "tylko przy działalności badawczej",
+"D": "to wyłącznie informacja publiczna"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 4 I, s. 68"
+},
+{
+"id": 27,
+"question": "Wizerunek (np. godło) osoby prawnej jest według podręcznika dobrem osobistym tej osoby:",
+"options": {
+"A": "tak",
+"B": "nie, dobra osobiste dotyczą tylko osób fizycznych",
+"C": "tylko gdy zostanie zarejestrowane",
+"D": "tylko w prawie międzynarodowym"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 4 I, s. 68"
+},
+{
+"id": 28,
+"question": "Nazwa osoby prawnej jest uważana za dobro osobiste tej osoby:",
+"options": {
+"A": "tak",
+"B": "nie, jest to dobra materialne",
+"C": "tylko gdy zgłosi do rejestru znak towarowy",
+"D": "jedynie w ochronie konkurencji"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 4 II, s. 69"
+},
+{
+"id": 29,
+"question": "Prawo do firmy spółki kapitałowej w organizacji powstaje:",
+"options": {
+"A": "z chwilą zarejestrowania spółki w KRS",
+"B": "z chwilą powstania tej spółki w organizacji (art. 11 §3 KSH)",
+"C": "z chwilą podpisania umowy spółki",
+"D": "po wniesieniu pierwszego wkładu"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 4 II, s. 70"
+},
+{
+"id": 30,
+"question": "Prawo do firmy spółek osobowych (np. jawna, komandytowa) powstaje i jest chronione:",
+"options": {
+"A": "z chwilą wpisu do KRS, podobnie jak w spółkach kapitałowych",
+"B": "nie powstaje w ogóle",
+"C": "działają pod firmą i objęte są jej ochroną (art. 431^0 KC)",
+"D": "dopiero po zarejestrowaniu w CEIDG"
+},
+"type": "single",
+"correct": "C",
+"basis": "Rozdz. 1 § 4 I, s. 69"
+},
+{
+"id": 31,
+"question": "Zgodnie z art. 34 ustawy o KRS, podmioty wpisane do rejestru są zobowiązane umieszczać w oświadczeniach m.in.:",
+"options": {
+"A": "nazwę (firmę), formę prawną, siedzibę, adres i numer KRS",
+"B": "liczbę pracowników i adres e-mail",
+"C": "wysokość kapitału zakładowego",
+"D": "dane osobowe właściciela firmy"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 4 II, s. 70"
+},
+{
+"id": 32,
+"question": "Krajowy Rejestr Sądowy jest:",
+"options": {
+"A": "powszechnym, jednolitym i jawnym źródłem informacji o uczestnikach obrotu prawnego",
+"B": "tajnym spisem podatników",
+"C": "rejestrem pojazdów mechanicznych",
+"D": "wyłącznie bazą danych Urzędu Ochrony Konkurencji"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 3 I, s. 48"
+},
+{
+"id": 33,
+"question": "KRS nie objął rejestracją:",
+"options": {
+"A": "spółek handlowych mających osobowość prawną",
+"B": "osób fizycznych prowadzących działalność gospodarczą (w tym wspólników sp. cywilnych)",
+"C": "spółek kapitałowych z siedzibą zagranicą",
+"D": "spółek komandytowo-akcyjnych"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 3 I, s. 48"
+},
+{
+"id": 34,
+"question": "Centralną Ewidencję i Informację o Działalności Gospodarczej prowadzi:",
+"options": {
+"A": "minister sprawiedliwości",
+"B": "minister właściwy do spraw gospodarki",
+"C": "Urząd Skarbowy",
+"D": "wojewoda"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 3 I, s. 48"
+},
+{
+"id": 35,
+"question": "Wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG) ma na celu:",
+"options": {
+"A": "wzmocnienie pewności obrotu prawnego",
+"B": "nadzór służb porządkowych nad przedsiębiorcą",
+"C": "uzyskanie dotacji unijnych",
+"D": "prywatyzację przedsiębiorstwa"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 3 I, s. 49"
+},
+{
+"id": 36,
+"question": "Zgodnie z KSH, spółka jawna powstaje:",
+"options": {
+"A": "wraz z dokonaniem wpisu do rejestru przedsiębiorców",
+"B": "z chwilą zawarcia umowy między wspólnikami",
+"C": "z chwilą rozpoczęcia działalności gospodarczej",
+"D": "po upływie 30 dni od złożenia wniosku do sądu"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 251 KSH"
+},
+{
+"id": 37,
+"question": "Zgodnie z KSH, zgłoszenia spółki jawnej do rejestru (wpisu) ma prawo i obowiązek dokonać:",
+"options": {
+"A": "każdy ze wspólników",
+"B": "zarząd spółki",
+"C": "rada nadzorcza",
+"D": "prokurent"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 26 KSH"
+},
+{
+"id": 38,
+"question": "Subsydiarna odpowiedzialność wspólnika spółki jawnej nie dotyczy zobowiązań powstałych:",
+"options": {
+"A": "przed wpisem spółki do rejestru",
+"B": "po wpisie spółki do rejestru",
+"C": "ani przed, ani po rejestracji",
+"D": "tylko przed wpisem do rejestru"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 31 § 3 KSH"
+},
+{
+"id": 39,
+"question": "Pozbawienie wspólnika spółki jawnej prawa reprezentowania spółki może nastąpić:",
+"options": {
+"A": "tylko z ważnych powodów na mocy prawomocnego orzeczenia sądu",
+"B": "decyzją większości wśród wspólników",
+"C": "automatycznie z upływem 5 lat",
+"D": "jeśli wspólnik jest w związku małżeńskim"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 30 § 2 KSH"
+},
+{
+"id": 40,
+"question": "Spółka z ograniczoną odpowiedzialnością powstaje prawnie w chwili:",
+"options": {
+"A": "zawarcia umowy spółki u notariusza",
+"B": "wpisu do rejestru przedsiębiorców",
+"C": "wniesienia wkładów na kapitał zakładowy",
+"D": "przydzielenia udziałów"
+},
+"type": "single",
+"correct": "B",
+"basis": "Art. 163 KSH"
+},
+{
+"id": 41,
+"question": "Siedzibą spółki jest:",
+"options": {
+"A": "miejscowość wpisana w statucie lub umowie",
+"B": "miejsce zamieszkania prezesa zarządu",
+"C": "siedziba organu rejestrującego",
+"D": "żadne z wymienionych"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 3 KSH"
+},
+{
+"id": 42,
+"question": "W polskim Kodeksie spółek handlowych do spółek handlowych nie zalicza się:",
+"options": {
+"A": "spółki jawnej",
+"B": "spółki akcyjnej",
+"C": "spółki komandytowo-akcyjnej",
+"D": "spółki europejskiej (SE)"
+},
+"type": "single",
+"correct": "D",
+"basis": "Art. 2 KSH"
+},
+{
+"id": 43,
+"question": "Przedsiębiorcą według art. 431 Kodeksu cywilnego jest:",
+"options": {
+"A": "każdy obywatel wykonujący pracę na etacie",
+"B": "osoba fizyczna prowadząca działalność w sposób zarobkowy",
+"C": "jednostka administracyjna zatrudniająca pracowników",
+"D": "urząd rejestrowy prowadzący CEIDG"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 2 I, s. 4"
+},
+{
+"id": 44,
+"question": "Ustawa o swobodzie działalności gospodarczej definiuje działalność gospodarczą jako:",
+"options": {
+"A": "działalność na cele charytatywne",
+"B": "działalność hazardową",
+"C": "zorganizowaną działalność zarobkową, wykonywaną we własnym imieniu i w sposób ciągły",
+"D": "uprawę rolną przekraczającą 1 ha"
+},
+"type": "single",
+"correct": "C",
+"basis": "Rozdz. 1 § 2 I, s. 4"
+},
+{
+"id": 45,
+"question": "Wolność gospodarcza według Prawa przedsiębiorców obowiązuje:",
+"options": {
+"A": "tylko przedsiębiorców zagranicznych",
+"B": "każdego na równych prawach",
+"C": "tylko krajowych",
+"D": "wyłącznie spółki z o.o."
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 2 I, s. 4"
+},
+{
+"id": 46,
+"question": "Mikroprzedsiębiorca według definicji Komisji Europejskiej zatrudnia mniej niż:",
+"options": {
+"A": "10 osób",
+"B": "50 osób",
+"C": "250 osób",
+"D": "500 osób"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 2 II, s. 21"
+},
+{
+"id": 47,
+"question": "Mały przedsiębiorca zgodnie z definicją Komisji Europejskiej zatrudnia mniej niż:",
+"options": {
+"A": "10 pracowników",
+"B": "50 pracowników",
+"C": "250 pracowników",
+"D": "500 pracowników"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 2 II, s. 21"
+},
+{
+"id": 48,
+"question": "Według definicji Komisji Europejskiej, maksymalny roczny obrót małego przedsiębiorcy wynosi:",
+"options": {
+"A": "2 mln euro",
+"B": "10 mln euro",
+"C": "50 mln euro",
+"D": "100 mln euro"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 2 II, s. 21"
+},
+{
+"id": 49,
+"question": "Rozporządzenia wykonawcze do Kodeksu spółek handlowych są wymienione w podręczniku jako źródło prawa handlowego:",
+"options": {
+"A": "tak",
+"B": "nie",
+"C": "tylko te po 2000 roku",
+"D": "tylko te dotyczące spółek kapitałowych"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 1 II, s. 6"
+},
+{
+"id": 50,
+"question": "Prawo do nazwy osoby prawnej (firmy) jest uważane za dobro osobiste tej osoby:",
+"options": {
+"A": "tak",
+"B": "nie",
+"C": "tylko po rejestracji KRS",
+"D": "jedynie w obrocie międzynarodowym"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 4 II, s. 69"
+},
+{
+"id": 51,
+"question": "Spółka jawna może być zawiązana zgodnie z KSH przez:",
+"options": {
+"A": "co najmniej dwie osoby",
+"B": "jedną osobę",
+"C": "dowolną osobę prawną",
+"D": "radę nadzorczą"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 13 KSH"
+},
+{
+"id": 52,
+"question": "Minimalny kapitał zakładowy spółki z ograniczoną odpowiedzialnością wynosi:",
+"options": {
+"A": "5 000 zł",
+"B": "50 000 zł",
+"C": "100 000 zł",
+"D": "500 000 zł"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 151 KSH"
+},
+{
+"id": 53,
+"question": "Zgodnie z KSH, kapitał zakładowy w spółce jawnej:",
+"options": {
+"A": "nie jest wymagany i nie występuje",
+"B": "musi wynosić co najmniej 50 000 zł",
+"C": "może być, ale nie jest obowiązkowy",
+"D": "musi być równy wartości obrotów spółki"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 21 KSH"
+},
+{
+"id": 54,
+"question": "Prokurę może ustanowić zgodnie z kodeksem cywilnym:",
+"options": {
+"A": "każdy przedsiębiorca",
+"B": "tylko spółka z ograniczoną odpowiedzialnością",
+"C": "tylko spółka jawna",
+"D": "wyłącznie fundacja"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 109 KC"
+},
+{
+"id": 55,
+"question": "Zgodnie z KSH, spółka cywilna jest:",
+"options": {
+"A": "uznana za spółkę handlową",
+"B": "uznana za wyłącznie umowę cywilnoprawną (nie handlową)",
+"C": "formą działalności wymagającą rejestracji w KRS",
+"D": "kapitałową spółką handlową"
+},
+"type": "single",
+"correct": "B",
+"basis": "Art. 2 KSH"
+},
+{
+"id": 56,
+"question": "Spółka partnerska jest według KSH spółką:",
+"options": {
+"A": "osobową",
+"B": "kapitałową",
+"C": "kapitałowo-osobową",
+"D": "nie jest spółką handlową"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 4 KSH"
+},
+{
+"id": 57,
+"question": "Spółka komandytowo-akcyjna jest według KSH spółką:",
+"options": {
+"A": "osobową",
+"B": "kapitałową",
+"C": "mieszaną (kombinacją osobowej i kapitałowej)",
+"D": "cywilną"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 4 KSH"
+},
+{
+"id": 58,
+"question": "Prosta spółka akcyjna (PSA) jest według KSH spółką:",
+"options": {
+"A": "kapitałową",
+"B": "osobową",
+"C": "cywilną",
+"D": "spółdzielnią"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 4 KSH"
+},
+{
+"id": 59,
+"question": "Minimalny kapitał zakładowy spółki akcyjnej wynosi:",
+"options": {
+"A": "100 000 zł",
+"B": "50 000 zł",
+"C": "20 000 zł",
+"D": "10 000 zł"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 310 § 1 KSH"
+},
+{
+"id": 60,
+"question": "Umowa spółki z ograniczoną odpowiedzialnością wymaga formy:",
+"options": {
+"A": "aktu notarialnego",
+"B": "pisemnej z podpisami wspólników",
+"C": "dowolnego dokumentu pisemnego",
+"D": "zgody Rady Ministrów"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 154 § 1 KSH"
+},
+{
+"id": 61,
+"question": "Firma osoby prawnej (np. sp. z o.o.) zawiera:",
+"options": {
+"A": "jej nazwę wraz z określeniem formy prawnej",
+"B": "dowolną nazwę marketingową",
+"C": "tylko adres siedziby",
+"D": "nazwisko członka zarządu"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 432 KC"
+},
+{
+"id": 62,
+"question": "Zgodnie z art. 431 Kodeksu cywilnego, przedsiębiorcą może być:",
+"options": {
+"A": "osoba fizyczna, osoba prawna oraz jednostka organizacyjna niemająca osobowości prawnej",
+"B": "tylko osoba fizyczna",
+"C": "tylko osoba prawna",
+"D": "jednostka administracyjna"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 431 KC"
+},
+{
+"id": 63,
+"question": "Prawo przedsiębiorców (6.3.2018) wymienia, że działalność gospodarcza jest wolna:",
+"options": {
+"A": "tylko po uzyskaniu koncesji",
+"B": "dla każdego na równych prawach",
+"C": "tylko po uzyskaniu zezwolenia",
+"D": "tylko dla spółek kapitałowych"
+},
+"type": "single",
+"correct": "B",
+"basis": "Rozdz. 1 § 2 I, s. 4"
+},
+{
+"id": 64,
+"question": "Definicja konsumenta w Kodeksie cywilnym (art. 221 KC) nie obejmuje:",
+"options": {
+"A": "osoby fizycznej zawierającej umowę nieprofesjonalnie",
+"B": "wspólnika spółki cywilnej",
+"C": "konsumenta zagranicznego",
+"D": "studenta kupującego laptopa do użytku własnego"
+},
+"type": "single",
+"correct": "B",
+"basis": "Art. 221 KC"
+},
+{
+"id": 65,
+"question": "Ochrona firmy spółek osobowych opiera się na:",
+"options": {
+"A": "przepisach o firmie przedsiębiorcy (Kc)",
+"B": "rozporządzeniu wykonawczym do KSH",
+"C": "Kodeksie handlowym przed 2000 r.",
+"D": "ustawie o firmach handlowych"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 431^0 KC"
+},
+{
+"id": 66,
+"question": "Zgodnie z art. 36 KRS, przedsiębiorcą rejestrowym NIE jest:",
+"options": {
+"A": "spółka jawna",
+"B": "spółka cywilna",
+"C": "spółka z o.o.",
+"D": "spółka akcyjna"
+},
+"type": "single",
+"correct": "B",
+"basis": "Art. 36 KRS"
+},
+{
+"id": 67,
+"question": "Na podstawie rozporządzenia Ministra Sprawiedliwości, przedsiębiorcy wpisani do KRS muszą podać w CEIDG m.in.:",
+"options": {
+"A": "numer KRS",
+"B": "wysokość kapitału zakładowego",
+"C": "liczbę wspólników",
+"D": "pełnomocnictwa prokurenta"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 5 KRSU"
+},
+{
+"id": 68,
+"question": "Zgłoszenia spółki z o.o. do rejestru przedsiębiorców dokonuje:",
+"options": {
+"A": "zarząd spółki",
+"B": "rada nadzorcza",
+"C": "każdy wspólnik",
+"D": "notariusz"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 164 § 1 KSH"
+},
+{
+"id": 69,
+"question": "Spółka jawna może zostać wpisana do KRS, jeśli:",
+"options": {
+"A": "posiada przedsiębiorstwo w większym rozmiarze",
+"B": "zawiera umowę w formie aktu notarialnego",
+"C": "zawiera umowę w dowolnej formie",
+"D": "sąd uzna to za konieczne"
+},
+"type": "single",
+"correct": "B",
+"basis": "Art. 25 KSH"
+},
+{
+"id": 70,
+"question": "Tajemnica przedsiębiorstwa jest chroniona jako dobro osobiste:",
+"options": {
+"A": "każdego przedsiębiorcy",
+"B": "tylko osób fizycznych",
+"C": "tylko pracowników przedsiębiorstwa",
+"D": "jedynie w prawie pracy"
+},
+"type": "single",
+"correct": "A",
+"basis": "Art. 43 KC"
+},
+{
+"id": 71,
+"question": "Prawo przedsiębiorców definiuje działalność gospodarczą jako działalność:",
+"options": {
+"A": "zarobkową, ciągłą, we własnym imieniu i zorganizowaną",
+"B": "tylko zarobkową i zorganizowaną, bez innych warunków",
+"C": "zmienną, niestałą i sezonową",
+"D": "dowolną, jeśli prowadzona jest przez przedsiębiorcę"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 2 I, s. 4"
+},
+{
+"id": 72,
+"question": "Prawo przedsiębiorców wymaga, aby działalność gospodarcza była wykonywana:",
+"options": {
+"A": "w sposób ciągły",
+"B": "wyłącznie sezonowo",
+"C": "tylko przez krótki okres",
+"D": "tylko kilka razy w roku"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 2 I, s. 4"
+},
+{
+"id": 73,
+"question": "Działalność gospodarcza musi być według ustawy wykonywana:",
+"options": {
+"A": "we własnym imieniu",
+"B": "w imieniu innego przedsiębiorcy",
+"C": "w imieniu publicznym",
+"D": "w ustalonej strefie czasowej"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 2 I, s. 4"
+},
+{
+"id": 74,
+"question": "Prawo restrukturyzacyjne (ustawa z 15.5.2015) według podręcznika jest uznawane za źródło prawa handlowego:",
+"options": {
+"A": "tak",
+"B": "nie",
+"C": "jedynie częściowo (dotyczy głównie prawa cywilnego)",
+"D": "tylko w odniesieniu do spółek komandytowych"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 1 II, s. 6"
+},
+{
+"id": 75,
+"question": "Prawo upadłościowe (ustawa z 28.2.2003) jest według podręcznika uznawane za źródło prawa handlowego:",
+"options": {
+"A": "tak",
+"B": "nie",
+"C": "tylko częściowo",
+"D": "tylko dla osób fizycznych"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 1 II, s. 6"
+},
+{
+"id": 76,
+"question": "Kodeks cywilny i Kodeks spółek handlowych należą do najważniejszych źródeł prawa handlowego:",
+"options": {
+"A": "tak",
+"B": "nie, KC nie jest źródłem prawa handlowego",
+"C": "tak, lecz dopiero od 2003 r.",
+"D": "tylko KSH, nie KC"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 1 II, s. 6"
+},
+{
+"id": 77,
+"question": "Kodeks postępowania cywilnego jest wymieniony w podręczniku jako źródło prawa handlowego:",
+"options": {
+"A": "tak",
+"B": "nie",
+"C": "tylko do spraw o wartości do 75 tys. zł",
+"D": "tylko dla przedsiębiorców krajowych"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 1 II, s. 6"
+},
+{
+"id": 78,
+"question": "Prawo przedsiębiorców (6.3.2018) jest wymienione w podręczniku jako źródło prawa handlowego:",
+"options": {
+"A": "tak",
+"B": "nie",
+"C": "jedynie przez analogię",
+"D": "tylko dla przedsiębiorców publicznych"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 1 II, s. 6"
+},
+{
+"id": 79,
+"question": "Ustawa o zwalczaniu nieuczciwej konkurencji z 16.4.1993 jest według podręcznika:",
+"options": {
+"A": "źródłem prawa handlowego z drugiej grupy aktów",
+"B": "częścią konstytucji gospodarczej",
+"C": "bez znaczenia dla prawa handlowego",
+"D": "aktem prawa wewnętrznego"
+},
+"type": "single",
+"correct": "A",
+"basis": "Rozdz. 1 § 1 II, s. 6"
+}
+]
+}
